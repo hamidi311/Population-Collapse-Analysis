@@ -1,0 +1,3360 @@
+Year,Country Name,Fertility Rate,Population Over 65,Status
+2010,Aruba,1.941,9.489229724,At Risk of collapsing
+2010,Africa Eastern and Southern,5.042842771,2.948241908,Growing
+2010,Afghanistan,6.099,2.306614901,Growing
+2010,Africa Western and Central,5.702781791,2.953771184,Growing
+2010,Angola,6.194,2.729902457,Growing
+2010,Albania,1.656,10.92005505,At Risk of collapsing
+2010,Andorra,1.27,12.74378609,At Risk of collapsing
+2010,Arab World,3.538695137,3.64403455,Growing
+2010,United Arab Emirates,1.79,1.421942034,At Risk of collapsing
+2010,Argentina,2.346,10.40210318,Growing
+2010,Armenia,1.501,10.72475724,At Risk of collapsing
+2010,Antigua and Barbuda,1.785,7.153614899,At Risk of collapsing
+2010,Australia,1.928,13.52928938,At Risk of collapsing
+2010,Austria,1.44,17.65924497,Collapsing
+2010,Azerbaijan,1.92,5.887884578,At Risk of collapsing
+2010,Burundi,6.26,2.273873642,Growing
+2010,Belgium,1.86,17.11726346,Collapsing
+2010,Benin,5.39,3.06378658,Growing
+2010,Burkina Faso,5.936,2.700275424,Growing
+2010,Bangladesh,2.34,4.209254661,Growing
+2010,Bulgaria,1.57,18.14722857,Collapsing
+2010,Bahrain,2.053,2.150474266,At Risk of collapsing
+2010,"Bahamas, The",1.835,9.156751094,At Risk of collapsing
+2010,Bosnia and Herzegovina,1.276,15.11450368,Collapsing
+2010,Belarus,1.494,13.94548682,At Risk of collapsing
+2010,Belize,2.606,3.986947493,Growing
+2010,Bermuda,1.7,13.4624287,At Risk of collapsing
+2010,Bolivia,3.213,5.452201826,Growing
+2010,Brazil,1.81,6.666886093,At Risk of collapsing
+2010,Barbados,1.687,11.81789942,At Risk of collapsing
+2010,Brunei Darussalam,1.937,3.434845998,At Risk of collapsing
+2010,Bhutan,2.296,5.114860782,Growing
+2010,Botswana,3.023,3.398585566,Growing
+2010,Central African Republic,5.937,1.858147866,Growing
+2010,Canada,1.65,14.10940235,At Risk of collapsing
+2010,Central Europe and the Baltics,1.461834481,15.24194897,Collapsing
+2010,Switzerland,1.52,16.82963819,Collapsing
+2010,Channel Islands,1.633,15.52988274,Collapsing
+2010,Chile,1.844,9.997663761,At Risk of collapsing
+2010,China,1.687,8.661471438,At Risk of collapsing
+2010,Cote d'Ivoire,5.088,2.305998811,Growing
+2010,Cameroon,5.16,3.00754787,Growing
+2010,"Congo, Dem. Rep.",6.587,3.113791451,Growing
+2010,"Congo, Rep.",4.822,2.752700967,Growing
+2010,Colombia,1.992,5.84187164,At Risk of collapsing
+2010,Comoros,4.759,4.205404101,Growing
+2010,Cabo Verde,2.474,4.907956205,Growing
+2010,Costa Rica,1.928,7.370133904,At Risk of collapsing
+2010,Caribbean small states,2.272764302,6.848788813,Growing
+2010,Cuba,1.693,12.6387608,At Risk of collapsing
+2010,Curacao,2.2,11.93563192,Growing
+2010,Cyprus,1.438,11.31828626,At Risk of collapsing
+2010,Czechia,1.51,15.45900241,Collapsing
+2010,Germany,1.39,20.56544535,Collapsing
+2010,Djibouti,3.39,3.666696587,Growing
+2010,Dominica,1.915,11.10973954,At Risk of collapsing
+2010,Denmark,1.87,16.55744893,Collapsing
+2010,Dominican Republic,2.538,5.061859896,Growing
+2010,Algeria,2.843,4.893586204,Growing
+2010,East Asia & Pacific (excluding high income),1.908795357,7.72346432,At Risk of collapsing
+2010,Early-demographic dividend,2.809782041,4.86077511,Growing
+2010,East Asia & Pacific,1.856007548,8.800601898,At Risk of collapsing
+2010,Europe & Central Asia (excluding high income),2.054097742,9.099334784,At Risk of collapsing
+2010,Europe & Central Asia,1.728725368,14.53156145,At Risk of collapsing
+2010,Ecuador,2.615,5.842802418,Growing
+2010,"Egypt, Arab Rep.",3.213,3.929865858,Growing
+2010,Euro area,1.578781698,18.30927938,Collapsing
+2010,Eritrea,4.571,3.660328472,Growing
+2010,Spain,1.37,16.89246019,Collapsing
+2010,Estonia,1.72,17.44029153,Collapsing
+2010,Ethiopia,5.217,2.743476123,Growing
+2010,European Union,1.566252798,17.65375975,Collapsing
+2010,Fragile and conflict affected situations,4.881011931,3.856586459,Growing
+2010,Finland,1.87,17.25941648,Collapsing
+2010,Fiji,2.746,4.502267637,Growing
+2010,France,2.03,16.78228182,Collapsing
+2010,Faroe Islands,2.5117,14.86210154,Growing
+2010,"Micronesia, Fed. Sts.",3.236,3.254618071,Growing
+2010,Gabon,4.153,4.233262921,Growing
+2010,United Kingdom,1.92,16.33838537,Collapsing
+2010,Georgia,1.919,13.75291025,At Risk of collapsing
+2010,Ghana,4.206,3.379786794,Growing
+2010,Gibraltar,1.838,15.58019713,Collapsing
+2010,Guinea,5.397,3.650474804,Growing
+2010,"Gambia, The",5.669,2.656556437,Growing
+2010,Guinea-Bissau,5.061,2.839250447,Growing
+2010,Equatorial Guinea,5.209,3.384198775,Growing
+2010,Greece,1.48,19.15788963,Collapsing
+2010,Grenada,2.24,9.635617371,Growing
+2010,Greenland,2.195,6.856900617,Growing
+2010,Guatemala,3.375,3.898393892,Growing
+2010,Guam,2.973,6.552307059,Growing
+2010,Guyana,2.655,4.613373391,Growing
+2010,High income,1.678693903,15.14063426,Collapsing
+2010,"Hong Kong SAR, China",1.127,13.19757176,At Risk of collapsing
+2010,Honduras,2.957,3.049452971,Growing
+2010,Heavily indebted poor countries (HIPC),5.42852364,2.83339404,Growing
+2010,Croatia,1.46,17.87755146,Collapsing
+2010,Haiti,3.47,3.914556679,Growing
+2010,Hungary,1.25,16.49832949,Collapsing
+2010,IBRD only,2.181699717,6.967844072,Growing
+2010,IDA & IBRD total,2.709852087,6.08102293,Growing
+2010,IDA total,4.506328772,3.348549212,Growing
+2010,IDA blend,4.729974378,3.329185915,Growing
+2010,Indonesia,2.452,5.881117542,Growing
+2010,IDA only,4.394220279,3.358412241,Growing
+2010,Isle of Man,2.17,17.58670848,At Risk of collapsing
+2010,India,2.603,4.940447191,Growing
+2010,Ireland,2.05,11.37835923,At Risk of collapsing
+2010,"Iran, Islamic Rep.",1.768,5.15944915,At Risk of collapsing
+2010,Iraq,4.429,2.998742228,Growing
+2010,Iceland,2.2,12.13516555,Growing
+2010,Israel,3.03,9.897788321,Growing
+2010,Italy,1.46,20.45896121,Collapsing
+2010,Jamaica,1.742,5.983735164,At Risk of collapsing
+2010,Jordan,3.778,3.454015315,Growing
+2010,Japan,1.39,23.09802588,Collapsing
+2010,Kazakhstan,2.59,6.504260412,Growing
+2010,Kenya,4.367,2.091283602,Growing
+2010,Kyrgyz Republic,3.1,4.448154649,Growing
+2010,Cambodia,2.774,3.87951955,Growing
+2010,Kiribati,3.876,3.602443332,Growing
+2010,St. Kitts and Nevis,1.762,7.465872584,At Risk of collapsing
+2010,"Korea, Rep.",1.226,10.99169442,At Risk of collapsing
+2010,Kuwait,2.257,1.814347934,Growing
+2010,Latin America & Caribbean (excluding high income),2.190821058,6.621495755,Growing
+2010,Lao PDR,3.145,3.781720295,Growing
+2010,Lebanon,2.126,5.944324149,Growing
+2010,Liberia,5.058,3.257996644,Growing
+2010,Libya,2.603,4.027700594,Growing
+2010,St. Lucia,1.538,7.369234055,At Risk of collapsing
+2010,Latin America & Caribbean,2.191534608,6.780737761,Growing
+2010,Least developed countries: UN classification,4.574489258,3.248327011,Growing
+2010,Low income,5.393427008,3.063155477,Growing
+2010,Liechtenstein,1.4,13.83113185,At Risk of collapsing
+2010,Sri Lanka,2.196,7.427227788,Growing
+2010,Lower middle income,3.154447454,4.398164832,Growing
+2010,Low & middle income,2.752706744,5.815618832,Growing
+2010,Lesotho,3.249,4.234612782,Growing
+2010,Late-demographic dividend,1.743095873,8.629558088,At Risk of collapsing
+2010,Lithuania,1.5,17.60977713,Collapsing
+2010,Luxembourg,1.63,13.99184092,At Risk of collapsing
+2010,Latvia,1.36,18.25444948,Collapsing
+2010,"Macao SAR, China",1.042,6.963506931,At Risk of collapsing
+2010,St. Martin (French part),2.397,5.403462123,Growing
+2010,Morocco,2.586,5.162106754,Growing
+2010,Moldova,1.698,10.68138513,At Risk of collapsing
+2010,Madagascar,4.755,2.665887944,Growing
+2010,Maldives,2.318,4.443834675,Growing
+2010,Middle East & North Africa,2.913652304,4.203038673,Growing
+2010,Mexico,2.34,6.097501322,Growing
+2010,Marshall Islands,3.632,2.055011673,Growing
+2010,Middle income,2.518140233,6.094742611,Growing
+2010,North Macedonia,1.6,11.61408332,At Risk of collapsing
+2010,Mali,6.579,2.812050374,Growing
+2010,Malta,1.36,15.09698912,Collapsing
+2010,Myanmar,2.346,5.244734141,Growing
+2010,Middle East & North Africa (excluding high income),2.94446267,4.299403441,Growing
+2010,Montenegro,1.7,13.31957471,At Risk of collapsing
+2010,Mongolia,2.513,3.799470118,Growing
+2010,Mozambique,5.63,2.702179007,Growing
+2010,Mauritania,5.043,3.545407214,Growing
+2010,Mauritius,1.57,7.188221495,At Risk of collapsing
+2010,Malawi,5.274,3.598815173,Growing
+2010,Malaysia,2.144,4.948698563,Growing
+2010,North America,1.902393702,12.97011115,At Risk of collapsing
+2010,Namibia,3.63,3.418387576,Growing
+2010,New Caledonia,2.2,7.65132922,Growing
+2010,Niger,7.485,2.393050701,Growing
+2010,Nigeria,5.98,3.014370511,Growing
+2010,Nicaragua,2.601,4.394051364,Growing
+2010,Netherlands,1.79,15.27907158,Collapsing
+2010,Norway,1.95,14.98027678,At Risk of collapsing
+2010,Nepal,2.512,4.730494283,Growing
+2010,Nauru,3.907,1.339241263,Growing
+2010,New Zealand,2.17,12.98321749,Growing
+2010,OECD members,1.795414729,14.35671035,At Risk of collapsing
+2010,Oman,2.943,2.653542445,Growing
+2010,Other small states,2.530945125,7.387355024,Growing
+2010,Pakistan,4.297,3.691296265,Growing
+2010,Panama,2.604,6.285098532,Growing
+2010,Peru,2.573,7.194093712,Growing
+2010,Philippines,3.264,3.341359834,Growing
+2010,Papua New Guinea,3.883,2.711755765,Growing
+2010,Poland,1.41,13.57078829,At Risk of collapsing
+2010,Pre-demographic dividend,5.667964821,2.76323835,Growing
+2010,Puerto Rico,1.6235,16.04598426,Collapsing
+2010,"Korea, Dem. People's Rep.",1.809,9.796957117,At Risk of collapsing
+2010,Portugal,1.39,18.51770451,Collapsing
+2010,Paraguay,2.73,4.9860042,Growing
+2010,West Bank and Gaza,4.383,2.895891138,Growing
+2010,Pacific island small states,3.569654727,4.065174534,Growing
+2010,Post-demographic dividend,1.662540917,16.23995777,Collapsing
+2010,French Polynesia,2.162,6.212949959,Growing
+2010,Qatar,2.087,0.862464637,At Risk of collapsing
+2010,Romania,1.59,15.83999647,Collapsing
+2010,Russian Federation,1.567,12.70061131,At Risk of collapsing
+2010,Rwanda,4.532,2.73524145,Growing
+2010,South Asia,2.812779111,4.708135062,Growing
+2010,Saudi Arabia,2.853,2.39668649,Growing
+2010,Sudan,5.017,2.586639934,Growing
+2010,Senegal,5.064,3.568150229,Growing
+2010,Singapore,1.15,7.337236021,At Risk of collapsing
+2010,Solomon Islands,4.404,3.470283394,Growing
+2010,Sierra Leone,5.327,3.284250248,Growing
+2010,El Salvador,2.239,6.719120564,Growing
+2010,Somalia,7.299,2.426145063,Growing
+2010,Serbia,1.4,17.37595382,Collapsing
+2010,Sub-Saharan Africa (excluding high income),5.30694961,2.950065445,Growing
+2010,South Sudan,5.376,2.538725431,Growing
+2010,Sub-Saharan Africa,5.306594513,2.950493738,Growing
+2010,Small states,2.621034869,6.864438261,Growing
+2010,Sao Tome and Principe,4.727,3.693578729,Growing
+2010,Suriname,2.61,5.847182242,Growing
+2010,Slovak Republic,1.43,12.44782172,At Risk of collapsing
+2010,Slovenia,1.57,16.36806886,Collapsing
+2010,Sweden,1.98,18.2772883,Collapsing
+2010,Eswatini,3.356,2.954617011,Growing
+2010,Sint Maarten (Dutch part),1.846,5.023006702,At Risk of collapsing
+2010,Seychelles,2.16,7.218519337,Growing
+2010,Syrian Arab Republic,3.404,3.431976997,Growing
+2010,Turks and Caicos Islands,1.686,6.417498907,At Risk of collapsing
+2010,Chad,6.99,2.233363046,Growing
+2010,East Asia & Pacific (IDA & IBRD countries),1.91005421,7.696828302,At Risk of collapsing
+2010,Europe & Central Asia (IDA & IBRD countries),1.813113215,11.18912622,At Risk of collapsing
+2010,Togo,5.007,2.738403794,Growing
+2010,Thailand,1.576,8.577607016,At Risk of collapsing
+2010,Tajikistan,3.457,3.185376693,Growing
+2010,Turkmenistan,2.833,3.768639174,Growing
+2010,Latin America & the Caribbean (IDA & IBRD countries),2.204894334,6.600429569,Growing
+2010,Timor-Leste,4.845,4.426745412,Growing
+2010,Middle East & North Africa (IDA & IBRD countries),2.930062498,4.314757752,Growing
+2010,Tonga,3.889,5.769579933,Growing
+2010,South Asia (IDA & IBRD),2.812779111,4.708135062,Growing
+2010,Sub-Saharan Africa (IDA & IBRD countries),5.306594513,2.950493738,Growing
+2010,Trinidad and Tobago,1.701,6.222677034,At Risk of collapsing
+2010,Tunisia,2.105,6.50045328,Growing
+2010,Turkiye,2.137,7.195025182,Growing
+2010,Tuvalu,3.49,5.42208404,Growing
+2010,Tanzania,5.293,2.808591331,Growing
+2010,Uganda,6.071,1.963892434,Growing
+2010,Ukraine,1.443,14.89951487,At Risk of collapsing
+2010,Upper middle income,1.936184285,7.771205229,At Risk of collapsing
+2010,Uruguay,2.011,14.1874838,At Risk of collapsing
+2010,United States,1.931,12.84476166,At Risk of collapsing
+2010,Uzbekistan,2.342,4.798862758,Growing
+2010,St. Vincent and the Grenadines,2.133,8.468649536,Growing
+2010,"Venezuela, RB",2.471,5.738323688,Growing
+2010,British Virgin Islands,1.183,5.891492475,At Risk of collapsing
+2010,Virgin Islands (U.S.),2.3,13.69190394,Growing
+2010,Viet Nam,1.895,6.046892504,At Risk of collapsing
+2010,Vanuatu,4.15,3.206119686,Growing
+2010,World,2.562516701,7.578233835,Growing
+2010,Samoa,4.608,4.881555259,Growing
+2010,Kosovo,2.426,6.791223443,Growing
+2010,"Yemen, Rep.",4.855,2.751739369,Growing
+2010,South Africa,2.445,5.247369945,Growing
+2010,Zambia,5.363,1.833362763,Growing
+2010,Zimbabwe,4.025,3.102100299,Growing
+2011,Aruba,1.962,9.850863034,At Risk of collapsing
+2011,Africa Eastern and Southern,4.965039641,2.951663664,Growing
+2011,Afghanistan,5.958,2.322140455,Growing
+2011,Africa Western and Central,5.648545888,2.952036693,Growing
+2011,Angola,6.12,2.728259601,Growing
+2011,Albania,1.671,11.2281831,At Risk of collapsing
+2011,Arab World,3.54113796,3.668390833,Growing
+2011,United Arab Emirates,1.724,1.431434059,At Risk of collapsing
+2011,Argentina,2.338,10.51609404,Growing
+2011,Armenia,1.5,10.64489242,At Risk of collapsing
+2011,Antigua and Barbuda,1.746,7.297409999,At Risk of collapsing
+2011,Australia,1.926,13.79881471,At Risk of collapsing
+2011,Austria,1.43,17.73606711,Collapsing
+2011,Azerbaijan,1.96,5.742814237,At Risk of collapsing
+2011,Burundi,6.108,2.256462198,Growing
+2011,Belgium,1.81,17.25106051,Collapsing
+2011,Benin,5.366,3.06346378,Growing
+2011,Burkina Faso,5.869,2.700846146,Growing
+2011,Bangladesh,2.262,4.343773542,Growing
+2011,Bulgaria,1.51,18.51908361,Collapsing
+2011,Bahrain,2.093,2.235176444,At Risk of collapsing
+2011,"Bahamas, The",1.739,9.405507776,At Risk of collapsing
+2011,Bosnia and Herzegovina,1.216,15.45365563,Collapsing
+2011,Belarus,1.515,13.7427575,At Risk of collapsing
+2011,Belize,2.585,3.973443162,Growing
+2011,Bermuda,1.6,13.94421998,At Risk of collapsing
+2011,Bolivia,3.143,5.491548932,Growing
+2011,Brazil,1.8,6.882000293,At Risk of collapsing
+2011,Barbados,1.665,11.95140853,At Risk of collapsing
+2011,Brunei Darussalam,1.957,3.483700707,At Risk of collapsing
+2011,Bhutan,2.21,5.212108653,Growing
+2011,Botswana,2.999,3.398134924,Growing
+2011,Central African Republic,5.963,1.866453422,Growing
+2011,Canada,1.63,14.42968082,At Risk of collapsing
+2011,Central Europe and the Baltics,1.39336105,15.45068298,Collapsing
+2011,Switzerland,1.52,17.05082962,Collapsing
+2011,Channel Islands,1.626,15.83216713,Collapsing
+2011,Chile,1.823,10.20350003,At Risk of collapsing
+2011,China,1.668,8.859168729,At Risk of collapsing
+2011,Cote d'Ivoire,5.029,2.36425251,Growing
+2011,Cameroon,5.058,2.979186231,Growing
+2011,"Congo, Dem. Rep.",6.582,3.127551917,Growing
+2011,"Congo, Rep.",4.791,2.716485846,Growing
+2011,Colombia,1.958,6.057648879,At Risk of collapsing
+2011,Comoros,4.721,4.17726957,Growing
+2011,Cabo Verde,2.471,4.885652752,Growing
+2011,Costa Rica,1.902,7.612683583,At Risk of collapsing
+2011,Caribbean small states,2.239326994,6.962736809,Growing
+2011,Cuba,1.756,12.94094865,At Risk of collapsing
+2011,Curacao,2.1,12.37654983,Growing
+2011,Cyprus,1.36,11.55249598,At Risk of collapsing
+2011,Czechia,1.43,15.8988257,Collapsing
+2011,Germany,1.39,20.52149813,Collapsing
+2011,Djibouti,3.305,3.748428535,Growing
+2011,Dominica,1.871,10.9342756,At Risk of collapsing
+2011,Denmark,1.75,17.07635587,Collapsing
+2011,Dominican Republic,2.513,5.162281714,Growing
+2011,Algeria,2.88,4.909491274,Growing
+2011,East Asia & Pacific (excluding high income),1.896415617,7.876114343,At Risk of collapsing
+2011,Early-demographic dividend,2.765737851,4.922629711,Growing
+2011,East Asia & Pacific,1.847620507,8.974733552,At Risk of collapsing
+2011,Europe & Central Asia (excluding high income),2.045777201,8.997991995,At Risk of collapsing
+2011,Europe & Central Asia,1.713496566,14.59351982,At Risk of collapsing
+2011,Ecuador,2.596,5.975469565,Growing
+2011,"Egypt, Arab Rep.",3.247,3.968255144,Growing
+2011,Euro area,1.559750281,18.49120562,Collapsing
+2011,Eritrea,4.486,3.712308049,Growing
+2011,Spain,1.34,17.16870548,Collapsing
+2011,Estonia,1.61,17.5716414,Collapsing
+2011,Ethiopia,5.05,2.783358921,Growing
+2011,European Union,1.532394524,17.85051801,Collapsing
+2011,Fragile and conflict affected situations,4.842731956,3.832540746,Growing
+2011,Finland,1.83,17.82139106,Collapsing
+2011,Fiji,2.685,4.650880049,Growing
+2011,France,2.01,17.05547201,Collapsing
+2011,Faroe Islands,2.2844,15.30541995,At Risk of collapsing
+2011,"Micronesia, Fed. Sts.",3.18,3.308789393,Growing
+2011,Gabon,4.151,4.17815082,Growing
+2011,United Kingdom,1.91,16.58746499,Collapsing
+2011,Georgia,1.918,13.61385563,At Risk of collapsing
+2011,Ghana,4.193,3.369980971,Growing
+2011,Gibraltar,1.872,16.03758686,Collapsing
+2011,Guinea,5.296,3.612685222,Growing
+2011,"Gambia, The",5.64,2.660824631,Growing
+2011,Guinea-Bissau,5.047,2.812521668,Growing
+2011,Equatorial Guinea,5.126,3.335707507,Growing
+2011,Greece,1.4,19.50738616,Collapsing
+2011,Grenada,2.217,9.713684098,Growing
+2011,Greenland,2.117,7.054693892,Growing
+2011,Guatemala,3.292,3.934681328,Growing
+2011,Guam,2.865,6.870898206,Growing
+2011,Guyana,2.63,4.769464172,Growing
+2011,High income,1.664550024,15.3232149,Collapsing
+2011,"Hong Kong SAR, China",1.204,13.48694685,At Risk of collapsing
+2011,Honduras,2.86,3.091404884,Growing
+2011,Heavily indebted poor countries (HIPC),5.345696798,2.837851398,Growing
+2011,Croatia,1.41,17.94820343,Collapsing
+2011,Haiti,3.411,3.925348341,Growing
+2011,Hungary,1.23,16.70261418,Collapsing
+2011,IBRD only,2.161623553,7.063409007,Growing
+2011,IDA & IBRD total,2.685895819,6.150402925,Growing
+2011,IDA total,4.440464577,3.3726893,Growing
+2011,IDA blend,4.662517098,3.340591865,Growing
+2011,Indonesia,2.499,5.929751915,Growing
+2011,IDA only,4.329147853,3.389074286,Growing
+2011,Isle of Man,1.956,17.99306728,Collapsing
+2011,India,2.536,5.012405739,Growing
+2011,Ireland,2.03,11.71715231,At Risk of collapsing
+2011,"Iran, Islamic Rep.",1.8,5.28817773,At Risk of collapsing
+2011,Iraq,4.536,3.0001455,Growing
+2011,Iceland,2.02,12.45076566,At Risk of collapsing
+2011,Israel,2.98,10.07374158,Growing
+2011,Italy,1.44,20.68793389,Collapsing
+2011,Jamaica,1.728,6.085868342,At Risk of collapsing
+2011,Jordan,3.681,3.515007973,Growing
+2011,Japan,1.39,23.65273951,Collapsing
+2011,Kazakhstan,2.59,6.379244349,Growing
+2011,Kenya,4.219,2.131569937,Growing
+2011,Kyrgyz Republic,3.1,4.400517648,Growing
+2011,Cambodia,2.701,3.995270124,Growing
+2011,Kiribati,3.857,3.603334915,Growing
+2011,St. Kitts and Nevis,1.74,7.437267385,At Risk of collapsing
+2011,"Korea, Rep.",1.244,11.35038362,At Risk of collapsing
+2011,Kuwait,2.2,1.865973871,Growing
+2011,Latin America & Caribbean (excluding high income),2.172087131,6.773707157,Growing
+2011,Lao PDR,3.049,3.865525885,Growing
+2011,Lebanon,2.162,6.040978446,Growing
+2011,Liberia,4.97,3.249838878,Growing
+2011,Libya,2.646,4.21015219,Growing
+2011,St. Lucia,1.522,7.500247379,At Risk of collapsing
+2011,Latin America & Caribbean,2.172788785,6.933149514,Growing
+2011,Least developed countries: UN classification,4.504623331,3.276364953,Growing
+2011,Low income,5.308007512,3.07137931,Growing
+2011,Liechtenstein,1.69,14.26129392,At Risk of collapsing
+2011,Sri Lanka,2.206,7.680048139,Growing
+2011,Lower middle income,3.099358033,4.449891515,Growing
+2011,Low & middle income,2.727592611,5.8920339,Growing
+2011,Lesotho,3.318,4.127315221,Growing
+2011,Late-demographic dividend,1.730518181,8.785546739,At Risk of collapsing
+2011,Lithuania,1.55,17.98849418,Collapsing
+2011,Luxembourg,1.52,13.95829798,At Risk of collapsing
+2011,Latvia,1.33,18.47547612,Collapsing
+2011,"Macao SAR, China",1.115,7.172718705,At Risk of collapsing
+2011,St. Martin (French part),2.41,5.692164506,Growing
+2011,Morocco,2.609,5.260974999,Growing
+2011,Moldova,1.66,10.54437593,At Risk of collapsing
+2011,Madagascar,4.607,2.659317918,Growing
+2011,Maldives,2.261,4.35566831,Growing
+2011,Middle East & North Africa,2.931940834,4.250702645,Growing
+2011,Mexico,2.317,6.183298219,Growing
+2011,Marshall Islands,3.51,2.074844676,Growing
+2011,Middle income,2.494006897,6.182513195,Growing
+2011,North Macedonia,1.46,11.80896525,At Risk of collapsing
+2011,Mali,6.545,2.774926554,Growing
+2011,Malta,1.45,15.81394089,Collapsing
+2011,Myanmar,2.312,5.290080984,Growing
+2011,Middle East & North Africa (excluding high income),2.970720679,4.354184924,Growing
+2011,Montenegro,1.65,13.32529882,At Risk of collapsing
+2011,Mongolia,2.602,3.796854159,Growing
+2011,Mozambique,5.551,2.704044338,Growing
+2011,Mauritania,5.028,3.665712528,Growing
+2011,Mauritius,1.55,7.424469414,At Risk of collapsing
+2011,Malawi,5.106,3.476535983,Growing
+2011,Malaysia,2.149,5.094281988,Growing
+2011,North America,1.867531665,13.20180497,At Risk of collapsing
+2011,Namibia,3.658,3.463944184,Growing
+2011,New Caledonia,2.15,7.8387124,Growing
+2011,Niger,7.449,2.41136863,Growing
+2011,Nigeria,5.918,3.014130372,Growing
+2011,Nicaragua,2.575,4.4233845,Growing
+2011,Netherlands,1.76,15.73028624,Collapsing
+2011,Norway,1.88,15.24444535,Collapsing
+2011,Nepal,2.439,4.861030755,Growing
+2011,Nauru,3.948,1.272592226,Growing
+2011,New Zealand,2.09,13.2934135,At Risk of collapsing
+2011,OECD members,1.774965414,14.56456717,At Risk of collapsing
+2011,Oman,2.94,2.649034066,Growing
+2011,Other small states,2.48770907,7.520373405,Growing
+2011,Pakistan,4.234,3.724748509,Growing
+2011,Panama,2.627,6.455346135,Growing
+2011,Peru,2.542,7.405219999,Growing
+2011,Philippines,3.122,3.37924918,Growing
+2011,Papua New Guinea,3.816,2.733166347,Growing
+2011,Poland,1.33,13.7095292,At Risk of collapsing
+2011,Pre-demographic dividend,5.600405287,2.764378802,Growing
+2011,Puerto Rico,1.5965,16.25725152,Collapsing
+2011,"Korea, Dem. People's Rep.",1.811,10.06859406,At Risk of collapsing
+2011,Portugal,1.35,18.86558298,Collapsing
+2011,Paraguay,2.675,5.096123121,Growing
+2011,West Bank and Gaza,4.274,2.955059121,Growing
+2011,Pacific island small states,3.547726518,4.134975527,Growing
+2011,Post-demographic dividend,1.645860537,16.46888435,Collapsing
+2011,French Polynesia,2.066,6.413422295,At Risk of collapsing
+2011,Qatar,2.04,0.928877109,At Risk of collapsing
+2011,Romania,1.47,16.05739687,Collapsing
+2011,Russian Federation,1.582,12.5963495,At Risk of collapsing
+2011,Rwanda,4.357,2.760151027,Growing
+2011,South Asia,2.747773804,4.781343313,Growing
+2011,Saudi Arabia,2.814,2.389678554,Growing
+2011,Sudan,4.96,2.586536117,Growing
+2011,Senegal,5.039,3.58403202,Growing
+2011,Singapore,1.2,7.4822678,At Risk of collapsing
+2011,Solomon Islands,4.406,3.453869734,Growing
+2011,Sierra Leone,5.209,3.269786955,Growing
+2011,El Salvador,2.224,6.781402096,Growing
+2011,Somalia,7.257,2.383764292,Growing
+2011,Serbia,1.4,17.39576531,Collapsing
+2011,Sub-Saharan Africa (excluding high income),5.238416248,2.951416912,Growing
+2011,South Sudan,5.286,2.550444401,Growing
+2011,Sub-Saharan Africa,5.238108841,2.951815707,Growing
+2011,Small states,2.583176284,6.983369162,Growing
+2011,Sao Tome and Principe,4.716,3.626726708,Growing
+2011,Suriname,2.587,5.899758839,Growing
+2011,Slovak Republic,1.45,12.62548724,At Risk of collapsing
+2011,Slovenia,1.56,16.49559938,Collapsing
+2011,Sweden,1.9,18.63613856,Collapsing
+2011,Eswatini,3.299,3.050677941,Growing
+2011,Sint Maarten (Dutch part),1.99,5.486327954,At Risk of collapsing
+2011,Seychelles,2.33,7.145139347,Growing
+2011,Syrian Arab Republic,3.283,3.47450212,Growing
+2011,Turks and Caicos Islands,1.693,6.846916942,At Risk of collapsing
+2011,Chad,6.948,2.18697817,Growing
+2011,East Asia & Pacific (IDA & IBRD countries),1.897493172,7.848049498,At Risk of collapsing
+2011,Europe & Central Asia (IDA & IBRD countries),1.802801724,11.12113789,At Risk of collapsing
+2011,Togo,4.917,2.751083862,Growing
+2011,Thailand,1.597,8.846524409,At Risk of collapsing
+2011,Tajikistan,3.456,3.086589402,Growing
+2011,Turkmenistan,2.892,3.669429852,Growing
+2011,Latin America & the Caribbean (IDA & IBRD countries),2.184432334,6.751796828,Growing
+2011,Timor-Leste,4.656,4.698626158,Growing
+2011,Middle East & North Africa (IDA & IBRD countries),2.957461343,4.369589685,Growing
+2011,Tonga,3.842,5.854819442,Growing
+2011,South Asia (IDA & IBRD),2.747773804,4.781343313,Growing
+2011,Sub-Saharan Africa (IDA & IBRD countries),5.238108841,2.951815707,Growing
+2011,Trinidad and Tobago,1.713,6.50398607,At Risk of collapsing
+2011,Tunisia,2.191,6.561410717,Growing
+2011,Turkiye,2.133,7.267605264,Growing
+2011,Tuvalu,3.478,5.334199174,Growing
+2011,Tanzania,5.207,2.843108835,Growing
+2011,Uganda,5.935,1.929931975,Growing
+2011,Ukraine,1.459,14.62111821,At Risk of collapsing
+2011,Upper middle income,1.933179115,7.90952014,At Risk of collapsing
+2011,Uruguay,2.008,14.27616636,At Risk of collapsing
+2011,United States,1.8945,13.06633047,At Risk of collapsing
+2011,Uzbekistan,2.236,4.741866668,Growing
+2011,St. Vincent and the Grenadines,2.101,8.74177515,Growing
+2011,"Venezuela, RB",2.444,5.885672612,Growing
+2011,British Virgin Islands,1.269,6.142459073,At Risk of collapsing
+2011,Virgin Islands (U.S.),2.16,14.47663689,Growing
+2011,Viet Nam,1.902,6.054830546,At Risk of collapsing
+2011,Vanuatu,4.151,3.319663126,Growing
+2011,World,2.542081411,7.660842471,Growing
+2011,Samoa,4.639,4.901829873,Growing
+2011,Kosovo,1.992,6.838252651,At Risk of collapsing
+2011,"Yemen, Rep.",4.744,2.753778859,Growing
+2011,South Africa,2.436,5.241522323,Growing
+2011,Zambia,5.271,1.80622104,Growing
+2011,Zimbabwe,4.096,3.090756861,Growing
+2012,Aruba,2.028,10.25957244,At Risk of collapsing
+2012,Africa Eastern and Southern,4.881359804,2.962178526,Growing
+2012,Afghanistan,5.83,2.337911339,Growing
+2012,Africa Western and Central,5.583504338,2.948626144,Growing
+2012,Angola,6.039,2.726267063,Growing
+2012,Albania,1.692,11.50931408,At Risk of collapsing
+2012,Arab World,3.543860157,3.701603029,Growing
+2012,United Arab Emirates,1.666,1.467590515,At Risk of collapsing
+2012,Argentina,2.33,10.64233466,Growing
+2012,Armenia,1.6,10.66015632,At Risk of collapsing
+2012,Antigua and Barbuda,1.655,7.465046986,At Risk of collapsing
+2012,Australia,1.92,14.088046,At Risk of collapsing
+2012,Austria,1.44,17.94970493,Collapsing
+2012,Azerbaijan,2.0,5.678362314,At Risk of collapsing
+2012,Burundi,5.991,2.240898458,Growing
+2012,Belgium,1.8,17.48942923,Collapsing
+2012,Benin,5.347,3.057982197,Growing
+2012,Burkina Faso,5.793,2.696254145,Growing
+2012,Bangladesh,2.209,4.489055874,Growing
+2012,Bulgaria,1.5,18.94926803,Collapsing
+2012,Bahrain,2.161,2.302756797,Growing
+2012,"Bahamas, The",1.744,9.637001141,At Risk of collapsing
+2012,Bosnia and Herzegovina,1.29,15.87130752,Collapsing
+2012,Belarus,1.62,13.73977585,At Risk of collapsing
+2012,Belize,2.555,3.976807191,Growing
+2012,Bermuda,1.6,14.46909468,At Risk of collapsing
+2012,Bolivia,3.076,5.531040081,Growing
+2012,Brazil,1.767,7.114766689,At Risk of collapsing
+2012,Barbados,1.645,12.13902054,At Risk of collapsing
+2012,Brunei Darussalam,1.973,3.591484787,At Risk of collapsing
+2012,Bhutan,2.138,5.310203345,Growing
+2012,Botswana,2.981,3.40830113,Growing
+2012,Central African Republic,6.006,1.881204932,Growing
+2012,Canada,1.63,14.82069906,At Risk of collapsing
+2012,Central Europe and the Baltics,1.41601112,15.76433667,Collapsing
+2012,Switzerland,1.52,17.3026343,Collapsing
+2012,Channel Islands,1.604,16.27474458,Collapsing
+2012,Chile,1.798,10.42699407,At Risk of collapsing
+2012,China,1.798,9.089201868,At Risk of collapsing
+2012,Cote d'Ivoire,4.974,2.435659011,Growing
+2012,Cameroon,4.989,2.94920899,Growing
+2012,"Congo, Dem. Rep.",6.559,3.138285404,Growing
+2012,"Congo, Rep.",4.75,2.692497548,Growing
+2012,Colombia,1.93,6.293792016,At Risk of collapsing
+2012,Comoros,4.641,4.155776709,Growing
+2012,Cabo Verde,2.282,4.905606938,Growing
+2012,Costa Rica,1.876,7.871574498,At Risk of collapsing
+2012,Caribbean small states,2.220144696,7.071376587,Growing
+2012,Cuba,1.681,13.27133689,At Risk of collapsing
+2012,Curacao,2.2,12.77176953,Growing
+2012,Cyprus,1.386,11.77838968,At Risk of collapsing
+2012,Czechia,1.45,16.50004973,Collapsing
+2012,Germany,1.41,20.63764943,Collapsing
+2012,Djibouti,3.237,3.837351532,Growing
+2012,Dominica,1.824,10.80189532,At Risk of collapsing
+2012,Denmark,1.73,17.60354433,Collapsing
+2012,Dominican Republic,2.485,5.285529061,Growing
+2012,Algeria,2.956,4.942250959,Growing
+2012,East Asia & Pacific (excluding high income),1.985073902,8.053501053,At Risk of collapsing
+2012,Early-demographic dividend,2.726283,4.992595714,Growing
+2012,East Asia & Pacific,1.932927904,9.188952146,At Risk of collapsing
+2012,Europe & Central Asia (excluding high income),2.079024868,8.992714646,At Risk of collapsing
+2012,Europe & Central Asia,1.743106187,14.78552635,At Risk of collapsing
+2012,Ecuador,2.517,6.107440609,Growing
+2012,"Egypt, Arab Rep.",3.335,4.02277395,Growing
+2012,Euro area,1.553789526,18.78887578,Collapsing
+2012,Eritrea,4.407,3.774034706,Growing
+2012,Spain,1.32,17.45651708,Collapsing
+2012,Estonia,1.56,17.86281884,Collapsing
+2012,Ethiopia,4.883,2.827470629,Growing
+2012,European Union,1.533111896,18.16025896,Collapsing
+2012,Fragile and conflict affected situations,4.794956274,3.827346612,Growing
+2012,Finland,1.8,18.44995859,Collapsing
+2012,Fiji,2.666,4.794252166,Growing
+2012,France,2.01,17.48309597,Collapsing
+2012,Faroe Islands,2.5692,15.68692687,At Risk of collapsing
+2012,"Micronesia, Fed. Sts.",3.13,3.406247104,Growing
+2012,Gabon,4.086,4.129835597,Growing
+2012,United Kingdom,1.92,16.97334404,Collapsing
+2012,Georgia,1.938,13.66202352,At Risk of collapsing
+2012,Ghana,4.183,3.356450542,Growing
+2012,Gibraltar,1.893,16.37110119,Collapsing
+2012,Guinea,5.195,3.581542067,Growing
+2012,"Gambia, The",5.586,2.662627695,Growing
+2012,Guinea-Bissau,5.003,2.796689993,Growing
+2012,Equatorial Guinea,5.04,3.291771133,Growing
+2012,Greece,1.34,19.88909603,Collapsing
+2012,Grenada,2.194,9.77215594,Growing
+2012,Greenland,2.019,7.246644827,At Risk of collapsing
+2012,Guatemala,3.219,3.976749886,Growing
+2012,Guam,3.115,7.259041487,Growing
+2012,Guyana,2.606,4.911773396,Growing
+2012,High income,1.684386314,15.62774411,Collapsing
+2012,"Hong Kong SAR, China",1.285,13.83827328,At Risk of collapsing
+2012,Honduras,2.774,3.14809629,Growing
+2012,Heavily indebted poor countries (HIPC),5.25750555,2.845854604,Growing
+2012,Croatia,1.52,18.20046856,Collapsing
+2012,Haiti,3.302,3.966316809,Growing
+2012,Hungary,1.34,16.99204457,Collapsing
+2012,IBRD only,2.192271364,7.188653177,Growing
+2012,IDA & IBRD total,2.701041639,6.243843884,Growing
+2012,IDA total,4.375840592,3.402164309,Growing
+2012,IDA blend,4.592346198,3.353410308,Growing
+2012,Indonesia,2.49,5.972032088,Growing
+2012,IDA only,4.267491487,3.427071242,Growing
+2012,Isle of Man,1.885,18.60567146,Collapsing
+2012,India,2.467,5.09338826,Growing
+2012,Ireland,1.98,12.08224025,At Risk of collapsing
+2012,"Iran, Islamic Rep.",1.886,5.429345517,At Risk of collapsing
+2012,Iraq,4.477,2.995178183,Growing
+2012,Iceland,2.04,12.7719225,At Risk of collapsing
+2012,Israel,3.05,10.34219507,Growing
+2012,Italy,1.43,20.99664448,Collapsing
+2012,Jamaica,1.696,6.18666657,At Risk of collapsing
+2012,Jordan,3.559,3.583095183,Growing
+2012,Japan,1.41,24.51267833,Collapsing
+2012,Kazakhstan,2.62,6.379153115,Growing
+2012,Kenya,4.088,2.18748148,Growing
+2012,Kyrgyz Republic,3.2,4.490356304,Growing
+2012,Cambodia,2.664,4.12078606,Growing
+2012,Kiribati,3.774,3.600245805,Growing
+2012,St. Kitts and Nevis,1.713,7.360789233,At Risk of collapsing
+2012,"Korea, Rep.",1.297,11.7033966,At Risk of collapsing
+2012,Kuwait,2.168,1.953656326,Growing
+2012,Latin America & Caribbean (excluding high income),2.138636329,6.939616598,Growing
+2012,Lao PDR,2.953,3.948548377,Growing
+2012,Lebanon,2.169,6.151773712,Growing
+2012,Liberia,4.881,3.233480298,Growing
+2012,Libya,2.68,4.395340755,Growing
+2012,St. Lucia,1.508,7.633853169,At Risk of collapsing
+2012,Latin America & Caribbean,2.140534731,7.099082557,Growing
+2012,Least developed countries: UN classification,4.434961266,3.308691457,Growing
+2012,Low income,5.225413025,3.083330311,Growing
+2012,Liechtenstein,1.51,14.76547663,At Risk of collapsing
+2012,Sri Lanka,2.196,7.970404816,Growing
+2012,Lower middle income,3.050494968,4.510551051,Growing
+2012,Low & middle income,2.739664229,5.986312459,Growing
+2012,Lesotho,3.305,4.035186591,Growing
+2012,Late-demographic dividend,1.815863074,8.986595005,At Risk of collapsing
+2012,Lithuania,1.6,18.17997313,Collapsing
+2012,Luxembourg,1.57,13.96541089,At Risk of collapsing
+2012,Latvia,1.44,18.67550102,Collapsing
+2012,"Macao SAR, China",1.184,7.450903956,At Risk of collapsing
+2012,St. Martin (French part),2.748,5.9932127,Growing
+2012,Morocco,2.598,5.373920018,Growing
+2012,Moldova,1.659,10.48541955,At Risk of collapsing
+2012,Madagascar,4.466,2.658922317,Growing
+2012,Maldives,2.202,4.262857468,Growing
+2012,Middle East & North Africa,2.964341934,4.309131056,Growing
+2012,Mexico,2.294,6.28324051,Growing
+2012,Marshall Islands,3.389,2.202493242,Growing
+2012,Middle income,2.51035092,6.289542169,Growing
+2012,North Macedonia,1.5,12.07235675,At Risk of collapsing
+2012,Mali,6.523,2.743725944,Growing
+2012,Malta,1.42,16.57659622,Collapsing
+2012,Myanmar,2.274,5.340588681,Growing
+2012,Middle East & North Africa (excluding high income),3.010625537,4.421583588,Growing
+2012,Montenegro,1.72,13.47468195,At Risk of collapsing
+2012,Mongolia,2.739,3.790021603,Growing
+2012,Mozambique,5.451,2.706521302,Growing
+2012,Mauritania,4.986,3.768243128,Growing
+2012,Mauritius,1.54,7.695843062,At Risk of collapsing
+2012,Malawi,4.924,3.36981384,Growing
+2012,Malaysia,2.116,5.238822282,Growing
+2012,North America,1.854949416,13.52058669,At Risk of collapsing
+2012,Namibia,3.676,3.490436306,Growing
+2012,New Caledonia,2.28,8.043205354,Growing
+2012,Niger,7.4,2.421750194,Growing
+2012,Nigeria,5.832,3.009658459,Growing
+2012,Nicaragua,2.55,4.458188905,Growing
+2012,Netherlands,1.72,16.33999044,Collapsing
+2012,Norway,1.85,15.52748031,Collapsing
+2012,Nepal,2.387,5.011351951,Growing
+2012,Nauru,3.928,1.271062628,Growing
+2012,New Zealand,2.1,13.69321844,Growing
+2012,OECD members,1.774598995,14.87778094,At Risk of collapsing
+2012,Oman,2.929,2.627353486,Growing
+2012,Other small states,2.455453231,7.658517166,Growing
+2012,Pakistan,4.169,3.760689382,Growing
+2012,Panama,2.636,6.629889881,Growing
+2012,Peru,2.487,7.613360863,Growing
+2012,Philippines,3.127,3.431819727,Growing
+2012,Palau,2.23,6.65615941,Growing
+2012,Papua New Guinea,3.746,2.755293334,Growing
+2012,Poland,1.33,14.0246185,At Risk of collapsing
+2012,Pre-demographic dividend,5.516096536,2.767052705,Growing
+2012,Puerto Rico,1.5425,16.52643331,Collapsing
+2012,"Korea, Dem. People's Rep.",1.836,10.33324451,At Risk of collapsing
+2012,Portugal,1.28,19.20037287,Collapsing
+2012,Paraguay,2.625,5.205385511,Growing
+2012,West Bank and Gaza,4.16,3.017759298,Growing
+2012,Pacific island small states,3.523445753,4.205935712,Growing
+2012,Post-demographic dividend,1.652588038,16.82660267,Collapsing
+2012,French Polynesia,2.026,6.612263282,At Risk of collapsing
+2012,Qatar,1.969,1.03001022,At Risk of collapsing
+2012,Romania,1.52,16.26635279,Collapsing
+2012,Russian Federation,1.691,12.71299618,At Risk of collapsing
+2012,Rwanda,4.233,2.793991376,Growing
+2012,South Asia,2.682997198,4.863278274,Growing
+2012,Saudi Arabia,2.78,2.36663228,Growing
+2012,Sudan,4.895,2.597191119,Growing
+2012,Senegal,5.005,3.591692255,Growing
+2012,Singapore,1.29,7.780315243,At Risk of collapsing
+2012,Solomon Islands,4.412,3.448095515,Growing
+2012,Sierra Leone,5.064,3.255226619,Growing
+2012,El Salvador,2.187,6.855106539,Growing
+2012,San Marino,1.26,17.66990871,Collapsing
+2012,Somalia,7.198,2.349046864,Growing
+2012,Serbia,1.45,17.58918514,Collapsing
+2012,Sub-Saharan Africa (excluding high income),5.16191734,2.9562675,Growing
+2012,South Sudan,5.197,2.561020394,Growing
+2012,Sub-Saharan Africa,5.161631381,2.956651844,Growing
+2012,Small states,2.555672143,7.106872052,Growing
+2012,Sao Tome and Principe,4.667,3.579252424,Growing
+2012,Suriname,2.565,5.945349811,Growing
+2012,Slovak Republic,1.34,12.90978083,At Risk of collapsing
+2012,Slovenia,1.58,16.79045799,Collapsing
+2012,Sweden,1.91,18.97755199,Collapsing
+2012,Eswatini,3.255,3.144154072,Growing
+2012,Sint Maarten (Dutch part),1.93,5.98615176,At Risk of collapsing
+2012,Seychelles,2.37,7.069306732,Growing
+2012,Syrian Arab Republic,3.215,3.563912409,Growing
+2012,Turks and Caicos Islands,1.694,7.229121922,At Risk of collapsing
+2012,Chad,6.905,2.142423305,Growing
+2012,East Asia & Pacific (IDA & IBRD countries),1.986951271,8.024445217,At Risk of collapsing
+2012,Europe & Central Asia (IDA & IBRD countries),1.859733437,11.19147789,At Risk of collapsing
+2012,Togo,4.806,2.771184565,Growing
+2012,Thailand,1.586,9.152377773,At Risk of collapsing
+2012,Tajikistan,3.421,3.01205353,Growing
+2012,Turkmenistan,2.936,3.602244314,Growing
+2012,Latin America & the Caribbean (IDA & IBRD countries),2.152746627,6.916259548,Growing
+2012,Timor-Leste,4.444,4.870449429,Growing
+2012,Middle East & North Africa (IDA & IBRD countries),2.998739515,4.437131285,Growing
+2012,Tonga,3.781,5.935724622,Growing
+2012,South Asia (IDA & IBRD),2.682997198,4.863278274,Growing
+2012,Sub-Saharan Africa (IDA & IBRD countries),5.161631381,2.956651844,Growing
+2012,Trinidad and Tobago,1.711,6.823043591,At Risk of collapsing
+2012,Tunisia,2.216,6.627247296,Growing
+2012,Turkiye,2.149,7.34083797,Growing
+2012,Tuvalu,3.467,5.322602771,Growing
+2012,Tanzania,5.098,2.881141543,Growing
+2012,Uganda,5.784,1.908086473,Growing
+2012,Ukraine,1.531,14.60923679,At Risk of collapsing
+2012,Upper middle income,2.002450564,8.076011084,At Risk of collapsing
+2012,Uruguay,2.006,14.36447971,At Risk of collapsing
+2012,United States,1.8805,13.37660804,At Risk of collapsing
+2012,Uzbekistan,2.193,4.697789136,Growing
+2012,St. Vincent and the Grenadines,2.12,8.964873477,Growing
+2012,"Venezuela, RB",2.417,6.038984495,Growing
+2012,British Virgin Islands,1.103,6.337123085,At Risk of collapsing
+2012,Virgin Islands (U.S.),2.06,15.17430823,Collapsing
+2012,Viet Nam,1.927,6.091399671,At Risk of collapsing
+2012,Vanuatu,4.124,3.42730635,Growing
+2012,World,2.557596926,7.782403223,Growing
+2012,Samoa,4.606,4.898268685,Growing
+2012,Kosovo,2.001,6.946680158,At Risk of collapsing
+2012,"Yemen, Rep.",4.634,2.75664246,Growing
+2012,South Africa,2.447,5.250222672,Growing
+2012,Zambia,5.146,1.783938705,Growing
+2012,Zimbabwe,4.096,3.089003406,Growing
+2013,Aruba,2.117,10.69351339,Growing
+2013,Africa Eastern and Southern,4.810569695,2.97806605,Growing
+2013,Afghanistan,5.696,2.349769014,Growing
+2013,Africa Western and Central,5.50903699,2.940205521,Growing
+2013,Angola,5.953,2.719033602,Growing
+2013,Albania,1.697,11.82013518,At Risk of collapsing
+2013,Arab World,3.543051035,3.739347744,Growing
+2013,United Arab Emirates,1.602,1.483226115,At Risk of collapsing
+2013,Argentina,2.322,10.76715738,Growing
+2013,Armenia,1.6,10.70838571,At Risk of collapsing
+2013,Antigua and Barbuda,1.537,7.646668067,At Risk of collapsing
+2013,Australia,1.855,14.36632441,At Risk of collapsing
+2013,Austria,1.44,18.19944605,Collapsing
+2013,Azerbaijan,1.98,5.684482854,At Risk of collapsing
+2013,Burundi,5.889,2.228886011,Growing
+2013,Belgium,1.76,17.72038165,Collapsing
+2013,Benin,5.345,3.052923551,Growing
+2013,Burkina Faso,5.697,2.669989148,Growing
+2013,Bangladesh,2.184,4.626843073,Growing
+2013,Bulgaria,1.48,19.35469395,Collapsing
+2013,Bahrain,2.164,2.455689336,Growing
+2013,"Bahamas, The",1.51,9.849638346,At Risk of collapsing
+2013,Bosnia and Herzegovina,1.276,16.32295806,Collapsing
+2013,Belarus,1.668,13.84393266,At Risk of collapsing
+2013,Belize,2.53,3.995439471,Growing
+2013,Bermuda,1.6,15.02906085,Collapsing
+2013,Bolivia,3.01,5.55753827,Growing
+2013,Brazil,1.748,7.370284831,At Risk of collapsing
+2013,Barbados,1.63,12.36904183,At Risk of collapsing
+2013,Brunei Darussalam,1.978,3.751440898,At Risk of collapsing
+2013,Bhutan,2.087,5.410996963,At Risk of collapsing
+2013,Botswana,2.964,3.433250844,Growing
+2013,Central African Republic,6.017,1.895412715,Growing
+2013,Canada,1.61,15.22868879,Collapsing
+2013,Central Europe and the Baltics,1.387661904,16.11772939,Collapsing
+2013,Switzerland,1.52,17.52054886,Collapsing
+2013,Channel Islands,1.572,16.65744618,Collapsing
+2013,Chile,1.786,10.67875449,At Risk of collapsing
+2013,China,1.714,9.356268616,At Risk of collapsing
+2013,Cote d'Ivoire,4.92,2.525207473,Growing
+2013,Cameroon,4.914,2.914547899,Growing
+2013,"Congo, Dem. Rep.",6.527,3.141702081,Growing
+2013,"Congo, Rep.",4.691,2.67643299,Growing
+2013,Colombia,1.905,6.544631203,At Risk of collapsing
+2013,Comoros,4.568,4.163719086,Growing
+2013,Cabo Verde,2.198,4.956220411,Growing
+2013,Costa Rica,1.838,8.152661484,At Risk of collapsing
+2013,Caribbean small states,2.168017256,7.162529194,Growing
+2013,Cuba,1.688,13.61157905,At Risk of collapsing
+2013,Curacao,2.1,13.13078984,Growing
+2013,Cyprus,1.305,12.01745087,At Risk of collapsing
+2013,Czechia,1.46,17.08215909,Collapsing
+2013,Germany,1.42,20.81297611,Collapsing
+2013,Djibouti,3.178,3.932985014,Growing
+2013,Dominica,1.772,10.15276483,At Risk of collapsing
+2013,Denmark,1.67,18.05334769,Collapsing
+2013,Dominican Republic,2.466,5.42818415,Growing
+2013,Algeria,2.957,5.000122155,Growing
+2013,East Asia & Pacific (excluding high income),1.921246287,8.259206525,At Risk of collapsing
+2013,Early-demographic dividend,2.685570352,5.068387658,Growing
+2013,East Asia & Pacific,1.869903007,9.432650176,At Risk of collapsing
+2013,Europe & Central Asia (excluding high income),2.107077353,9.02922055,Growing
+2013,Europe & Central Asia,1.735987198,15.01416768,Collapsing
+2013,Ecuador,2.419,6.263911644,Growing
+2013,"Egypt, Arab Rep.",3.419,4.082748809,Growing
+2013,Euro area,1.529450172,19.13106337,Collapsing
+2013,Eritrea,4.335,3.825885091,Growing
+2013,Spain,1.27,17.85081852,Collapsing
+2013,Estonia,1.52,18.19845598,Collapsing
+2013,Ethiopia,4.724,2.86973572,Growing
+2013,European Union,1.507076401,18.51024312,Collapsing
+2013,Fragile and conflict affected situations,4.741521786,3.825068367,Growing
+2013,Finland,1.75,19.07335707,Collapsing
+2013,Fiji,2.662,4.934509373,Growing
+2013,France,1.99,17.92957802,Collapsing
+2013,Faroe Islands,2.529,16.08446649,At Risk of collapsing
+2013,"Micronesia, Fed. Sts.",3.087,3.549280664,Growing
+2013,Gabon,4.019,4.083042939,Growing
+2013,United Kingdom,1.83,17.32790658,Collapsing
+2013,Georgia,2.017,13.85386408,At Risk of collapsing
+2013,Ghana,4.136,3.34807586,Growing
+2013,Gibraltar,1.834,16.71218082,Collapsing
+2013,Guinea,5.116,3.556772848,Growing
+2013,"Gambia, The",5.51,2.652580224,Growing
+2013,Guinea-Bissau,4.937,2.792349878,Growing
+2013,Equatorial Guinea,4.952,3.258090443,Growing
+2013,Greece,1.29,20.29151841,Collapsing
+2013,Grenada,2.171,9.851789192,Growing
+2013,Greenland,2.077,7.41156902,At Risk of collapsing
+2013,Guatemala,3.151,4.029014116,Growing
+2013,Guam,2.874,7.675344121,Growing
+2013,Guyana,2.582,5.033989026,Growing
+2013,High income,1.657574198,15.95833402,Collapsing
+2013,"Hong Kong SAR, China",1.125,14.26045192,At Risk of collapsing
+2013,Honduras,2.699,3.222016637,Growing
+2013,Heavily indebted poor countries (HIPC),5.181753751,2.854079821,Growing
+2013,Croatia,1.46,18.47659254,Collapsing
+2013,Haiti,3.216,4.013426446,Growing
+2013,Hungary,1.35,17.321549,Collapsing
+2013,IBRD only,2.149847111,7.334638569,Growing
+2013,IDA & IBRD total,2.663636405,6.353011094,Growing
+2013,IDA total,4.326043585,3.42941028,Growing
+2013,IDA blend,4.532978524,3.362657608,Growing
+2013,Indonesia,2.427,6.009686836,Growing
+2013,IDA only,4.222639749,3.463541039,Growing
+2013,Isle of Man,1.853,19.20693118,Collapsing
+2013,India,2.406,5.182627727,Growing
+2013,Ireland,1.93,12.44751401,At Risk of collapsing
+2013,"Iran, Islamic Rep.",1.961,5.579498287,At Risk of collapsing
+2013,Iraq,4.378,3.001463438,Growing
+2013,Iceland,1.93,13.07020537,At Risk of collapsing
+2013,Israel,3.03,10.58999695,Growing
+2013,Italy,1.39,21.33067242,Collapsing
+2013,Jamaica,1.636,6.277070662,At Risk of collapsing
+2013,Jordan,3.436,3.522118709,Growing
+2013,Japan,1.43,25.41206358,Collapsing
+2013,Kazakhstan,2.64,6.463462938,Growing
+2013,Kenya,3.952,2.254155028,Growing
+2013,Kyrgyz Republic,3.1,4.63012068,Growing
+2013,Cambodia,2.62,4.257618098,Growing
+2013,Kiribati,3.689,3.609938641,Growing
+2013,St. Kitts and Nevis,1.682,7.401899339,At Risk of collapsing
+2013,"Korea, Rep.",1.187,12.09714326,At Risk of collapsing
+2013,Kuwait,2.153,2.071729253,Growing
+2013,Latin America & Caribbean (excluding high income),2.112555755,7.119071815,Growing
+2013,Lao PDR,2.872,4.029428329,Growing
+2013,Lebanon,2.172,6.284913222,Growing
+2013,Liberia,4.749,3.216931267,Growing
+2013,Libya,2.716,4.393216825,Growing
+2013,St. Lucia,1.496,7.759483412,At Risk of collapsing
+2013,Latin America & Caribbean,2.114790517,7.279127105,Growing
+2013,Least developed countries: UN classification,4.381892893,3.338840238,Growing
+2013,Low income,5.154411594,3.096182839,Growing
+2013,Liechtenstein,1.45,15.36575454,Collapsing
+2013,Sri Lanka,2.181,8.292335061,Growing
+2013,Lower middle income,3.009669404,4.575985983,Growing
+2013,Low & middle income,2.700579426,6.0947187,Growing
+2013,Lesotho,3.334,3.970038473,Growing
+2013,Late-demographic dividend,1.761304833,9.22375431,At Risk of collapsing
+2013,Lithuania,1.59,18.35773564,Collapsing
+2013,Luxembourg,1.55,14.02567573,At Risk of collapsing
+2013,Latvia,1.52,18.92968738,Collapsing
+2013,"Macao SAR, China",1.199,7.79140633,At Risk of collapsing
+2013,St. Martin (French part),2.668,6.311049347,Growing
+2013,Morocco,2.594,5.496109797,Growing
+2013,Moldova,1.654,10.61576317,At Risk of collapsing
+2013,Madagascar,4.358,2.668448497,Growing
+2013,Maldives,2.123,4.175764022,Growing
+2013,Middle East & North Africa,2.981729735,4.372563527,Growing
+2013,Mexico,2.269,6.393658995,Growing
+2013,Marshall Islands,3.274,2.38156311,Growing
+2013,Middle income,2.46991979,6.411918659,Growing
+2013,North Macedonia,1.5,12.45857506,At Risk of collapsing
+2013,Mali,6.491,2.710821516,Growing
+2013,Malta,1.36,17.35198184,Collapsing
+2013,Myanmar,2.256,5.39638498,Growing
+2013,Middle East & North Africa (excluding high income),3.036301013,4.498676237,Growing
+2013,Montenegro,1.73,13.69396046,At Risk of collapsing
+2013,Mongolia,2.897,3.792620343,Growing
+2013,Mozambique,5.34,2.715464087,Growing
+2013,Mauritania,4.942,3.750363018,Growing
+2013,Mauritius,1.44,8.025780345,At Risk of collapsing
+2013,Malawi,4.778,3.264747701,Growing
+2013,Malaysia,2.089,5.38859199,At Risk of collapsing
+2013,North America,1.832291559,13.85401107,At Risk of collapsing
+2013,Namibia,3.653,3.50171975,Growing
+2013,New Caledonia,2.19,8.267045249,Growing
+2013,Niger,7.344,2.427275722,Growing
+2013,Nigeria,5.738,2.997808449,Growing
+2013,Nicaragua,2.526,4.510678712,Growing
+2013,Netherlands,1.68,16.88016364,Collapsing
+2013,Norway,1.78,15.77891447,Collapsing
+2013,Nepal,2.334,5.179747036,Growing
+2013,Nauru,3.892,1.331178093,Growing
+2013,New Zealand,2.01,14.08642768,At Risk of collapsing
+2013,OECD members,1.751517421,15.21560682,Collapsing
+2013,Oman,2.949,2.577405904,Growing
+2013,Other small states,2.404678049,7.810370997,Growing
+2013,Pakistan,4.106,3.789946329,Growing
+2013,Panama,2.609,6.808380821,Growing
+2013,Peru,2.432,7.822236019,Growing
+2013,Philippines,3.096,3.509822786,Growing
+2013,Papua New Guinea,3.684,2.779638786,Growing
+2013,Poland,1.29,14.43082182,At Risk of collapsing
+2013,Pre-demographic dividend,5.437713767,2.768937919,Growing
+2013,Puerto Rico,1.47,16.93235691,Collapsing
+2013,"Korea, Dem. People's Rep.",1.86,10.5613499,At Risk of collapsing
+2013,Portugal,1.21,19.62765928,Collapsing
+2013,Paraguay,2.636,5.322681613,Growing
+2013,West Bank and Gaza,4.076,3.078215093,Growing
+2013,Pacific island small states,3.52153583,4.279331101,Growing
+2013,Post-demographic dividend,1.624429301,17.21006183,Collapsing
+2013,French Polynesia,1.946,6.830404674,At Risk of collapsing
+2013,Qatar,1.932,1.084721798,At Risk of collapsing
+2013,Romania,1.46,16.45828142,Collapsing
+2013,Russian Federation,1.707,12.88378395,At Risk of collapsing
+2013,Rwanda,4.159,2.835778043,Growing
+2013,South Asia,2.626091509,4.949394182,Growing
+2013,Saudi Arabia,2.737,2.328221225,Growing
+2013,Sudan,4.903,2.616060084,Growing
+2013,Senegal,4.96,3.5791839,Growing
+2013,Singapore,1.19,8.165142955,At Risk of collapsing
+2013,Solomon Islands,4.418,3.455277379,Growing
+2013,Sierra Leone,4.873,3.228579644,Growing
+2013,El Salvador,2.154,6.938657293,Growing
+2013,Somalia,7.128,2.350349889,Growing
+2013,Serbia,1.43,17.95000384,Collapsing
+2013,Sub-Saharan Africa (excluding high income),5.089252111,2.962251176,Growing
+2013,South Sudan,5.108,2.568148171,Growing
+2013,Sub-Saharan Africa,5.08896959,2.96262803,Growing
+2013,Small states,2.510623647,7.238546288,Growing
+2013,Sao Tome and Principe,4.6,3.558679248,Growing
+2013,Suriname,2.543,5.985905592,Growing
+2013,Slovak Republic,1.34,13.28428848,At Risk of collapsing
+2013,Slovenia,1.55,17.1479957,Collapsing
+2013,Sweden,1.89,19.27442186,Collapsing
+2013,Eswatini,3.226,3.228701139,Growing
+2013,Sint Maarten (Dutch part),1.862,6.505550287,At Risk of collapsing
+2013,Seychelles,2.26,7.031368612,Growing
+2013,Syrian Arab Republic,3.17,3.754057309,Growing
+2013,Turks and Caicos Islands,1.676,7.550589843,At Risk of collapsing
+2013,Chad,6.839,2.100904461,Growing
+2013,East Asia & Pacific (IDA & IBRD countries),1.922027148,8.229981421,At Risk of collapsing
+2013,Europe & Central Asia (IDA & IBRD countries),1.874783894,11.30662365,At Risk of collapsing
+2013,Togo,4.723,2.794072069,Growing
+2013,Thailand,1.547,9.502381158,At Risk of collapsing
+2013,Tajikistan,3.433,2.966395303,Growing
+2013,Turkmenistan,2.958,3.566523626,Growing
+2013,Latin America & the Caribbean (IDA & IBRD countries),2.126481918,7.094251587,Growing
+2013,Timor-Leste,4.268,5.01460695,Growing
+2013,Middle East & North Africa (IDA & IBRD countries),3.025374756,4.514481791,Growing
+2013,Tonga,3.707,5.985384418,Growing
+2013,South Asia (IDA & IBRD),2.626091509,4.949394182,Growing
+2013,Sub-Saharan Africa (IDA & IBRD countries),5.08896959,2.96262803,Growing
+2013,Trinidad and Tobago,1.703,7.180567344,At Risk of collapsing
+2013,Tunisia,2.24,6.701973246,Growing
+2013,Turkiye,2.165,7.433121338,Growing
+2013,Tuvalu,3.355,5.372483069,Growing
+2013,Tanzania,5.122,2.913606538,Growing
+2013,Uganda,5.618,1.901670208,Growing
+2013,Ukraine,1.506,14.62164069,At Risk of collapsing
+2013,Upper middle income,1.952545194,8.268264621,At Risk of collapsing
+2013,Uruguay,2.01,14.45090584,At Risk of collapsing
+2013,United States,1.8575,13.70119272,At Risk of collapsing
+2013,Uzbekistan,2.35,4.672409376,Growing
+2013,St. Vincent and the Grenadines,2.112,9.131598781,Growing
+2013,"Venezuela, RB",2.39,6.194840647,Growing
+2013,British Virgin Islands,1.08,6.535556011,At Risk of collapsing
+2013,Virgin Islands (U.S.),2.08,15.87233114,Collapsing
+2013,Viet Nam,1.951,6.166056758,At Risk of collapsing
+2013,Vanuatu,4.093,3.535809998,Growing
+2013,World,2.522399721,7.920845051,Growing
+2013,Samoa,4.525,4.881511687,Growing
+2013,Kosovo,2.098,7.074336041,At Risk of collapsing
+2013,"Yemen, Rep.",4.529,2.750064204,Growing
+2013,South Africa,2.428,5.287842728,Growing
+2013,Zambia,5.026,1.761406928,Growing
+2013,Zimbabwe,4.064,3.094579892,Growing
+2014,Aruba,2.148,11.1519021,Growing
+2014,Africa Eastern and Southern,4.741252952,2.998143998,Growing
+2014,Afghanistan,5.56,2.356535665,Growing
+2014,Africa Western and Central,5.440584944,2.924323974,Growing
+2014,Angola,5.864,2.704494436,Growing
+2014,Albania,1.674,12.16676921,At Risk of collapsing
+2014,Arab World,3.528883388,3.782638215,Growing
+2014,United Arab Emirates,1.545,1.496568875,At Risk of collapsing
+2014,Argentina,2.312,10.89414213,Growing
+2014,Armenia,1.703,10.77672903,At Risk of collapsing
+2014,Antigua and Barbuda,1.526,7.851067425,At Risk of collapsing
+2014,Australia,1.826,14.63439339,At Risk of collapsing
+2014,Austria,1.46,18.38805637,Collapsing
+2014,Azerbaijan,1.97,5.715736811,At Risk of collapsing
+2014,Burundi,5.794,2.212312458,Growing
+2014,Belgium,1.74,17.96215098,Collapsing
+2014,Benin,5.348,3.046304564,Growing
+2014,Burkina Faso,5.595,2.629435944,Growing
+2014,Bangladesh,2.152,4.756567531,Growing
+2014,Bulgaria,1.53,19.77573872,Collapsing
+2014,Bahrain,2.158,2.625399132,Growing
+2014,"Bahamas, The",1.673,10.04007345,At Risk of collapsing
+2014,Bosnia and Herzegovina,1.262,16.7737639,Collapsing
+2014,Belarus,1.696,14.05726399,At Risk of collapsing
+2014,Belize,2.491,4.027971828,Growing
+2014,Bermuda,1.4,15.58186025,Collapsing
+2014,Bolivia,2.947,5.567542703,Growing
+2014,Brazil,1.767,7.65357587,At Risk of collapsing
+2014,Barbados,1.62,12.63310676,At Risk of collapsing
+2014,Brunei Darussalam,1.969,3.940367198,At Risk of collapsing
+2014,Bhutan,2.027,5.516753633,At Risk of collapsing
+2014,Botswana,2.951,3.485311531,Growing
+2014,Central African Republic,6.024,1.907009069,Growing
+2014,Canada,1.61,15.62324418,Collapsing
+2014,Central Europe and the Baltics,1.442763835,16.52320996,Collapsing
+2014,Switzerland,1.54,17.71422812,Collapsing
+2014,Channel Islands,1.556,16.98094656,Collapsing
+2014,Chile,1.774,10.95457702,At Risk of collapsing
+2014,China,1.769,9.666198738,At Risk of collapsing
+2014,Cote d'Ivoire,4.867,2.554254079,Growing
+2014,Cameroon,4.855,2.877194373,Growing
+2014,"Congo, Dem. Rep.",6.483,3.136601162,Growing
+2014,"Congo, Rep.",4.626,2.664634195,Growing
+2014,Colombia,1.883,6.818796911,At Risk of collapsing
+2014,Comoros,4.492,4.21207234,Growing
+2014,Cabo Verde,2.17,5.039959947,Growing
+2014,Costa Rica,1.819,8.451278435,At Risk of collapsing
+2014,Caribbean small states,2.173282123,7.263746519,Growing
+2014,Cuba,1.663,13.91906121,At Risk of collapsing
+2014,Curacao,2.0,13.51718204,At Risk of collapsing
+2014,Cyprus,1.315,12.26106163,At Risk of collapsing
+2014,Czechia,1.53,17.60549396,Collapsing
+2014,Germany,1.47,20.95866869,Collapsing
+2014,Djibouti,3.112,4.032391975,Growing
+2014,Dominica,1.734,9.54556435,At Risk of collapsing
+2014,Denmark,1.69,18.41555521,Collapsing
+2014,Dominican Republic,2.445,5.580257529,Growing
+2014,Algeria,3.004,5.086182754,Growing
+2014,East Asia & Pacific (excluding high income),1.951611489,8.498661715,At Risk of collapsing
+2014,Early-demographic dividend,2.625571407,5.161780092,Growing
+2014,East Asia & Pacific,1.898469568,9.703622154,At Risk of collapsing
+2014,Europe & Central Asia (excluding high income),2.150511642,9.110936899,Growing
+2014,Europe & Central Asia,1.768184938,15.26918775,Collapsing
+2014,Ecuador,2.335,6.448471916,Growing
+2014,"Egypt, Arab Rep.",3.441,4.138553476,Growing
+2014,Euro area,1.550376798,19.47424966,Collapsing
+2014,Eritrea,4.273,3.88317614,Growing
+2014,Spain,1.32,18.25564484,Collapsing
+2014,Estonia,1.54,18.56092881,Collapsing
+2014,Ethiopia,4.609,2.908257701,Growing
+2014,European Union,1.535183554,18.86886034,Collapsing
+2014,Fragile and conflict affected situations,4.692913331,3.831465643,Growing
+2014,Finland,1.71,19.66610481,Collapsing
+2014,Fiji,2.657,5.082256729,Growing
+2014,France,2.0,18.38787321,Collapsing
+2014,Faroe Islands,2.5686,16.5310731,At Risk of collapsing
+2014,"Micronesia, Fed. Sts.",3.032,3.723384627,Growing
+2014,Gabon,3.953,4.042105753,Growing
+2014,United Kingdom,1.81,17.58408439,Collapsing
+2014,Georgia,2.115,14.02932652,Growing
+2014,Ghana,4.05,3.350542591,Growing
+2014,Gibraltar,2.014,17.02069302,Collapsing
+2014,Guinea,5.049,3.531179148,Growing
+2014,"Gambia, The",5.416,2.629464715,Growing
+2014,Guinea-Bissau,4.802,2.799889152,Growing
+2014,Equatorial Guinea,4.863,3.250686245,Growing
+2014,Greece,1.3,20.69706729,Collapsing
+2014,Grenada,2.148,9.952116637,Growing
+2014,Greenland,2.037,7.543659765,At Risk of collapsing
+2014,Guatemala,3.088,4.089703142,Growing
+2014,Guam,2.943,8.108238763,Growing
+2014,Guyana,2.558,5.167992745,Growing
+2014,High income,1.673953737,16.29645826,Collapsing
+2014,"Hong Kong SAR, China",1.235,14.77734717,At Risk of collapsing
+2014,Honduras,2.635,3.315270206,Growing
+2014,Heavily indebted poor countries (HIPC),5.105027663,2.859846736,Growing
+2014,Croatia,1.46,18.81223962,Collapsing
+2014,Haiti,3.157,4.061100515,Growing
+2014,Hungary,1.44,17.68630178,Collapsing
+2014,IBRD only,2.141563575,7.514833684,Growing
+2014,IDA & IBRD total,2.651213915,6.487068145,Growing
+2014,IDA total,4.270097125,3.45750061,Growing
+2014,IDA blend,4.462693015,3.369184167,Growing
+2014,Indonesia,2.389,6.041340635,Growing
+2014,IDA only,4.174107072,3.502636729,Growing
+2014,Isle of Man,1.737,19.74014364,Collapsing
+2014,India,2.306,5.307154613,Growing
+2014,Ireland,1.89,12.79519071,At Risk of collapsing
+2014,"Iran, Islamic Rep.",2.036,5.770679093,At Risk of collapsing
+2014,Iraq,4.283,3.020415097,Growing
+2014,Iceland,1.93,13.36193275,At Risk of collapsing
+2014,Israel,3.08,10.79529792,Growing
+2014,Italy,1.37,21.69787401,Collapsing
+2014,Jamaica,1.569,6.336557078,At Risk of collapsing
+2014,Jordan,3.31,3.350115998,Growing
+2014,Japan,1.42,26.22618834,Collapsing
+2014,Kazakhstan,2.73,6.596981357,Growing
+2014,Kenya,3.844,2.345034136,Growing
+2014,Kyrgyz Republic,3.2,4.794704661,Growing
+2014,Cambodia,2.589,4.406940117,Growing
+2014,Kiribati,3.599,3.638799409,Growing
+2014,St. Kitts and Nevis,1.665,7.480515619,At Risk of collapsing
+2014,"Korea, Rep.",1.205,12.52540919,At Risk of collapsing
+2014,Kuwait,2.156,2.217694746,Growing
+2014,Latin America & Caribbean (excluding high income),2.094406172,7.313537178,At Risk of collapsing
+2014,Lao PDR,2.802,4.111717864,Growing
+2014,Lebanon,2.182,6.438980805,Growing
+2014,Liberia,4.622,3.197428036,Growing
+2014,Libya,2.754,4.417354759,Growing
+2014,St. Lucia,1.485,7.876776244,At Risk of collapsing
+2014,Latin America & Caribbean,2.096730943,7.474565224,At Risk of collapsing
+2014,Least developed countries: UN classification,4.327846157,3.367578836,Growing
+2014,Low income,5.085087822,3.107263999,Growing
+2014,Liechtenstein,1.59,15.90312815,Collapsing
+2014,Sri Lanka,2.13,8.635676063,Growing
+2014,Lower middle income,2.941957467,4.660795155,Growing
+2014,Low & middle income,2.685828115,6.225036023,Growing
+2014,Lesotho,3.288,3.939975645,Growing
+2014,Late-demographic dividend,1.800147334,9.504036545,At Risk of collapsing
+2014,Lithuania,1.63,18.60352015,Collapsing
+2014,Luxembourg,1.5,14.12510629,At Risk of collapsing
+2014,Latvia,1.65,19.24149098,Collapsing
+2014,"Macao SAR, China",1.224,8.189770999,At Risk of collapsing
+2014,St. Martin (French part),2.595,6.63809562,Growing
+2014,Morocco,2.548,5.635436041,Growing
+2014,Moldova,1.822,11.0822689,At Risk of collapsing
+2014,Madagascar,4.247,2.712829346,Growing
+2014,Maldives,2.059,4.097994038,At Risk of collapsing
+2014,Middle East & North Africa,2.985685501,4.449964577,Growing
+2014,Mexico,2.211,6.514463949,Growing
+2014,Marshall Islands,3.161,2.58554904,Growing
+2014,Middle income,2.456005264,6.558909261,Growing
+2014,North Macedonia,1.5,12.92635247,At Risk of collapsing
+2014,Mali,6.441,2.669674724,Growing
+2014,Malta,1.38,17.943563,Collapsing
+2014,Myanmar,2.24,5.490747452,Growing
+2014,Middle East & North Africa (excluding high income),3.045663604,4.589455777,Growing
+2014,Montenegro,1.75,14.00355256,At Risk of collapsing
+2014,Mongolia,2.996,3.807759492,Growing
+2014,Mozambique,5.131,2.728360246,Growing
+2014,Mauritania,4.886,3.633220983,Growing
+2014,Mauritius,1.43,8.419746216,At Risk of collapsing
+2014,Malawi,4.612,3.164788361,Growing
+2014,Malaysia,2.081,5.545043103,At Risk of collapsing
+2014,North America,1.836822248,14.17084908,At Risk of collapsing
+2014,Namibia,3.635,3.516701097,Growing
+2014,New Caledonia,2.17,8.515083145,Growing
+2014,Niger,7.279,2.433736026,Growing
+2014,Nigeria,5.664,2.981488961,Growing
+2014,Nicaragua,2.503,4.592835909,Growing
+2014,Netherlands,1.71,17.35244065,Collapsing
+2014,Norway,1.75,16.02837625,Collapsing
+2014,Nepal,2.293,5.343163693,Growing
+2014,Nauru,3.857,1.377705376,Growing
+2014,New Zealand,1.92,14.36917848,At Risk of collapsing
+2014,OECD members,1.755436341,15.53804775,Collapsing
+2014,Oman,2.956,2.563836701,Growing
+2014,Other small states,2.377375374,7.97105977,Growing
+2014,Pakistan,4.005,3.805344294,Growing
+2014,Panama,2.59,6.998804373,Growing
+2014,Peru,2.385,8.022008096,Growing
+2014,Philippines,3.031,3.623377172,Growing
+2014,Papua New Guinea,3.625,2.808501871,Growing
+2014,Poland,1.32,14.88280069,At Risk of collapsing
+2014,Pre-demographic dividend,5.360370322,2.76895361,Growing
+2014,Puerto Rico,1.432,17.48109206,Collapsing
+2014,"Korea, Dem. People's Rep.",1.885,10.75085414,At Risk of collapsing
+2014,Portugal,1.23,20.11410315,Collapsing
+2014,Paraguay,2.646,5.446611105,Growing
+2014,West Bank and Gaza,4.04,3.144785475,Growing
+2014,Pacific island small states,3.50745351,4.359788006,Growing
+2014,Post-demographic dividend,1.633173923,17.57802573,Collapsing
+2014,French Polynesia,1.959,7.07376419,At Risk of collapsing
+2014,Qatar,1.898,1.061792161,At Risk of collapsing
+2014,Romania,1.56,16.79392668,Collapsing
+2014,Russian Federation,1.75,13.1683588,At Risk of collapsing
+2014,Rwanda,4.112,2.889327066,Growing
+2014,South Asia,2.534560979,5.060560341,Growing
+2014,Saudi Arabia,2.686,2.28000576,Growing
+2014,Sudan,4.912,2.639406039,Growing
+2014,Senegal,4.905,3.548607251,Growing
+2014,Singapore,1.25,8.576064054,At Risk of collapsing
+2014,Solomon Islands,4.418,3.478314433,Growing
+2014,Sierra Leone,4.703,3.185249226,Growing
+2014,El Salvador,2.126,7.030190874,Growing
+2014,Somalia,7.057,2.362608888,Growing
+2014,Serbia,1.46,18.3902831,Collapsing
+2014,Sub-Saharan Africa (excluding high income),5.019992409,2.967666493,Growing
+2014,South Sudan,5.022,2.558652826,Growing
+2014,Sub-Saharan Africa,5.019723599,2.968038451,Growing
+2014,Small states,2.490807743,7.379662248,Growing
+2014,Sao Tome and Principe,4.511,3.555474241,Growing
+2014,Suriname,2.519,6.040342526,Growing
+2014,Slovak Republic,1.37,13.69500338,At Risk of collapsing
+2014,Slovenia,1.58,17.54694968,Collapsing
+2014,Sweden,1.88,19.52106927,Collapsing
+2014,Eswatini,3.174,3.314840548,Growing
+2014,Sint Maarten (Dutch part),1.794,7.040890064,At Risk of collapsing
+2014,Seychelles,2.25,7.030753575,Growing
+2014,Syrian Arab Republic,3.101,3.989454987,Growing
+2014,Turks and Caicos Islands,1.653,7.868758916,At Risk of collapsing
+2014,Chad,6.781,2.07314233,Growing
+2014,East Asia & Pacific (IDA & IBRD countries),1.952464986,8.470165066,At Risk of collapsing
+2014,Europe & Central Asia (IDA & IBRD countries),1.920410074,11.49172548,At Risk of collapsing
+2014,Togo,4.655,2.816331804,Growing
+2014,Thailand,1.51,9.894223165,At Risk of collapsing
+2014,Tajikistan,3.459,2.949409131,Growing
+2014,Turkmenistan,2.956,3.556476299,Growing
+2014,Latin America & the Caribbean (IDA & IBRD countries),2.108203482,7.288228534,Growing
+2014,Timor-Leste,4.085,5.138829016,Growing
+2014,Middle East & North Africa (IDA & IBRD countries),3.035040012,4.605605371,Growing
+2014,Tonga,3.635,5.997148458,Growing
+2014,South Asia (IDA & IBRD),2.534560979,5.060560341,Growing
+2014,Sub-Saharan Africa (IDA & IBRD countries),5.019723599,2.968038451,Growing
+2014,Trinidad and Tobago,1.693,7.576040641,At Risk of collapsing
+2014,Tunisia,2.252,6.807769147,Growing
+2014,Turkiye,2.2,7.525186339,Growing
+2014,Tuvalu,3.275,5.412418063,Growing
+2014,Tanzania,5.122,2.935735107,Growing
+2014,Uganda,5.463,1.913432329,Growing
+2014,Ukraine,1.498,14.76324464,At Risk of collapsing
+2014,Upper middle income,1.980369786,8.492051501,At Risk of collapsing
+2014,Uruguay,1.998,14.53000289,At Risk of collapsing
+2014,United States,1.8625,14.0089266,At Risk of collapsing
+2014,Uzbekistan,2.457,4.67172949,Growing
+2014,St. Vincent and the Grenadines,2.12,9.320686288,Growing
+2014,"Venezuela, RB",2.365,6.3591954,Growing
+2014,British Virgin Islands,1.237,6.725926825,At Risk of collapsing
+2014,Virgin Islands (U.S.),2.09,16.55008113,Collapsing
+2014,Viet Nam,1.95,6.282360397,At Risk of collapsing
+2014,Vanuatu,4.06,3.641645484,Growing
+2014,World,2.514490196,8.077824423,Growing
+2014,Samoa,4.443,4.873848338,Growing
+2014,Kosovo,1.871,7.265805242,At Risk of collapsing
+2014,"Yemen, Rep.",4.427,2.730339983,Growing
+2014,South Africa,2.424,5.331154978,Growing
+2014,Zambia,4.899,1.742390761,Growing
+2014,Zimbabwe,3.962,3.138106214,Growing
+2015,Aruba,1.972,11.64040716,At Risk of collapsing
+2015,Africa Eastern and Southern,4.678619032,3.020980063,Growing
+2015,Afghanistan,5.405,2.356695063,Growing
+2015,Africa Western and Central,5.388622272,2.910265408,Growing
+2015,Angola,5.774,2.691281115,Growing
+2015,Albania,1.613,12.54310654,At Risk of collapsing
+2015,Arab World,3.496060201,3.830595797,Growing
+2015,United Arab Emirates,1.486,1.504628496,At Risk of collapsing
+2015,Argentina,2.301,11.03152167,Growing
+2015,Armenia,1.602,10.92381411,At Risk of collapsing
+2015,Antigua and Barbuda,1.567,8.111040276,At Risk of collapsing
+2015,Australia,1.814,14.899458,At Risk of collapsing
+2015,Austria,1.49,18.4613708,Collapsing
+2015,Azerbaijan,1.94,5.794962498,At Risk of collapsing
+2015,Burundi,5.695,2.223138461,Growing
+2015,Belgium,1.7,18.16370947,Collapsing
+2015,Benin,5.319,3.037626001,Growing
+2015,Burkina Faso,5.478,2.59648429,Growing
+2015,Bangladesh,2.114,4.902601422,Growing
+2015,Bulgaria,1.53,20.20978146,Collapsing
+2015,Bahrain,2.131,2.588763553,Growing
+2015,"Bahamas, The",1.576,10.209902,At Risk of collapsing
+2015,Bosnia and Herzegovina,1.289,17.25351747,Collapsing
+2015,Belarus,1.724,14.31376685,At Risk of collapsing
+2015,Belize,2.438,4.076102971,Growing
+2015,Bermuda,1.4,16.10689609,Collapsing
+2015,Bolivia,2.886,5.579568404,Growing
+2015,Brazil,1.777,7.956807324,At Risk of collapsing
+2015,Barbados,1.614,12.92161009,At Risk of collapsing
+2015,Brunei Darussalam,1.947,4.156802929,At Risk of collapsing
+2015,Bhutan,1.957,5.633268433,At Risk of collapsing
+2015,Botswana,2.942,3.561111129,Growing
+2015,Central African Republic,6.035,1.953850463,Growing
+2015,Canada,1.6,16.01019976,Collapsing
+2015,Central Europe and the Baltics,1.461944044,16.96475459,Collapsing
+2015,Switzerland,1.54,17.88935668,Collapsing
+2015,Channel Islands,1.521,17.31735743,Collapsing
+2015,Chile,1.737,11.24965719,At Risk of collapsing
+2015,China,1.67,10.05342091,At Risk of collapsing
+2015,Cote d'Ivoire,4.813,2.519947196,Growing
+2015,Cameroon,4.832,2.845728614,Growing
+2015,"Congo, Dem. Rep.",6.437,3.126979571,Growing
+2015,"Congo, Rep.",4.564,2.661095788,Growing
+2015,Colombia,1.863,7.109127592,At Risk of collapsing
+2015,Comoros,4.418,4.285161873,Growing
+2015,Cabo Verde,2.117,5.156583758,Growing
+2015,Costa Rica,1.79,8.758969029,At Risk of collapsing
+2015,Caribbean small states,2.142162584,7.393883497,Growing
+2015,Cuba,1.694,14.20212275,At Risk of collapsing
+2015,Curacao,1.9,13.92666795,At Risk of collapsing
+2015,Cyprus,1.326,12.49990262,At Risk of collapsing
+2015,Czechia,1.57,18.09687977,Collapsing
+2015,Germany,1.5,21.05335368,Collapsing
+2015,Djibouti,3.066,4.123685575,Growing
+2015,Dominica,1.694,9.641386167,At Risk of collapsing
+2015,Denmark,1.71,18.70393956,Collapsing
+2015,Dominican Republic,2.43,5.744229254,Growing
+2015,Algeria,3.041,5.196735324,Growing
+2015,East Asia & Pacific (excluding high income),1.876921318,8.797211353,At Risk of collapsing
+2015,Early-demographic dividend,2.593476583,5.275583144,Growing
+2015,East Asia & Pacific,1.8327832,10.02208544,At Risk of collapsing
+2015,Europe & Central Asia (excluding high income),2.158608987,9.258219497,Growing
+2015,Europe & Central Asia,1.776029063,15.53322353,Collapsing
+2015,Ecuador,2.26,6.639976393,Growing
+2015,"Egypt, Arab Rep.",3.436,4.201294348,Growing
+2015,Euro area,1.548365079,19.7718824,Collapsing
+2015,Eritrea,4.217,3.932673997,Growing
+2015,Spain,1.33,18.54175461,Collapsing
+2015,Estonia,1.58,18.88875196,Collapsing
+2015,Ethiopia,4.531,2.935070381,Growing
+2015,European Union,1.537320401,19.19624384,Collapsing
+2015,Fragile and conflict affected situations,4.652822736,3.853899129,Growing
+2015,Finland,1.65,20.20906187,Collapsing
+2015,Fiji,2.642,5.208376425,Growing
+2015,France,1.96,18.85162696,Collapsing
+2015,Faroe Islands,2.419,16.89590641,At Risk of collapsing
+2015,"Micronesia, Fed. Sts.",2.971,3.914805157,Growing
+2015,Gabon,3.889,4.016875148,Growing
+2015,United Kingdom,1.8,17.7699802,Collapsing
+2015,Georgia,2.204,14.14194243,Growing
+2015,Ghana,4.05,3.358798205,Growing
+2015,Gibraltar,2.186,17.32921594,At Risk of collapsing
+2015,Guinea,5.022,3.508366994,Growing
+2015,"Gambia, The",5.314,2.614823183,Growing
+2015,Guinea-Bissau,4.671,2.819520095,Growing
+2015,Equatorial Guinea,4.774,3.268536229,Growing
+2015,Greece,1.33,21.0794802,Collapsing
+2015,Grenada,2.126,10.0670585,Growing
+2015,Greenland,2.01,7.716749076,At Risk of collapsing
+2015,Guatemala,3.029,4.151885614,Growing
+2015,Guam,2.922,8.546764946,Growing
+2015,Guyana,2.534,5.312336498,Growing
+2015,High income,1.67587894,16.60871779,Collapsing
+2015,"Hong Kong SAR, China",1.196,15.38259582,Collapsing
+2015,Honduras,2.581,3.422686595,Growing
+2015,Heavily indebted poor countries (HIPC),5.038741522,2.866151889,Growing
+2015,Croatia,1.41,19.23112363,Collapsing
+2015,Haiti,3.108,4.111166697,Growing
+2015,Hungary,1.45,18.05599047,Collapsing
+2015,IBRD only,2.101981088,7.741152478,Growing
+2015,IDA & IBRD total,2.616649968,6.655285859,Growing
+2015,IDA total,4.220914847,3.489371802,Growing
+2015,IDA blend,4.403399816,3.383040164,Growing
+2015,Indonesia,2.345,6.081847278,Growing
+2015,IDA only,4.130320404,3.543627508,Growing
+2015,Isle of Man,1.711,20.24391995,Collapsing
+2015,India,2.287,5.469213078,Growing
+2015,Ireland,1.85,13.11025421,At Risk of collapsing
+2015,"Iran, Islamic Rep.",2.053,6.006599882,At Risk of collapsing
+2015,Iraq,4.09,3.045108424,Growing
+2015,Iceland,1.8,13.67934577,At Risk of collapsing
+2015,Israel,3.09,11.01782666,Growing
+2015,Italy,1.35,22.02852561,Collapsing
+2015,Jamaica,1.588,6.40393658,At Risk of collapsing
+2015,Jordan,3.175,3.318580339,Growing
+2015,Japan,1.45,26.92300342,Collapsing
+2015,Kazakhstan,2.74,6.761463576,Growing
+2015,Kenya,3.8,2.443165242,Growing
+2015,Kyrgyz Republic,3.2,4.966542161,Growing
+2015,Cambodia,2.55,4.568735552,Growing
+2015,Kiribati,3.53,3.684030304,Growing
+2015,St. Kitts and Nevis,1.643,7.620918503,At Risk of collapsing
+2015,"Korea, Rep.",1.239,12.95468571,At Risk of collapsing
+2015,Kuwait,2.16,2.408869685,Growing
+2015,Latin America & Caribbean (excluding high income),2.071043285,7.52017731,At Risk of collapsing
+2015,Lao PDR,2.766,4.131088573,Growing
+2015,Lebanon,2.178,6.789580607,Growing
+2015,Liberia,4.523,3.184820207,Growing
+2015,Libya,2.711,4.478139667,Growing
+2015,St. Lucia,1.473,7.988073492,At Risk of collapsing
+2015,Latin America & Caribbean,2.072914485,7.682949018,At Risk of collapsing
+2015,Least developed countries: UN classification,4.277554904,3.400805168,Growing
+2015,Low income,5.021147264,3.118168772,Growing
+2015,Liechtenstein,1.4,16.37032086,Collapsing
+2015,Sri Lanka,2.091,8.990545616,At Risk of collapsing
+2015,Lower middle income,2.914784106,4.770050235,Growing
+2015,Low & middle income,2.649057503,6.38821864,Growing
+2015,Lesotho,3.264,3.899199448,Growing
+2015,Late-demographic dividend,1.739886233,9.846566637,At Risk of collapsing
+2015,Lithuania,1.7,18.88030136,Collapsing
+2015,Luxembourg,1.47,14.19541522,At Risk of collapsing
+2015,Latvia,1.7,19.52431584,Collapsing
+2015,"Macao SAR, China",1.196,8.610303466,At Risk of collapsing
+2015,St. Martin (French part),2.558,7.033905109,Growing
+2015,Morocco,2.531,5.802137875,Growing
+2015,Moldova,1.868,11.70917975,At Risk of collapsing
+2015,Madagascar,4.183,2.788253805,Growing
+2015,Maldives,1.99,4.014793742,At Risk of collapsing
+2015,Middle East & North Africa,2.962238387,4.538089865,Growing
+2015,Mexico,2.137,6.650848378,Growing
+2015,Marshall Islands,3.063,2.800176228,Growing
+2015,Middle income,2.417187596,6.743016345,Growing
+2015,North Macedonia,1.49,13.40426467,At Risk of collapsing
+2015,Mali,6.385,2.633270159,Growing
+2015,Malta,1.37,18.32731996,Collapsing
+2015,Myanmar,2.248,5.629857455,Growing
+2015,Middle East & North Africa (excluding high income),3.025757817,4.69805981,Growing
+2015,Montenegro,1.74,14.42047616,At Risk of collapsing
+2015,Mongolia,3.01,3.83803196,Growing
+2015,Mozambique,5.062,2.742444719,Growing
+2015,Mauritania,4.813,3.533420735,Growing
+2015,Mauritius,1.36,8.879917634,At Risk of collapsing
+2015,Malawi,4.452,3.069935496,Growing
+2015,Malaysia,2.039,5.708475201,At Risk of collapsing
+2015,North America,1.81886641,14.48079861,At Risk of collapsing
+2015,Namibia,3.604,3.533421121,Growing
+2015,New Caledonia,2.08,8.796544807,At Risk of collapsing
+2015,Niger,7.211,2.443735043,Growing
+2015,Nigeria,5.616,2.970284375,Growing
+2015,Nicaragua,2.48,4.695469505,Growing
+2015,Netherlands,1.66,17.75669091,Collapsing
+2015,Norway,1.72,16.27477397,Collapsing
+2015,Nepal,2.25,5.482604372,Growing
+2015,Nauru,3.827,1.497169984,Growing
+2015,New Zealand,1.99,14.55535932,At Risk of collapsing
+2015,OECD members,1.746228134,15.83436937,Collapsing
+2015,Oman,2.959,2.574915261,Growing
+2015,Other small states,2.336306621,8.121531587,Growing
+2015,Pakistan,3.904,3.820919407,Growing
+2015,Panama,2.564,7.197954967,Growing
+2015,Peru,2.338,8.19443423,Growing
+2015,Philippines,2.951,3.770242345,Growing
+2015,Palau,2.21,7.518500802,Growing
+2015,Papua New Guinea,3.558,2.844538516,Growing
+2015,Poland,1.32,15.37753283,Collapsing
+2015,Pre-demographic dividend,5.289098223,2.771674547,Growing
+2015,Puerto Rico,1.3365,18.14675487,Collapsing
+2015,"Korea, Dem. People's Rep.",1.884,10.94634873,At Risk of collapsing
+2015,Portugal,1.31,20.5742533,Collapsing
+2015,Paraguay,2.645,5.563090924,Growing
+2015,West Bank and Gaza,4.046,3.215026213,Growing
+2015,Pacific island small states,3.464084736,4.436244119,Growing
+2015,Post-demographic dividend,1.63247461,17.92132826,Collapsing
+2015,French Polynesia,1.905,7.315216687,At Risk of collapsing
+2015,Qatar,1.864,1.050845775,At Risk of collapsing
+2015,Romania,1.62,17.2096253,Collapsing
+2015,Russian Federation,1.777,13.53446475,At Risk of collapsing
+2015,Rwanda,4.081,2.96109406,Growing
+2015,South Asia,2.502346558,5.200799459,Growing
+2015,Saudi Arabia,2.637,2.228113032,Growing
+2015,Sudan,4.898,2.673037342,Growing
+2015,Senegal,4.781,3.523623343,Growing
+2015,Singapore,1.24,8.998207259,At Risk of collapsing
+2015,Solomon Islands,4.356,3.517824887,Growing
+2015,Sierra Leone,4.548,3.154260901,Growing
+2015,El Salvador,2.067,7.130822578,At Risk of collapsing
+2015,Somalia,6.978,2.392332681,Growing
+2015,Serbia,1.46,18.88397971,Collapsing
+2015,Sub-Saharan Africa (excluding high income),4.961336885,2.975455367,Growing
+2015,South Sudan,4.937,2.534876804,Growing
+2015,Sub-Saharan Africa,4.961084833,2.975827339,Growing
+2015,Small states,2.452358337,7.517728752,Growing
+2015,Sao Tome and Principe,4.387,3.57155339,Growing
+2015,Suriname,2.494,6.126263052,Growing
+2015,Slovak Republic,1.4,14.14878536,At Risk of collapsing
+2015,Slovenia,1.57,18.01842475,Collapsing
+2015,Sweden,1.85,19.69826159,Collapsing
+2015,Eswatini,3.117,3.39635767,Growing
+2015,Sint Maarten (Dutch part),1.73,7.644476469,At Risk of collapsing
+2015,Seychelles,2.31,7.057759292,Growing
+2015,Syrian Arab Republic,3.049,4.169850341,Growing
+2015,Turks and Caicos Islands,1.67,8.251604972,At Risk of collapsing
+2015,Chad,6.706,2.059392443,Growing
+2015,East Asia & Pacific (IDA & IBRD countries),1.876843993,8.77009118,At Risk of collapsing
+2015,Europe & Central Asia (IDA & IBRD countries),1.936506385,11.74399054,At Risk of collapsing
+2015,Togo,4.594,2.844883704,Growing
+2015,Thailand,1.469,10.32397274,At Risk of collapsing
+2015,Tajikistan,3.459,2.955214349,Growing
+2015,Turkmenistan,2.93,3.565616167,Growing
+2015,Latin America & the Caribbean (IDA & IBRD countries),2.083567228,7.495348686,At Risk of collapsing
+2015,Timor-Leste,3.903,5.260795191,Growing
+2015,Middle East & North Africa (IDA & IBRD countries),3.014688467,4.71472654,Growing
+2015,Tonga,3.562,6.008294453,Growing
+2015,South Asia (IDA & IBRD),2.502346558,5.200799459,Growing
+2015,Sub-Saharan Africa (IDA & IBRD countries),4.961084833,2.975827339,Growing
+2015,Trinidad and Tobago,1.682,8.007271259,At Risk of collapsing
+2015,Tunisia,2.251,6.969102803,Growing
+2015,Turkiye,2.194,7.618432127,Growing
+2015,Tuvalu,3.217,5.418224938,Growing
+2015,Tanzania,5.088,2.947662713,Growing
+2015,Uganda,5.306,1.935084008,Growing
+2015,Ukraine,1.506,15.15449658,Collapsing
+2015,Upper middle income,1.920399594,8.766375762,At Risk of collapsing
+2015,Uruguay,2.023,14.60984312,At Risk of collapsing
+2015,United States,1.8435,14.31022471,At Risk of collapsing
+2015,Uzbekistan,2.491,4.728788301,Growing
+2015,St. Vincent and the Grenadines,2.099,9.526458489,At Risk of collapsing
+2015,"Venezuela, RB",2.34,6.535954831,Growing
+2015,British Virgin Islands,1.186,6.870063048,At Risk of collapsing
+2015,Virgin Islands (U.S.),2.11,17.27075488,At Risk of collapsing
+2015,Viet Nam,1.951,6.450789799,At Risk of collapsing
+2015,Vanuatu,4.006,3.737490652,Growing
+2015,World,2.485712322,8.257877124,Growing
+2015,Samoa,4.357,4.873328642,Growing
+2015,Kosovo,1.751,7.537520657,At Risk of collapsing
+2015,"Yemen, Rep.",4.322,2.696581341,Growing
+2015,South Africa,2.359,5.369611431,Growing
+2015,Zambia,4.793,1.737770364,Growing
+2015,Zimbabwe,3.849,3.22149164,Growing
+2016,Aruba,1.953,12.16319843,At Risk of collapsing
+2016,Africa Eastern and Southern,4.616539968,3.044976799,Growing
+2016,Afghanistan,5.262,2.355497361,Growing
+2016,Africa Western and Central,5.333060787,2.903209401,Growing
+2016,Angola,5.686,2.685013948,Growing
+2016,Albania,1.551,12.92021216,At Risk of collapsing
+2016,Arab World,3.392616039,3.894462748,Growing
+2016,United Arab Emirates,1.438,1.485221861,At Risk of collapsing
+2016,Argentina,2.241,11.16881432,Growing
+2016,Armenia,1.626,11.14486556,At Risk of collapsing
+2016,Antigua and Barbuda,1.458,8.445131101,At Risk of collapsing
+2016,Australia,1.752,15.1508163,Collapsing
+2016,Austria,1.53,18.49991568,Collapsing
+2016,Azerbaijan,1.9,5.946403014,At Risk of collapsing
+2016,Burundi,5.587,2.269399101,Growing
+2016,Belgium,1.68,18.35666618,Collapsing
+2016,Benin,5.303,3.031443878,Growing
+2016,Burkina Faso,5.324,2.573497381,Growing
+2016,Bangladesh,2.097,5.072238343,At Risk of collapsing
+2016,Bulgaria,1.54,20.57605163,Collapsing
+2016,Bahrain,2.073,2.537485905,At Risk of collapsing
+2016,"Bahamas, The",1.496,10.36488337,At Risk of collapsing
+2016,Bosnia and Herzegovina,1.324,17.77183895,Collapsing
+2016,Belarus,1.733,14.54027547,At Risk of collapsing
+2016,Belize,2.394,4.131147091,Growing
+2016,Bermuda,1.4,16.64578359,Collapsing
+2016,Bolivia,2.829,5.601085937,Growing
+2016,Brazil,1.709,8.268573953,At Risk of collapsing
+2016,Barbados,1.613,13.20308658,At Risk of collapsing
+2016,Brunei Darussalam,1.915,4.403083515,At Risk of collapsing
+2016,Bhutan,1.835,5.762529651,At Risk of collapsing
+2016,Botswana,2.93,3.639694457,Growing
+2016,Central African Republic,6.04,2.032007588,Growing
+2016,Canada,1.59,16.38810219,Collapsing
+2016,Central Europe and the Baltics,1.521934993,17.411897,Collapsing
+2016,Switzerland,1.54,18.03858935,Collapsing
+2016,Channel Islands,1.507,17.667285,Collapsing
+2016,Chile,1.676,11.54489751,At Risk of collapsing
+2016,China,1.772,10.49079946,At Risk of collapsing
+2016,Cote d'Ivoire,4.759,2.496702069,Growing
+2016,Cameroon,4.818,2.82198108,Growing
+2016,"Congo, Dem. Rep.",6.392,3.115308699,Growing
+2016,"Congo, Rep.",4.487,2.667851404,Growing
+2016,Colombia,1.843,7.388576787,At Risk of collapsing
+2016,Comoros,4.348,4.364461449,Growing
+2016,Cabo Verde,2.123,5.300607057,Growing
+2016,Costa Rica,1.754,9.074876246,At Risk of collapsing
+2016,Caribbean small states,2.108702103,7.55267722,Growing
+2016,Cuba,1.609,14.47651046,At Risk of collapsing
+2016,Curacao,1.7,14.35161593,At Risk of collapsing
+2016,Cyprus,1.36,12.73065303,At Risk of collapsing
+2016,Czechia,1.63,18.59515922,Collapsing
+2016,Germany,1.6,21.13499618,Collapsing
+2016,Djibouti,3.011,4.200151688,Growing
+2016,Dominica,1.657,10.56438695,At Risk of collapsing
+2016,Denmark,1.79,18.94257028,Collapsing
+2016,Dominican Republic,2.406,5.929267688,Growing
+2016,Algeria,3.051,5.325899878,Growing
+2016,East Asia & Pacific (excluding high income),1.93599317,9.132428516,At Risk of collapsing
+2016,Early-demographic dividend,2.558041397,5.403094827,Growing
+2016,East Asia & Pacific,1.883392375,10.36830647,At Risk of collapsing
+2016,Europe & Central Asia (excluding high income),2.140023832,9.425448496,Growing
+2016,Europe & Central Asia,1.781833179,15.77946798,Collapsing
+2016,Ecuador,2.201,6.825689466,Growing
+2016,"Egypt, Arab Rep.",3.203,4.277004849,Growing
+2016,Euro area,1.567909136,20.03481386,Collapsing
+2016,Eritrea,4.164,3.963807062,Growing
+2016,Spain,1.34,18.76733888,Collapsing
+2016,Estonia,1.6,19.18601602,Collapsing
+2016,Ethiopia,4.469,2.953421368,Growing
+2016,European Union,1.566496542,19.49415299,Collapsing
+2016,Fragile and conflict affected situations,4.611146808,3.878479985,Growing
+2016,Finland,1.57,20.68380333,Collapsing
+2016,Fiji,2.605,5.328906857,Growing
+2016,France,1.92,19.28466417,Collapsing
+2016,Faroe Islands,2.6215,17.13867434,At Risk of collapsing
+2016,"Micronesia, Fed. Sts.",2.942,4.111868494,Growing
+2016,Gabon,3.817,4.002916718,Growing
+2016,United Kingdom,1.79,17.91620257,Collapsing
+2016,Georgia,2.198,14.2606638,Growing
+2016,Ghana,3.911,3.369365772,Growing
+2016,Gibraltar,1.94,17.52306253,Collapsing
+2016,Guinea,4.926,3.49199828,Growing
+2016,"Gambia, The",5.197,2.619857214,Growing
+2016,Guinea-Bissau,4.531,2.849810865,Growing
+2016,Equatorial Guinea,4.686,3.29999085,Growing
+2016,Greece,1.38,21.3988877,Collapsing
+2016,Grenada,2.104,10.20368279,Growing
+2016,Greenland,2.0,7.952944114,At Risk of collapsing
+2016,Guatemala,2.973,4.215997409,Growing
+2016,Guam,2.952,8.984768637,Growing
+2016,Guyana,2.509,5.463900108,Growing
+2016,High income,1.670665259,16.90269687,Collapsing
+2016,"Hong Kong SAR, China",1.205,15.99508613,Collapsing
+2016,Honduras,2.536,3.535285443,Growing
+2016,Heavily indebted poor countries (HIPC),4.96917273,2.875571655,Growing
+2016,Croatia,1.43,19.65811935,Collapsing
+2016,Haiti,3.062,4.168563862,Growing
+2016,Hungary,1.53,18.43826614,Collapsing
+2016,IBRD only,2.111997156,7.990064343,Growing
+2016,IDA & IBRD total,2.620452598,6.840132096,Growing
+2016,IDA total,4.173857171,3.52632394,Growing
+2016,IDA blend,4.353861656,3.403877192,Growing
+2016,Indonesia,2.309,6.148563563,Growing
+2016,IDA only,4.084983926,3.588609091,Growing
+2016,Isle of Man,1.691,20.67069226,Collapsing
+2016,India,2.273,5.641730853,Growing
+2016,Ireland,1.81,13.39209211,At Risk of collapsing
+2016,"Iran, Islamic Rep.",2.07,6.251081883,At Risk of collapsing
+2016,Iraq,3.9,3.085743462,Growing
+2016,Iceland,1.74,13.92139129,At Risk of collapsing
+2016,Israel,3.11,11.26139928,Growing
+2016,Italy,1.34,22.30958864,Collapsing
+2016,Jamaica,1.516,6.515090314,At Risk of collapsing
+2016,Jordan,3.077,3.412847211,Growing
+2016,Japan,1.44,27.51202814,Collapsing
+2016,Kazakhstan,2.77,6.939739674,Growing
+2016,Kenya,3.724,2.496760106,Growing
+2016,Kyrgyz Republic,3.1,5.079552355,Growing
+2016,Cambodia,2.512,4.735418083,Growing
+2016,Kiribati,3.471,3.738668782,Growing
+2016,St. Kitts and Nevis,1.633,7.846073777,At Risk of collapsing
+2016,"Korea, Rep.",1.172,13.36310385,At Risk of collapsing
+2016,Kuwait,2.157,2.638443186,Growing
+2016,Latin America & Caribbean (excluding high income),2.018395922,7.729403715,At Risk of collapsing
+2016,Lao PDR,2.722,4.101832409,Growing
+2016,Lebanon,2.183,7.327868732,Growing
+2016,Liberia,4.461,3.182779153,Growing
+2016,Libya,2.673,4.541500308,Growing
+2016,St. Lucia,1.461,8.100099063,At Risk of collapsing
+2016,Latin America & Caribbean,2.021462081,7.895714803,At Risk of collapsing
+2016,Least developed countries: UN classification,4.232371851,3.439275495,Growing
+2016,Low income,4.956512338,3.123153922,Growing
+2016,Liechtenstein,1.61,16.86428287,Collapsing
+2016,Sri Lanka,2.068,9.345508014,At Risk of collapsing
+2016,Lower middle income,2.882277951,4.889285282,Growing
+2016,Low & middle income,2.652366973,6.568668831,Growing
+2016,Lesotho,3.239,3.839990387,Growing
+2016,Late-demographic dividend,1.790659312,10.21896664,At Risk of collapsing
+2016,Lithuania,1.69,19.17577562,Collapsing
+2016,Luxembourg,1.41,14.24244138,At Risk of collapsing
+2016,Latvia,1.74,19.77538736,Collapsing
+2016,"Macao SAR, China",1.175,9.036017793,At Risk of collapsing
+2016,St. Martin (French part),2.534,7.550773369,Growing
+2016,Morocco,2.451,5.995544558,Growing
+2016,Moldova,1.89,12.29908388,At Risk of collapsing
+2016,Madagascar,4.163,2.866624046,Growing
+2016,Maldives,1.913,3.932141987,At Risk of collapsing
+2016,Middle East & North Africa,2.879912801,4.642103503,Growing
+2016,Mexico,2.086,6.801589484,At Risk of collapsing
+2016,Marshall Islands,2.983,3.00362615,Growing
+2016,Middle income,2.421902119,6.948022487,Growing
+2016,North Macedonia,1.5,13.90407542,At Risk of collapsing
+2016,Mali,6.319,2.604535771,Growing
+2016,Malta,1.37,18.65556407,Collapsing
+2016,Myanmar,2.249,5.78481355,Growing
+2016,Middle East & North Africa (excluding high income),2.938555303,4.819703572,Growing
+2016,Montenegro,1.79,14.82582657,At Risk of collapsing
+2016,Mongolia,2.957,3.885130024,Growing
+2016,Mozambique,4.992,2.759090671,Growing
+2016,Mauritania,4.741,3.450962908,Growing
+2016,Mauritius,1.4,9.380915906,At Risk of collapsing
+2016,Malawi,4.309,2.977760975,Growing
+2016,Malaysia,1.978,5.879933918,At Risk of collapsing
+2016,North America,1.797186875,14.79334376,At Risk of collapsing
+2016,Namibia,3.574,3.544524402,Growing
+2016,New Caledonia,2.13,9.091887391,Growing
+2016,Niger,7.141,2.45772773,Growing
+2016,Nigeria,5.584,2.965291795,Growing
+2016,Nicaragua,2.455,4.799816387,Growing
+2016,Netherlands,1.66,18.09439727,Collapsing
+2016,Norway,1.71,16.51727097,Collapsing
+2016,Nepal,2.203,5.625829042,Growing
+2016,Nauru,3.791,1.66367713,Growing
+2016,New Zealand,1.87,14.71130087,At Risk of collapsing
+2016,OECD members,1.73631245,16.11303439,Collapsing
+2016,Oman,2.946,2.550139465,Growing
+2016,Other small states,2.308558096,8.267845138,Growing
+2016,Pakistan,3.827,3.850418628,Growing
+2016,Panama,2.528,7.398575335,Growing
+2016,Peru,2.306,8.304772293,Growing
+2016,Philippines,2.892,3.937811109,Growing
+2016,Papua New Guinea,3.495,2.887995521,Growing
+2016,Poland,1.39,15.91291151,Collapsing
+2016,Pre-demographic dividend,5.219520274,2.777554128,Growing
+2016,Puerto Rico,1.2425,18.9020881,Collapsing
+2016,"Korea, Dem. People's Rep.",1.87,10.98659479,At Risk of collapsing
+2016,Portugal,1.36,21.02699864,Collapsing
+2016,Paraguay,2.624,5.673233345,Growing
+2016,West Bank and Gaza,3.935,3.284050753,Growing
+2016,Pacific island small states,3.431884372,4.514684617,Growing
+2016,Post-demographic dividend,1.623685968,18.2359273,Collapsing
+2016,French Polynesia,1.852,7.556841078,At Risk of collapsing
+2016,Qatar,1.827,1.086223903,At Risk of collapsing
+2016,Romania,1.69,17.57419288,Collapsing
+2016,Russian Federation,1.762,13.87152526,At Risk of collapsing
+2016,Rwanda,4.06,3.04670211,Growing
+2016,South Asia,2.478413302,5.353042642,Growing
+2016,Saudi Arabia,2.59,2.213650756,Growing
+2016,Sudan,4.829,2.720969313,Growing
+2016,Senegal,4.683,3.506896013,Growing
+2016,Singapore,1.2,9.447941212,At Risk of collapsing
+2016,Solomon Islands,4.293,3.572806183,Growing
+2016,Sierra Leone,4.466,3.140682621,Growing
+2016,El Salvador,1.965,7.245089928,At Risk of collapsing
+2016,Somalia,6.886,2.431133326,Growing
+2016,Serbia,1.46,19.38536921,Collapsing
+2016,Sub-Saharan Africa (excluding high income),4.901749523,2.986779703,Growing
+2016,South Sudan,4.855,2.519228351,Growing
+2016,Sub-Saharan Africa,4.901517835,2.987148831,Growing
+2016,Small states,2.422633168,7.657552403,Growing
+2016,Sao Tome and Principe,4.274,3.610660396,Growing
+2016,Suriname,2.469,6.249521486,Growing
+2016,Slovak Republic,1.48,14.66242905,At Risk of collapsing
+2016,Slovenia,1.58,18.51205483,Collapsing
+2016,Sweden,1.85,19.77383486,Collapsing
+2016,Eswatini,3.068,3.475053447,Growing
+2016,Sint Maarten (Dutch part),1.673,8.358388455,At Risk of collapsing
+2016,Seychelles,2.39,7.091539869,Growing
+2016,Syrian Arab Republic,2.994,4.292430691,Growing
+2016,Turks and Caicos Islands,1.722,8.678063422,At Risk of collapsing
+2016,Chad,6.623,2.051598267,Growing
+2016,East Asia & Pacific (IDA & IBRD countries),1.936844147,9.109085675,At Risk of collapsing
+2016,Europe & Central Asia (IDA & IBRD countries),1.931508516,11.99624416,At Risk of collapsing
+2016,Togo,4.56,2.880983379,Growing
+2016,Thailand,1.435,10.78147839,At Risk of collapsing
+2016,Tajikistan,3.384,2.984914441,Growing
+2016,Turkmenistan,2.887,3.590896662,Growing
+2016,Latin America & the Caribbean (IDA & IBRD countries),2.032616714,7.706733069,At Risk of collapsing
+2016,Timor-Leste,3.737,5.389919414,Growing
+2016,Middle East & North Africa (IDA & IBRD countries),2.927606285,4.837049116,Growing
+2016,Tonga,3.483,6.028960237,Growing
+2016,South Asia (IDA & IBRD),2.478413302,5.353042642,Growing
+2016,Sub-Saharan Africa (IDA & IBRD countries),4.901517835,2.987148831,Growing
+2016,Trinidad and Tobago,1.678,8.463555983,At Risk of collapsing
+2016,Tunisia,2.238,7.161669554,Growing
+2016,Turkiye,2.177,7.759650875,Growing
+2016,Tuvalu,3.195,5.402808912,Growing
+2016,Tanzania,5.033,2.955566505,Growing
+2016,Uganda,5.174,1.958594353,Growing
+2016,Ukraine,1.466,15.52922176,Collapsing
+2016,Upper middle income,1.953061534,9.074007011,At Risk of collapsing
+2016,Uruguay,1.945,14.69751128,At Risk of collapsing
+2016,United States,1.8205,14.61472851,At Risk of collapsing
+2016,Uzbekistan,2.455,4.831185459,Growing
+2016,St. Vincent and the Grenadines,2.025,9.738266172,At Risk of collapsing
+2016,"Venezuela, RB",2.317,6.735644303,Growing
+2016,British Virgin Islands,0.987,7.178700041,At Risk of collapsing
+2016,Virgin Islands (U.S.),2.09,18.06426212,Collapsing
+2016,Viet Nam,1.938,6.608763086,At Risk of collapsing
+2016,Vanuatu,3.963,3.825070336,Growing
+2016,World,2.488831299,8.448340541,Growing
+2016,Samoa,4.269,4.878893754,Growing
+2016,Kosovo,1.658,7.794065435,At Risk of collapsing
+2016,"Yemen, Rep.",4.214,2.657470598,Growing
+2016,South Africa,2.261,5.473534887,Growing
+2016,Zambia,4.707,1.743441086,Growing
+2016,Zimbabwe,3.771,3.305779322,Growing
+2017,Aruba,1.839,12.71676574,At Risk of collapsing
+2017,Africa Eastern and Southern,4.570828206,3.074828314,Growing
+2017,Afghanistan,5.129,2.359737022,Growing
+2017,Africa Western and Central,5.260538026,2.900339854,Growing
+2017,Angola,5.6,2.685241684,Growing
+2017,Albania,1.491,13.30539111,At Risk of collapsing
+2017,Arab World,3.34689307,3.980061564,Growing
+2017,United Arab Emirates,1.419,1.478884168,At Risk of collapsing
+2017,Argentina,2.168,11.30712476,Growing
+2017,Armenia,1.562,11.41717555,At Risk of collapsing
+2017,Antigua and Barbuda,1.485,8.79869125,At Risk of collapsing
+2017,Australia,1.741,15.38761302,Collapsing
+2017,Austria,1.52,18.61032967,Collapsing
+2017,Azerbaijan,1.75,6.140135594,At Risk of collapsing
+2017,Burundi,5.481,2.316077277,Growing
+2017,Belgium,1.65,18.58490343,Collapsing
+2017,Benin,5.269,3.027846024,Growing
+2017,Burkina Faso,5.162,2.559485689,Growing
+2017,Bangladesh,2.043,5.258889051,At Risk of collapsing
+2017,Bulgaria,1.56,20.86995578,Collapsing
+2017,Bahrain,2.006,2.612019609,At Risk of collapsing
+2017,"Bahamas, The",1.426,10.5142323,At Risk of collapsing
+2017,Bosnia and Herzegovina,1.355,18.3388809,Collapsing
+2017,Belarus,1.541,14.79764795,At Risk of collapsing
+2017,Belize,2.36,4.194382927,Growing
+2017,Bermuda,1.4,17.16618039,Collapsing
+2017,Bolivia,2.777,5.626938838,Growing
+2017,Brazil,1.736,8.591652915,At Risk of collapsing
+2017,Barbados,1.615,13.51585282,At Risk of collapsing
+2017,Brunei Darussalam,1.881,4.678560535,At Risk of collapsing
+2017,Bhutan,1.704,5.83666795,At Risk of collapsing
+2017,Botswana,2.91,3.714684524,Growing
+2017,Central African Republic,6.048,2.097523308,Growing
+2017,Canada,1.55,16.75821369,Collapsing
+2017,Central Europe and the Baltics,1.581268725,17.85417356,Collapsing
+2017,Switzerland,1.52,18.20047558,Collapsing
+2017,Channel Islands,1.466,18.00151534,Collapsing
+2017,Chile,1.598,11.81308342,At Risk of collapsing
+2017,China,1.813,10.98096066,At Risk of collapsing
+2017,Cote d'Ivoire,4.742,2.483957177,Growing
+2017,Cameroon,4.774,2.803670631,Growing
+2017,"Congo, Dem. Rep.",6.349,3.104224298,Growing
+2017,"Congo, Rep.",4.433,2.682016539,Growing
+2017,Colombia,1.818,7.65248495,At Risk of collapsing
+2017,Comoros,4.278,4.412098016,Growing
+2017,Cabo Verde,2.091,5.465272484,At Risk of collapsing
+2017,Costa Rica,1.74,9.400027721,At Risk of collapsing
+2017,Caribbean small states,2.081956455,7.729553381,At Risk of collapsing
+2017,Cuba,1.593,14.75460731,At Risk of collapsing
+2017,Curacao,1.5,14.79295735,At Risk of collapsing
+2017,Cyprus,1.322,12.95034464,At Risk of collapsing
+2017,Czechia,1.69,19.085882,Collapsing
+2017,Germany,1.57,21.29364051,Collapsing
+2017,Djibouti,2.972,4.267232819,Growing
+2017,Dominica,1.629,11.65096027,At Risk of collapsing
+2017,Denmark,1.75,19.18226841,Collapsing
+2017,Dominican Republic,2.39,6.133047051,Growing
+2017,Algeria,3.05,5.467242325,Growing
+2017,East Asia & Pacific (excluding high income),1.954408624,9.506277339,At Risk of collapsing
+2017,Early-demographic dividend,2.503855466,5.544758784,Growing
+2017,East Asia & Pacific,1.895977334,10.74465598,At Risk of collapsing
+2017,Europe & Central Asia (excluding high income),2.086557227,9.62009416,At Risk of collapsing
+2017,Europe & Central Asia,1.736849131,16.03774805,Collapsing
+2017,Ecuador,2.174,7.003926932,Growing
+2017,"Egypt, Arab Rep.",3.151,4.36669398,Growing
+2017,Euro area,1.542534016,20.30120169,Collapsing
+2017,Eritrea,4.112,4.000940214,Growing
+2017,Spain,1.31,18.99282004,Collapsing
+2017,Estonia,1.59,19.4674154,Collapsing
+2017,Ethiopia,4.39,2.977272974,Growing
+2017,European Union,1.559547806,19.79096002,Collapsing
+2017,Fragile and conflict affected situations,4.55885028,3.908758565,Growing
+2017,Finland,1.49,21.14574733,Collapsing
+2017,Fiji,2.557,5.47733708,Growing
+2017,France,1.89,19.67084868,Collapsing
+2017,Faroe Islands,2.48,17.30788369,At Risk of collapsing
+2017,"Micronesia, Fed. Sts.",2.893,4.306206985,Growing
+2017,Gabon,3.752,3.99443646,Growing
+2017,United Kingdom,1.74,18.07341362,Collapsing
+2017,Georgia,2.144,14.37438091,Growing
+2017,Ghana,3.713,3.385157347,Growing
+2017,Gibraltar,1.895,17.54880346,Collapsing
+2017,Guinea,4.789,3.477703528,Growing
+2017,"Gambia, The",5.091,2.638621392,Growing
+2017,Guinea-Bissau,4.358,2.888968268,Growing
+2017,Equatorial Guinea,4.599,3.342655557,Growing
+2017,Greece,1.35,21.65633743,Collapsing
+2017,Grenada,2.083,10.36357179,At Risk of collapsing
+2017,Greenland,2.09,8.18337465,At Risk of collapsing
+2017,Guatemala,2.857,4.289389672,Growing
+2017,Guam,2.805,9.42748792,Growing
+2017,Guyana,2.485,5.623839834,Growing
+2017,High income,1.626551311,17.21521629,Collapsing
+2017,"Hong Kong SAR, China",1.128,16.57073847,Collapsing
+2017,Honduras,2.496,3.651470752,Growing
+2017,Heavily indebted poor countries (HIPC),4.89659027,2.888598337,Growing
+2017,Croatia,1.42,20.13544322,Collapsing
+2017,Haiti,3.016,4.231095475,Growing
+2017,Hungary,1.54,18.77974938,Collapsing
+2017,IBRD only,2.092234487,8.264483138,At Risk of collapsing
+2017,IDA & IBRD total,2.599858155,7.043587745,Growing
+2017,IDA total,4.118836118,3.567890841,Growing
+2017,IDA blend,4.296987403,3.429582713,Growing
+2017,Indonesia,2.262,6.23843351,Growing
+2017,IDA only,4.031287951,3.638018636,Growing
+2017,Isle of Man,1.677,21.01328804,Collapsing
+2017,India,2.2,5.82470529,Growing
+2017,Ireland,1.77,13.67204541,At Risk of collapsing
+2017,"Iran, Islamic Rep.",2.074,6.500779155,At Risk of collapsing
+2017,Iraq,3.73,3.150722887,Growing
+2017,Iceland,1.71,14.02287709,At Risk of collapsing
+2017,Israel,3.11,11.49246457,Growing
+2017,Italy,1.32,22.55866909,Collapsing
+2017,Jamaica,1.44,6.640365926,At Risk of collapsing
+2017,Jordan,3.027,3.525005213,Growing
+2017,Japan,1.43,27.97782138,Collapsing
+2017,Kazakhstan,2.75,7.123694056,Growing
+2017,Kenya,3.643,2.54036944,Growing
+2017,Kyrgyz Republic,3.0,5.119177602,Growing
+2017,Cambodia,2.473,4.908836027,Growing
+2017,Kiribati,3.431,3.792990202,Growing
+2017,St. Kitts and Nevis,1.61,8.151879364,At Risk of collapsing
+2017,"Korea, Rep.",1.052,13.87374621,At Risk of collapsing
+2017,Kuwait,2.161,2.917116811,Growing
+2017,Latin America & Caribbean (excluding high income),2.002100484,7.94415132,At Risk of collapsing
+2017,Lao PDR,2.671,4.102222424,Growing
+2017,Lebanon,2.173,7.847150254,Growing
+2017,Liberia,4.396,3.187655324,Growing
+2017,Libya,2.626,4.587217295,Growing
+2017,St. Lucia,1.448,8.223792403,At Risk of collapsing
+2017,Latin America & Caribbean,2.001530508,8.118233672,At Risk of collapsing
+2017,Least developed countries: UN classification,4.179349718,3.483204818,Growing
+2017,Low income,4.888309709,3.125006137,Growing
+2017,Liechtenstein,1.44,17.3749356,Collapsing
+2017,Sri Lanka,2.053,9.693685874,At Risk of collapsing
+2017,Lower middle income,2.826397935,5.016866838,Growing
+2017,Low & middle income,2.633238769,6.766982076,Growing
+2017,Lesotho,3.187,3.800871583,Growing
+2017,Late-demographic dividend,1.806165711,10.6270145,At Risk of collapsing
+2017,Lithuania,1.63,19.50440257,Collapsing
+2017,Luxembourg,1.39,14.30681371,At Risk of collapsing
+2017,Latvia,1.69,20.01079484,Collapsing
+2017,"Macao SAR, China",1.123,9.499817881,At Risk of collapsing
+2017,St. Martin (French part),2.518,8.111299627,Growing
+2017,Morocco,2.451,6.215429486,Growing
+2017,Moldova,1.81,12.82964837,At Risk of collapsing
+2017,Madagascar,4.109,2.943386879,Growing
+2017,Maldives,1.845,3.867663713,At Risk of collapsing
+2017,Middle East & North Africa,2.845509052,4.769089417,Growing
+2017,Mexico,2.041,6.965920174,At Risk of collapsing
+2017,Marshall Islands,2.929,3.194781749,Growing
+2017,Middle income,2.402139975,7.174313249,Growing
+2017,North Macedonia,1.43,14.45806628,At Risk of collapsing
+2017,Mali,6.251,2.576347497,Growing
+2017,Malta,1.26,18.81310743,Collapsing
+2017,Myanmar,2.234,5.951302033,Growing
+2017,Middle East & North Africa (excluding high income),2.901337645,4.951523463,Growing
+2017,Montenegro,1.78,15.23785565,Collapsing
+2017,Mongolia,2.891,3.953982201,Growing
+2017,Mozambique,4.922,2.776631662,Growing
+2017,Mauritania,4.664,3.385444282,Growing
+2017,Mauritius,1.44,9.891372985,At Risk of collapsing
+2017,Malawi,4.22,2.897179917,Growing
+2017,Malaysia,1.929,6.065114852,At Risk of collapsing
+2017,North America,1.743626481,15.12329457,Collapsing
+2017,Namibia,3.511,3.552122921,Growing
+2017,New Caledonia,2.04,9.384544307,At Risk of collapsing
+2017,Niger,7.084,2.473706344,Growing
+2017,Nigeria,5.523,2.963437612,Growing
+2017,Nicaragua,2.43,4.901767771,Growing
+2017,Netherlands,1.62,18.42023301,Collapsing
+2017,Norway,1.62,16.78124205,Collapsing
+2017,Nepal,2.15,5.787469452,Growing
+2017,Nauru,3.731,1.788237372,Growing
+2017,New Zealand,1.81,14.86855284,At Risk of collapsing
+2017,OECD members,1.701822837,16.39000989,Collapsing
+2017,Oman,2.937,2.550184891,Growing
+2017,Other small states,2.263491135,8.405701443,Growing
+2017,Pakistan,3.759,3.888865369,Growing
+2017,Panama,2.493,7.606423196,Growing
+2017,Peru,2.281,8.403775092,Growing
+2017,Philippines,2.865,4.118155403,Growing
+2017,Papua New Guinea,3.432,2.936533375,Growing
+2017,Poland,1.48,16.46593604,Collapsing
+2017,Pre-demographic dividend,5.146090316,2.787176567,Growing
+2017,Puerto Rico,1.101,19.9137957,Collapsing
+2017,"Korea, Dem. People's Rep.",1.857,10.87340885,At Risk of collapsing
+2017,Portugal,1.38,21.48828305,Collapsing
+2017,Paraguay,2.591,5.785780766,Growing
+2017,West Bank and Gaza,3.807,3.355695571,Growing
+2017,Pacific island small states,3.383223229,4.609129251,Growing
+2017,Post-demographic dividend,1.581108427,18.55039184,Collapsing
+2017,French Polynesia,1.804,7.87488865,At Risk of collapsing
+2017,Qatar,1.839,1.122525339,At Risk of collapsing
+2017,Romania,1.78,17.9121341,Collapsing
+2017,Russian Federation,1.621,14.24092917,At Risk of collapsing
+2017,Rwanda,4.027,3.142784778,Growing
+2017,South Asia,2.408651367,5.515328468,Growing
+2017,Saudi Arabia,2.584,2.28023791,Growing
+2017,Sudan,4.761,2.778043464,Growing
+2017,Senegal,4.622,3.498380921,Growing
+2017,Singapore,1.16,9.964019954,At Risk of collapsing
+2017,Solomon Islands,4.218,3.640591741,Growing
+2017,Sierra Leone,4.389,3.132194535,Growing
+2017,El Salvador,1.896,7.370138103,At Risk of collapsing
+2017,Somalia,6.738,2.461893285,Growing
+2017,Serbia,1.49,19.90738257,Collapsing
+2017,Sub-Saharan Africa (excluding high income),4.845291649,3.003292945,Growing
+2017,South Sudan,4.775,2.523517169,Growing
+2017,Sub-Saharan Africa,4.845074148,3.003659829,Growing
+2017,Small states,2.380543387,7.797288825,Growing
+2017,Sao Tome and Principe,4.142,3.67057141,Growing
+2017,Suriname,2.443,6.408651992,Growing
+2017,Slovak Republic,1.52,15.20005563,Collapsing
+2017,Slovenia,1.62,19.00099883,Collapsing
+2017,Sweden,1.78,19.80183362,Collapsing
+2017,Eswatini,3.015,3.575867439,Growing
+2017,Sint Maarten (Dutch part),1.627,9.093123742,At Risk of collapsing
+2017,Seychelles,2.41,7.14110997,Growing
+2017,Syrian Arab Republic,2.939,4.396697514,Growing
+2017,Turks and Caicos Islands,1.741,9.08362042,At Risk of collapsing
+2017,Chad,6.537,2.04749366,Growing
+2017,East Asia & Pacific (IDA & IBRD countries),1.955657937,9.489102084,At Risk of collapsing
+2017,Europe & Central Asia (IDA & IBRD countries),1.87076794,12.27192599,At Risk of collapsing
+2017,Togo,4.503,2.918430294,Growing
+2017,Thailand,1.41,11.26599625,At Risk of collapsing
+2017,Tajikistan,3.29,3.035616765,Growing
+2017,Turkmenistan,2.836,3.6272981,Growing
+2017,Latin America & the Caribbean (IDA & IBRD countries),2.012882046,7.927122961,At Risk of collapsing
+2017,Timor-Leste,3.596,5.494594165,Growing
+2017,Middle East & North Africa (IDA & IBRD countries),2.891313603,4.96959669,Growing
+2017,Tonga,3.407,6.068501407,Growing
+2017,South Asia (IDA & IBRD),2.408651367,5.515328468,Growing
+2017,Sub-Saharan Africa (IDA & IBRD countries),4.845074148,3.003659829,Growing
+2017,Trinidad and Tobago,1.662,8.931607831,At Risk of collapsing
+2017,Tunisia,2.221,7.371135235,Growing
+2017,Turkiye,2.14,7.946429949,Growing
+2017,Tuvalu,3.186,5.409881314,Growing
+2017,Tanzania,4.993,2.966454213,Growing
+2017,Uganda,5.052,1.983617004,Growing
+2017,Ukraine,1.374,15.95686653,Collapsing
+2017,Upper middle income,1.961695418,9.416904968,At Risk of collapsing
+2017,Uruguay,1.796,14.80892004,At Risk of collapsing
+2017,United States,1.7655,14.93912339,At Risk of collapsing
+2017,Uzbekistan,2.419,4.943364737,Growing
+2017,St. Vincent and the Grenadines,1.932,9.970850724,At Risk of collapsing
+2017,"Venezuela, RB",2.294,7.003542757,Growing
+2017,British Virgin Islands,0.872,7.61644087,At Risk of collapsing
+2017,Virgin Islands (U.S.),2.08,18.87665256,Collapsing
+2017,Viet Nam,1.93,6.767739639,At Risk of collapsing
+2017,Vanuatu,3.91,3.88715544,Growing
+2017,World,2.46710949,8.654437359,Growing
+2017,Samoa,4.183,4.946096795,Growing
+2017,Kosovo,1.649,7.991741506,At Risk of collapsing
+2017,"Yemen, Rep.",4.112,2.623955335,Growing
+2017,South Africa,2.334,5.628055665,Growing
+2017,Zambia,4.614,1.752863366,Growing
+2017,Zimbabwe,3.706,3.387457281,Growing
+2018,Aruba,1.587,13.31084636,At Risk of collapsing
+2018,Africa Eastern and Southern,4.526444992,3.113922348,Growing
+2018,Afghanistan,5.002,2.367120477,Growing
+2018,Africa Western and Central,5.19152774,2.902687891,Growing
+2018,Angola,5.519,2.693038712,Growing
+2018,Albania,1.44,13.73952183,At Risk of collapsing
+2018,Arab World,3.303528704,4.081816802,Growing
+2018,United Arab Emirates,1.356,1.501096089,At Risk of collapsing
+2018,Argentina,2.039,11.46365152,At Risk of collapsing
+2018,Armenia,1.572,11.71168927,At Risk of collapsing
+2018,Antigua and Barbuda,1.371,9.12720234,At Risk of collapsing
+2018,Australia,1.74,15.64096761,Collapsing
+2018,Austria,1.47,18.76258285,Collapsing
+2018,Azerbaijan,1.73,6.368876742,At Risk of collapsing
+2018,Burundi,5.38,2.360738436,Growing
+2018,Belgium,1.62,18.808621,Collapsing
+2018,Benin,5.199,3.028280519,Growing
+2018,Burkina Faso,5.069,2.554807917,Growing
+2018,Bangladesh,2.04,5.458144023,At Risk of collapsing
+2018,Bulgaria,1.56,21.17088797,Collapsing
+2018,Bahrain,1.93,2.772388691,At Risk of collapsing
+2018,"Bahamas, The",1.412,10.66759184,At Risk of collapsing
+2018,Bosnia and Herzegovina,1.384,18.97601122,Collapsing
+2018,Belarus,1.448,15.05115331,Collapsing
+2018,Belize,2.345,4.2741629,Growing
+2018,Bermuda,1.3,17.67401419,Collapsing
+2018,Bolivia,2.73,5.658317496,Growing
+2018,Brazil,1.749,8.927850215,At Risk of collapsing
+2018,Barbados,1.619,13.88120501,At Risk of collapsing
+2018,Brunei Darussalam,1.848,4.975908472,At Risk of collapsing
+2018,Bhutan,1.569,5.866662981,At Risk of collapsing
+2018,Botswana,2.903,3.783956704,Growing
+2018,Central African Republic,6.037,2.162039676,Growing
+2018,Canada,1.51,17.12968131,Collapsing
+2018,Central Europe and the Baltics,1.573927678,18.28924236,Collapsing
+2018,Switzerland,1.52,18.38758402,Collapsing
+2018,Channel Islands,1.435,18.30590575,Collapsing
+2018,Chile,1.564,12.06365828,At Risk of collapsing
+2018,China,1.554,11.5162092,At Risk of collapsing
+2018,Cote d'Ivoire,4.611,2.481607629,Growing
+2018,Cameroon,4.694,2.791160646,Growing
+2018,"Congo, Dem. Rep.",6.302,3.096875045,Growing
+2018,"Congo, Rep.",4.367,2.701473869,Growing
+2018,Colombia,1.787,7.913352977,At Risk of collapsing
+2018,Comoros,4.196,4.43234101,Growing
+2018,Cabo Verde,1.964,5.637934225,At Risk of collapsing
+2018,Costa Rica,1.709,9.742219259,At Risk of collapsing
+2018,Caribbean small states,2.06497064,7.862414509,At Risk of collapsing
+2018,Cuba,1.631,15.06050418,Collapsing
+2018,Curacao,1.7,14.25322235,At Risk of collapsing
+2018,Cyprus,1.32,13.16648796,At Risk of collapsing
+2018,Czechia,1.71,19.53157934,Collapsing
+2018,Germany,1.57,21.44976139,Collapsing
+2018,Djibouti,2.929,4.333779278,Growing
+2018,Dominica,1.617,11.78739851,At Risk of collapsing
+2018,Denmark,1.73,19.44038864,Collapsing
+2018,Dominican Republic,2.381,6.352801904,Growing
+2018,Algeria,3.023,5.618008549,Growing
+2018,East Asia & Pacific (excluding high income),1.779972253,9.917734276,At Risk of collapsing
+2018,Early-demographic dividend,2.474850992,5.699136154,Growing
+2018,East Asia & Pacific,1.734984282,11.15210309,At Risk of collapsing
+2018,Europe & Central Asia (excluding high income),2.082278422,9.824064776,At Risk of collapsing
+2018,Europe & Central Asia,1.7172184,16.30089595,Collapsing
+2018,Ecuador,2.133,7.194525673,Growing
+2018,"Egypt, Arab Rep.",3.098,4.472257166,Growing
+2018,Euro area,1.52363804,20.55898748,Collapsing
+2018,Eritrea,4.056,4.034110921,Growing
+2018,Spain,1.26,19.20234084,Collapsing
+2018,Estonia,1.67,19.67549053,Collapsing
+2018,Ethiopia,4.343,3.005900657,Growing
+2018,European Union,1.542226993,20.08078002,Collapsing
+2018,Fragile and conflict affected situations,4.51408132,3.940272554,Growing
+2018,Finland,1.41,21.61548145,Collapsing
+2018,Fiji,2.53,5.644366428,Growing
+2018,France,1.87,20.03942106,Collapsing
+2018,Faroe Islands,2.5064,17.39428616,At Risk of collapsing
+2018,"Micronesia, Fed. Sts.",2.84,4.52281195,Growing
+2018,Gabon,3.679,3.990837662,Growing
+2018,United Kingdom,1.68,18.25575007,Collapsing
+2018,Georgia,2.114,14.51830982,Growing
+2018,Ghana,3.731,3.407287216,Growing
+2018,Gibraltar,1.879,17.51305446,Collapsing
+2018,Guinea,4.669,3.465791678,Growing
+2018,"Gambia, The",4.972,2.670596992,Growing
+2018,Guinea-Bissau,4.263,2.934161565,Growing
+2018,Equatorial Guinea,4.513,3.391348299,Growing
+2018,Greece,1.35,21.89663375,Collapsing
+2018,Grenada,2.063,10.54749289,At Risk of collapsing
+2018,Greenland,2.0,8.385422704,At Risk of collapsing
+2018,Guatemala,2.743,4.374330875,Growing
+2018,Guam,2.671,9.876474909,Growing
+2018,Guyana,2.462,5.683555986,Growing
+2018,High income,1.595644372,17.54317604,Collapsing
+2018,"Hong Kong SAR, China",1.08,17.19634888,Collapsing
+2018,Honduras,2.46,3.769969936,Growing
+2018,Heavily indebted poor countries (HIPC),4.831419113,2.905697356,Growing
+2018,Croatia,1.47,20.6682803,Collapsing
+2018,Haiti,2.959,4.298817887,Growing
+2018,Hungary,1.55,19.12923293,Collapsing
+2018,IBRD only,2.003021367,8.560677956,At Risk of collapsing
+2018,IDA & IBRD total,2.531362236,7.262636682,Growing
+2018,IDA total,4.077614531,3.615576575,Growing
+2018,IDA blend,4.246035667,3.465786124,Growing
+2018,Indonesia,2.234,6.350959337,Growing
+2018,IDA only,3.995165348,3.691288018,Growing
+2018,Isle of Man,1.621,21.31900651,Collapsing
+2018,India,2.177,6.019259514,Growing
+2018,Ireland,1.75,13.9535917,At Risk of collapsing
+2018,"Iran, Islamic Rep.",1.968,6.756434352,At Risk of collapsing
+2018,Iraq,3.659,3.233035663,Growing
+2018,Iceland,1.71,14.12099622,At Risk of collapsing
+2018,Israel,3.09,11.70129517,Growing
+2018,Italy,1.29,22.80621433,Collapsing
+2018,Jamaica,1.388,6.780652087,At Risk of collapsing
+2018,Jordan,2.973,3.648574224,Growing
+2018,Japan,1.42,28.34521633,Collapsing
+2018,Kazakhstan,2.84,7.301763959,Growing
+2018,Kenya,3.58,2.643654586,Growing
+2018,Kyrgyz Republic,3.3,5.151282016,Growing
+2018,Cambodia,2.435,5.092075979,Growing
+2018,Kiribati,3.41,3.845318982,Growing
+2018,St. Kitts and Nevis,1.587,8.528244892,At Risk of collapsing
+2018,"Korea, Rep.",0.977,14.45437602,At Risk of collapsing
+2018,Kuwait,2.165,3.243209173,Growing
+2018,Latin America & Caribbean (excluding high income),1.977009497,8.169468914,At Risk of collapsing
+2018,Lao PDR,2.619,4.128270795,Growing
+2018,Lebanon,2.148,8.330080975,Growing
+2018,Liberia,4.336,3.196981997,Growing
+2018,Libya,2.581,4.609388055,Growing
+2018,St. Lucia,1.436,8.365863166,At Risk of collapsing
+2018,Latin America & Caribbean,1.974981645,8.354971913,At Risk of collapsing
+2018,Least developed countries: UN classification,4.139471641,3.531680021,Growing
+2018,Low income,4.82669395,3.13336858,Growing
+2018,Liechtenstein,1.58,17.85541,Collapsing
+2018,Sri Lanka,2.031,10.03597339,At Risk of collapsing
+2018,Lower middle income,2.801150415,5.155921693,Growing
+2018,Low & middle income,2.563252914,6.981043477,Growing
+2018,Lesotho,3.139,3.781365019,Growing
+2018,Late-demographic dividend,1.646528957,11.07010335,At Risk of collapsing
+2018,Lithuania,1.63,19.73093098,Collapsing
+2018,Luxembourg,1.38,14.37762806,At Risk of collapsing
+2018,Latvia,1.6,20.19819588,Collapsing
+2018,"Macao SAR, China",1.104,10.01970333,At Risk of collapsing
+2018,St. Martin (French part),2.517,10.27851827,Growing
+2018,Morocco,2.415,6.458479354,Growing
+2018,Moldova,1.809,13.30740989,At Risk of collapsing
+2018,Madagascar,4.043,3.018487848,Growing
+2018,Maldives,1.784,3.831654507,At Risk of collapsing
+2018,Middle East & North Africa,2.790655568,4.912094707,Growing
+2018,Mexico,1.996,7.144224033,At Risk of collapsing
+2018,Marshall Islands,2.877,3.391851606,Growing
+2018,Middle income,2.325203336,7.418735413,Growing
+2018,North Macedonia,1.42,15.08504979,Collapsing
+2018,Mali,6.183,2.548699971,Growing
+2018,Malta,1.23,18.74968399,Collapsing
+2018,Myanmar,2.213,6.129718377,Growing
+2018,Middle East & North Africa (excluding high income),2.843742606,5.09038452,Growing
+2018,Montenegro,1.76,15.70806843,Collapsing
+2018,Mongolia,2.923,4.049570888,Growing
+2018,Mozambique,4.852,2.793984743,Growing
+2018,Mauritania,4.607,3.335408173,Growing
+2018,Mauritius,1.41,10.39664937,At Risk of collapsing
+2018,Malawi,4.14,2.826873976,Growing
+2018,Malaysia,1.881,6.266708906,At Risk of collapsing
+2018,North America,1.707029634,15.47913368,Collapsing
+2018,Namibia,3.462,3.560491851,Growing
+2018,New Caledonia,2.06,9.680786906,At Risk of collapsing
+2018,Niger,7.023,2.491420051,Growing
+2018,Nigeria,5.447,2.966485287,Growing
+2018,Nicaragua,2.404,5.007726466,Growing
+2018,Netherlands,1.59,18.75100793,Collapsing
+2018,Norway,1.56,17.08539696,Collapsing
+2018,Nepal,2.104,5.946743214,Growing
+2018,Nauru,3.67,1.925506426,Growing
+2018,New Zealand,1.71,15.05788693,Collapsing
+2018,OECD members,1.668534169,16.66762617,Collapsing
+2018,Oman,2.883,2.583561654,Growing
+2018,Other small states,2.219597505,8.570635328,Growing
+2018,Pakistan,3.685,3.93281543,Growing
+2018,Panama,2.441,7.829088809,Growing
+2018,Peru,2.26,8.503951404,Growing
+2018,Philippines,2.831,4.314089106,Growing
+2018,Papua New Guinea,3.382,2.991075589,Growing
+2018,Poland,1.46,17.01456161,Collapsing
+2018,Pre-demographic dividend,5.069894735,2.804638039,Growing
+2018,Puerto Rico,1.035,20.92987136,Collapsing
+2018,"Korea, Dem. People's Rep.",1.845,10.84093753,At Risk of collapsing
+2018,Portugal,1.42,21.93239301,Collapsing
+2018,Paraguay,2.561,5.904418463,Growing
+2018,West Bank and Gaza,3.712,3.427643118,Growing
+2018,Pacific island small states,3.348352248,4.716663927,Growing
+2018,Post-demographic dividend,1.550902007,18.86458861,Collapsing
+2018,French Polynesia,1.789,8.304221889,At Risk of collapsing
+2018,Qatar,1.848,1.144272913,At Risk of collapsing
+2018,Romania,1.76,18.24967782,Collapsing
+2018,Russian Federation,1.579,14.63025009,At Risk of collapsing
+2018,Rwanda,3.994,3.246753923,Growing
+2018,South Asia,2.381257814,5.687030866,Growing
+2018,Saudi Arabia,2.546,2.380746357,Growing
+2018,Sudan,4.681,2.843365484,Growing
+2018,Senegal,4.584,3.499375114,Growing
+2018,Singapore,1.14,10.48364861,At Risk of collapsing
+2018,Solomon Islands,4.157,3.716677878,Growing
+2018,Sierra Leone,4.294,3.129916317,Growing
+2018,El Salvador,1.849,7.499580976,At Risk of collapsing
+2018,Somalia,6.632,2.488858347,Growing
+2018,Serbia,1.49,20.48640467,Collapsing
+2018,Sub-Saharan Africa (excluding high income),4.790810331,3.027502476,Growing
+2018,South Sudan,4.696,2.561445116,Growing
+2018,Sub-Saharan Africa,4.790605014,3.027868639,Growing
+2018,Small states,2.342632207,7.948757567,Growing
+2018,Sao Tome and Principe,4.044,3.743809084,Growing
+2018,Suriname,2.418,6.586768416,Growing
+2018,Slovak Republic,1.54,15.72691555,Collapsing
+2018,Slovenia,1.6,19.4617683,Collapsing
+2018,Sweden,1.76,19.86253716,Collapsing
+2018,Eswatini,2.962,3.686407093,Growing
+2018,Sint Maarten (Dutch part),1.61,9.832040693,At Risk of collapsing
+2018,Seychelles,2.41,7.227920723,Growing
+2018,Syrian Arab Republic,2.886,4.466617751,Growing
+2018,Turks and Caicos Islands,1.723,9.472189805,At Risk of collapsing
+2018,Chad,6.464,2.046655376,Growing
+2018,East Asia & Pacific (IDA & IBRD countries),1.779156841,9.90614101,At Risk of collapsing
+2018,Europe & Central Asia (IDA & IBRD countries),1.85455344,12.55777198,At Risk of collapsing
+2018,Togo,4.442,2.957949711,Growing
+2018,Thailand,1.378,11.78333018,At Risk of collapsing
+2018,Tajikistan,3.294,3.102462327,Growing
+2018,Turkmenistan,2.786,3.671957309,Growing
+2018,Latin America & the Caribbean (IDA & IBRD countries),1.985013207,8.162956064,At Risk of collapsing
+2018,Timor-Leste,3.452,5.549472985,Growing
+2018,Middle East & North Africa (IDA & IBRD countries),2.834036203,5.10936775,Growing
+2018,Tonga,3.349,6.146362719,Growing
+2018,South Asia (IDA & IBRD),2.381257814,5.687030866,Growing
+2018,Sub-Saharan Africa (IDA & IBRD countries),4.790605014,3.027868639,Growing
+2018,Trinidad and Tobago,1.651,9.344935137,At Risk of collapsing
+2018,Tunisia,2.174,7.625986097,Growing
+2018,Turkiye,2.054,8.171894634,At Risk of collapsing
+2018,Tuvalu,3.209,5.492767778,Growing
+2018,Tanzania,4.923,2.982650017,Growing
+2018,Uganda,4.932,2.009239272,Growing
+2018,Ukraine,1.301,16.34794334,Collapsing
+2018,Upper middle income,1.821375921,9.786593726,At Risk of collapsing
+2018,Uruguay,1.658,14.95588202,At Risk of collapsing
+2018,United States,1.7295,15.29148662,Collapsing
+2018,Uzbekistan,2.604,5.06720769,Growing
+2018,St. Vincent and the Grenadines,1.873,10.23530869,At Risk of collapsing
+2018,"Venezuela, RB",2.272,7.391068356,Growing
+2018,British Virgin Islands,0.917,7.835357936,At Risk of collapsing
+2018,Virgin Islands (U.S.),2.06,19.72123963,Collapsing
+2018,Viet Nam,1.937,6.981619537,At Risk of collapsing
+2018,Vanuatu,3.855,3.937481267,Growing
+2018,World,2.405269307,8.875283632,Growing
+2018,Samoa,4.109,5.056315095,Growing
+2018,Kosovo,1.605,8.230447786,At Risk of collapsing
+2018,"Yemen, Rep.",4.043,2.595353606,Growing
+2018,South Africa,2.418,5.776609235,Growing
+2018,Zambia,4.536,1.767250567,Growing
+2018,Zimbabwe,3.659,3.465101355,Growing
+2019,Aruba,1.486,13.94196645,At Risk of collapsing
+2019,Africa Eastern and Southern,4.480000927,3.157141942,Growing
+2019,Afghanistan,4.87,2.376153383,Growing
+2019,Africa Western and Central,5.12436788,2.910184961,Growing
+2019,Angola,5.442,2.707977983,Growing
+2019,Albania,1.414,14.24809866,At Risk of collapsing
+2019,Arab World,3.248760146,4.1863553,Growing
+2019,United Arab Emirates,1.334,1.527989232,At Risk of collapsing
+2019,Argentina,1.994,11.63253919,At Risk of collapsing
+2019,Armenia,1.575,12.04533171,At Risk of collapsing
+2019,Antigua and Barbuda,1.468,9.473148467,At Risk of collapsing
+2019,Australia,1.657,15.94506378,Collapsing
+2019,Austria,1.46,18.94029936,Collapsing
+2019,Azerbaijan,1.81,6.627641135,At Risk of collapsing
+2019,Burundi,5.271,2.401268215,Growing
+2019,Belgium,1.6,19.02983808,Collapsing
+2019,Benin,5.13,3.033271246,Growing
+2019,Burkina Faso,4.971,2.559186698,Growing
+2019,Bangladesh,2.031,5.662558371,At Risk of collapsing
+2019,Bulgaria,1.58,21.47945894,Collapsing
+2019,Bahrain,1.857,3.004468353,At Risk of collapsing
+2019,"Bahamas, The",1.398,10.82436286,At Risk of collapsing
+2019,Bosnia and Herzegovina,1.368,19.64568874,Collapsing
+2019,Belarus,1.382,15.37194504,Collapsing
+2019,Belize,2.106,4.375130401,Growing
+2019,Bermuda,1.3,18.23279829,Collapsing
+2019,Bolivia,2.688,5.696375979,Growing
+2019,Brazil,1.703,9.273074349,At Risk of collapsing
+2019,Barbados,1.623,14.29567135,At Risk of collapsing
+2019,Brunei Darussalam,1.819,5.288357278,At Risk of collapsing
+2019,Bhutan,1.46,5.927965127,At Risk of collapsing
+2019,Botswana,2.883,3.845553524,Growing
+2019,Central African Republic,6.008,2.188553874,Growing
+2019,Canada,1.47,17.53185952,Collapsing
+2019,Central Europe and the Baltics,1.570083881,18.73250521,Collapsing
+2019,Switzerland,1.48,18.58214562,Collapsing
+2019,Channel Islands,1.441,18.58518474,Collapsing
+2019,Chile,1.545,12.32606029,At Risk of collapsing
+2019,China,1.496,12.06136597,At Risk of collapsing
+2019,Cote d'Ivoire,4.538,2.488421864,Growing
+2019,Cameroon,4.623,2.784299204,Growing
+2019,"Congo, Dem. Rep.",6.253,3.093294918,Growing
+2019,"Congo, Rep.",4.296,2.727750527,Growing
+2019,Colombia,1.765,8.190322651,At Risk of collapsing
+2019,Comoros,4.125,4.457917714,Growing
+2019,Cabo Verde,1.932,5.814290494,At Risk of collapsing
+2019,Costa Rica,1.632,10.10547242,At Risk of collapsing
+2019,Caribbean small states,2.024768008,8.029684189,At Risk of collapsing
+2019,Cuba,1.551,15.36970537,Collapsing
+2019,Curacao,1.6,14.1400632,At Risk of collapsing
+2019,Cyprus,1.332,13.38255336,At Risk of collapsing
+2019,Czechia,1.71,19.94858774,Collapsing
+2019,Germany,1.54,21.62839331,Collapsing
+2019,Djibouti,2.891,4.405814593,Growing
+2019,Dominica,1.611,11.96809098,At Risk of collapsing
+2019,Denmark,1.7,19.71438023,Collapsing
+2019,Dominican Republic,2.344,6.582826661,Growing
+2019,Algeria,2.988,5.774977985,Growing
+2019,East Asia & Pacific (excluding high income),1.740210364,10.3428213,At Risk of collapsing
+2019,Early-demographic dividend,2.423972155,5.864005177,Growing
+2019,East Asia & Pacific,1.694194338,11.57004893,At Risk of collapsing
+2019,Europe & Central Asia (excluding high income),2.070704827,10.07080325,At Risk of collapsing
+2019,Europe & Central Asia,1.690580888,16.58427596,Collapsing
+2019,Ecuador,2.088,7.407911807,At Risk of collapsing
+2019,"Egypt, Arab Rep.",3.001,4.593528997,Growing
+2019,Euro area,1.504771393,20.82074549,Collapsing
+2019,Eritrea,3.997,4.067580521,Growing
+2019,Spain,1.23,19.38182763,Collapsing
+2019,Estonia,1.66,19.89653469,Collapsing
+2019,Ethiopia,4.323,3.038190362,Growing
+2019,European Union,1.525071057,20.37634559,Collapsing
+2019,Fragile and conflict affected situations,4.473843318,3.972828274,Growing
+2019,Finland,1.35,22.06139384,Collapsing
+2019,Fiji,2.519,5.820857919,Growing
+2019,France,1.86,20.41008888,Collapsing
+2019,Faroe Islands,2.4091,17.48791991,At Risk of collapsing
+2019,"Micronesia, Fed. Sts.",2.801,4.772764368,Growing
+2019,Gabon,3.615,3.992603978,Growing
+2019,United Kingdom,1.63,18.45795809,Collapsing
+2019,Georgia,2.011,14.70447208,At Risk of collapsing
+2019,Ghana,3.683,3.436411562,Growing
+2019,Gibraltar,1.863,17.46069758,Collapsing
+2019,Guinea,4.576,3.456924498,Growing
+2019,"Gambia, The",4.869,2.715088952,Growing
+2019,Guinea-Bissau,4.172,2.982981111,Growing
+2019,Equatorial Guinea,4.429,3.441281972,Growing
+2019,Greece,1.34,22.1273853,Collapsing
+2019,Grenada,2.042,10.75818126,At Risk of collapsing
+2019,Greenland,2.08,8.584444761,At Risk of collapsing
+2019,Guatemala,2.61,4.468746058,Growing
+2019,Guam,2.623,10.33107139,Growing
+2019,Guyana,2.44,5.798815103,Growing
+2019,High income,1.561400928,17.87573802,Collapsing
+2019,"Hong Kong SAR, China",1.064,17.95252566,Collapsing
+2019,Honduras,2.427,3.889835642,Growing
+2019,Heavily indebted poor countries (HIPC),4.770045402,2.926524489,Growing
+2019,Croatia,1.47,21.18221639,Collapsing
+2019,Haiti,2.919,4.370381596,Growing
+2019,Hungary,1.55,19.60292299,Collapsing
+2019,IBRD only,1.952184975,8.870320864,At Risk of collapsing
+2019,IDA & IBRD total,2.49224496,7.49000025,Growing
+2019,IDA total,4.035784291,3.666043425,Growing
+2019,IDA blend,4.195549266,3.507762402,Growing
+2019,Indonesia,2.215,6.485678794,Growing
+2019,IDA only,3.95789363,3.74575073,Growing
+2019,Isle of Man,1.614,21.59153848,Collapsing
+2019,India,2.109,6.223473041,Growing
+2019,Ireland,1.71,14.24377788,At Risk of collapsing
+2019,"Iran, Islamic Rep.",1.77,7.015988411,At Risk of collapsing
+2019,Iraq,3.604,3.317203205,Growing
+2019,Iceland,1.74,14.299299,At Risk of collapsing
+2019,Israel,3.01,11.88549917,Growing
+2019,Italy,1.27,23.10417109,Collapsing
+2019,Jamaica,1.37,6.948234867,At Risk of collapsing
+2019,Jordan,2.918,3.777015537,Growing
+2019,Japan,1.36,28.62877075,Collapsing
+2019,Kazakhstan,2.9,7.480378905,Growing
+2019,Kenya,3.469,2.746893226,Growing
+2019,Kyrgyz Republic,3.3,5.173848001,Growing
+2019,Cambodia,2.402,5.273077907,Growing
+2019,Kiribati,3.368,3.89281838,Growing
+2019,St. Kitts and Nevis,1.568,8.956050392,At Risk of collapsing
+2019,"Korea, Rep.",0.918,15.06348844,Collapsing
+2019,Kuwait,2.159,3.603613845,Growing
+2019,Latin America & Caribbean (excluding high income),1.926724618,8.40444797,At Risk of collapsing
+2019,Lao PDR,2.571,4.17749001,Growing
+2019,Lebanon,2.13,8.779709157,Growing
+2019,Liberia,4.257,3.2101303,Growing
+2019,Libya,2.539,4.625025131,Growing
+2019,St. Lucia,1.424,8.527171053,At Risk of collapsing
+2019,Latin America & Caribbean,1.925780165,8.605354905,At Risk of collapsing
+2019,Least developed countries: UN classification,4.101180249,3.582226697,Growing
+2019,Low income,4.766826961,3.149060174,Growing
+2019,Liechtenstein,1.48,18.27913632,Collapsing
+2019,Sri Lanka,2.019,10.37546086,At Risk of collapsing
+2019,Lower middle income,2.752860979,5.303313699,Growing
+2019,Low & middle income,2.524159502,7.202899481,Growing
+2019,Lesotho,3.094,3.779817693,Growing
+2019,Late-demographic dividend,1.601143513,11.52938074,At Risk of collapsing
+2019,Lithuania,1.61,19.8571908,Collapsing
+2019,Luxembourg,1.34,14.47006674,At Risk of collapsing
+2019,Latvia,1.61,20.40722722,Collapsing
+2019,"Macao SAR, China",1.077,10.62135045,At Risk of collapsing
+2019,St. Martin (French part),2.485,16.20970919,At Risk of collapsing
+2019,Morocco,2.382,6.720202023,Growing
+2019,Moldova,1.78,13.80146002,At Risk of collapsing
+2019,Madagascar,3.978,3.091981893,Growing
+2019,Maldives,1.736,3.832850485,At Risk of collapsing
+2019,Middle East & North Africa,2.707542453,5.054521965,Growing
+2019,Mexico,1.916,7.334641575,At Risk of collapsing
+2019,Marshall Islands,2.824,3.573335757,Growing
+2019,Middle income,2.2817103,7.67248405,Growing
+2019,North Macedonia,1.34,15.75880264,Collapsing
+2019,Mali,6.103,2.523010226,Growing
+2019,Malta,1.14,18.5815714,Collapsing
+2019,Myanmar,2.2,6.318253136,Growing
+2019,Middle East & North Africa (excluding high income),2.755790089,5.233940313,Growing
+2019,Montenegro,1.77,16.20131232,Collapsing
+2019,Mongolia,2.937,4.17415725,Growing
+2019,Mozambique,4.783,2.80919999,Growing
+2019,Mauritania,4.521,3.299130113,Growing
+2019,Mauritius,1.4,10.89475771,At Risk of collapsing
+2019,Malawi,4.072,2.765175852,Growing
+2019,Malaysia,1.834,6.482321764,At Risk of collapsing
+2019,North America,1.681628806,15.86439759,Collapsing
+2019,Namibia,3.404,3.570994016,Growing
+2019,New Caledonia,2.1,9.991854897,Growing
+2019,Niger,6.961,2.51074642,Growing
+2019,Nigeria,5.379,2.974885042,Growing
+2019,Nicaragua,2.377,5.115469557,Growing
+2019,Netherlands,1.57,19.0648534,Collapsing
+2019,Norway,1.53,17.39485563,Collapsing
+2019,Nepal,2.08,6.048200392,At Risk of collapsing
+2019,Nauru,3.618,2.041080521,Growing
+2019,New Zealand,1.72,15.30161177,Collapsing
+2019,OECD members,1.629615534,16.9582183,Collapsing
+2019,Oman,2.776,2.610742934,Growing
+2019,Other small states,2.181830284,8.751800553,Growing
+2019,Pakistan,3.62,3.984474956,Growing
+2019,Panama,2.375,8.069543525,Growing
+2019,Peru,2.242,8.606973777,Growing
+2019,Philippines,2.805,4.519426744,Growing
+2019,Papua New Guinea,3.322,3.050673274,Growing
+2019,Poland,1.44,17.5584217,Collapsing
+2019,Pre-demographic dividend,4.995616884,2.825837165,Growing
+2019,Puerto Rico,0.982,21.69549651,Collapsing
+2019,"Korea, Dem. People's Rep.",1.84,10.92479318,At Risk of collapsing
+2019,Portugal,1.43,22.3900784,Collapsing
+2019,Paraguay,2.525,6.031780531,Growing
+2019,West Bank and Gaza,3.642,3.505085353,Growing
+2019,Pacific island small states,3.322217569,4.817500784,Growing
+2019,Post-demographic dividend,1.517870019,19.18561459,Collapsing
+2019,French Polynesia,1.712,8.775111232,At Risk of collapsing
+2019,Qatar,1.834,1.172120299,At Risk of collapsing
+2019,Romania,1.77,18.60423653,Collapsing
+2019,Russian Federation,1.504,15.06329933,Collapsing
+2019,Rwanda,3.939,3.357025221,Growing
+2019,South Asia,2.321399838,5.86555902,Growing
+2019,Saudi Arabia,2.504,2.45024815,Growing
+2019,Sudan,4.617,2.917953322,Growing
+2019,Senegal,4.517,3.510519512,Growing
+2019,Singapore,1.14,10.97505319,At Risk of collapsing
+2019,Solomon Islands,4.104,3.741895524,Growing
+2019,Sierra Leone,4.192,3.135162728,Growing
+2019,El Salvador,1.838,7.626362686,At Risk of collapsing
+2019,Somalia,6.531,2.517773253,Growing
+2019,Serbia,1.52,21.06436085,Collapsing
+2019,Sub-Saharan Africa (excluding high income),4.735840377,3.05633405,Growing
+2019,South Sudan,4.619,2.626435906,Growing
+2019,Sub-Saharan Africa,4.735642423,3.056703288,Growing
+2019,Small states,2.306308669,8.11655739,Growing
+2019,Sao Tome and Principe,3.964,3.822542551,Growing
+2019,Suriname,2.394,6.771239154,Growing
+2019,Slovak Republic,1.57,16.25918897,Collapsing
+2019,Slovenia,1.61,19.85166836,Collapsing
+2019,Sweden,1.71,19.95066214,Collapsing
+2019,Eswatini,2.921,3.795659537,Growing
+2019,Sint Maarten (Dutch part),1.601,10.64269707,At Risk of collapsing
+2019,Seychelles,2.36,7.36545956,Growing
+2019,Syrian Arab Republic,2.835,4.494686279,Growing
+2019,Turks and Caicos Islands,1.692,9.814550972,At Risk of collapsing
+2019,Chad,6.412,2.04845629,Growing
+2019,East Asia & Pacific (IDA & IBRD countries),1.738955026,10.33550129,At Risk of collapsing
+2019,Europe & Central Asia (IDA & IBRD countries),1.825040127,12.87947876,At Risk of collapsing
+2019,Togo,4.385,2.999030612,Growing
+2019,Thailand,1.352,12.32875352,At Risk of collapsing
+2019,Tajikistan,3.281,3.186260056,Growing
+2019,Turkmenistan,2.74,3.728756165,Growing
+2019,Latin America & the Caribbean (IDA & IBRD countries),1.936127132,8.411141797,At Risk of collapsing
+2019,Timor-Leste,3.336,5.560152643,Growing
+2019,Middle East & North Africa (IDA & IBRD countries),2.745790701,5.253835292,Growing
+2019,Tonga,3.315,6.23547949,Growing
+2019,South Asia (IDA & IBRD),2.321399838,5.86555902,Growing
+2019,Sub-Saharan Africa (IDA & IBRD countries),4.735642423,3.056703288,Growing
+2019,Trinidad and Tobago,1.643,9.845955334,At Risk of collapsing
+2019,Tunisia,2.148,7.945743696,Growing
+2019,Turkiye,1.967,8.522632271,At Risk of collapsing
+2019,Tuvalu,3.199,5.618561573,Growing
+2019,Tanzania,4.864,3.002340976,Growing
+2019,Uganda,4.809,2.036402051,Growing
+2019,Ukraine,1.228,16.71629989,Collapsing
+2019,Upper middle income,1.772646495,10.16920655,At Risk of collapsing
+2019,Uruguay,1.546,15.12662393,Collapsing
+2019,United States,1.706,15.67288525,Collapsing
+2019,Uzbekistan,2.785,5.198110245,Growing
+2019,St. Vincent and the Grenadines,1.838,10.54076627,At Risk of collapsing
+2019,"Venezuela, RB",2.25,7.847087946,Growing
+2019,British Virgin Islands,0.948,8.050666996,At Risk of collapsing
+2019,Virgin Islands (U.S.),2.05,20.6081289,Collapsing
+2019,Viet Nam,1.948,7.25022977,At Risk of collapsing
+2019,Vanuatu,3.813,4.006205809,Growing
+2019,World,2.36845842,9.103807021,Growing
+2019,Samoa,4.047,5.170905641,Growing
+2019,Kosovo,1.546,8.539824118,At Risk of collapsing
+2019,"Yemen, Rep.",3.963,2.572114205,Growing
+2019,South Africa,2.475,5.945220191,Growing
+2019,Zambia,4.451,1.787009118,Growing
+2019,Zimbabwe,3.599,3.534241449,Growing
+2020,Aruba,1.325,14.57674778,At Risk of collapsing
+2020,Africa Eastern and Southern,4.412125207,3.192169102,Growing
+2020,Afghanistan,4.75,2.370733824,Growing
+2020,Africa Western and Central,5.055089514,2.916504061,Growing
+2020,Angola,5.371,2.725608767,Growing
+2020,Albania,1.4,14.76700441,At Risk of collapsing
+2020,Arab World,3.207056471,4.270910792,Growing
+2020,United Arab Emirates,1.46,1.564090857,At Risk of collapsing
+2020,Argentina,1.911,11.79343399,At Risk of collapsing
+2020,Armenia,1.575,12.34328153,At Risk of collapsing
+2020,Antigua and Barbuda,1.569,9.863249352,At Risk of collapsing
+2020,Australia,1.581,16.33872028,Collapsing
+2020,Austria,1.44,19.16978884,Collapsing
+2020,Azerbaijan,1.7,6.883368543,At Risk of collapsing
+2020,Burundi,5.177,2.435064781,Growing
+2020,Belgium,1.55,19.22402019,Collapsing
+2020,Benin,5.048,3.039964518,Growing
+2020,Burkina Faso,4.869,2.568841549,Growing
+2020,Bangladesh,2.003,5.83513578,At Risk of collapsing
+2020,Bulgaria,1.56,21.6867893,Collapsing
+2020,Bahrain,1.832,3.278892465,At Risk of collapsing
+2020,"Bahamas, The",1.394,10.97641226,At Risk of collapsing
+2020,Bosnia and Herzegovina,1.359,20.24271754,Collapsing
+2020,Belarus,1.474,15.73378581,Collapsing
+2020,Belize,1.999,4.485538425,At Risk of collapsing
+2020,Bermuda,1.4,18.82280762,Collapsing
+2020,Bolivia,2.651,5.653597389,Growing
+2020,Brazil,1.649,9.598664876,At Risk of collapsing
+2020,Barbados,1.628,14.77096039,At Risk of collapsing
+2020,Brunei Darussalam,1.796,5.613501012,At Risk of collapsing
+2020,Bhutan,1.433,6.018005055,At Risk of collapsing
+2020,Botswana,2.836,3.890454072,Growing
+2020,Central African Republic,5.985,2.200620157,Growing
+2020,Canada,1.41,17.98540848,Collapsing
+2020,Central Europe and the Baltics,1.557118646,19.16055147,Collapsing
+2020,Switzerland,1.46,18.75153889,Collapsing
+2020,Channel Islands,1.447,18.86600636,Collapsing
+2020,Chile,1.537,12.62681574,At Risk of collapsing
+2020,China,1.281,12.64523761,At Risk of collapsing
+2020,Cote d'Ivoire,4.472,2.496082587,Growing
+2020,Cameroon,4.543,2.776852366,Growing
+2020,"Congo, Dem. Rep.",6.206,3.086076218,Growing
+2020,"Congo, Rep.",4.234,2.759174004,Growing
+2020,Colombia,1.737,8.464125443,At Risk of collapsing
+2020,Comoros,4.052,4.467730082,Growing
+2020,Cabo Verde,1.908,5.982655225,At Risk of collapsing
+2020,Costa Rica,1.555,10.48509034,At Risk of collapsing
+2020,Caribbean small states,2.001229582,8.245179948,At Risk of collapsing
+2020,Cuba,1.5,15.63955025,Collapsing
+2020,Curacao,1.4,14.92719627,At Risk of collapsing
+2020,Cyprus,1.328,13.61127589,At Risk of collapsing
+2020,Czechia,1.74,20.29397364,Collapsing
+2020,Germany,1.53,21.84472812,Collapsing
+2020,Djibouti,2.848,4.475073709,Growing
+2020,Dominica,1.597,12.1853403,At Risk of collapsing
+2020,Denmark,1.68,20.00081454,Collapsing
+2020,Dominican Republic,2.303,6.809970659,Growing
+2020,Algeria,2.942,5.894088907,Growing
+2020,East Asia & Pacific (excluding high income),1.600305778,10.79479256,At Risk of collapsing
+2020,Early-demographic dividend,2.379596464,6.013982111,Growing
+2020,East Asia & Pacific,1.562344902,12.01746978,At Risk of collapsing
+2020,Europe & Central Asia (excluding high income),2.078441718,10.34063962,At Risk of collapsing
+2020,Europe & Central Asia,1.678523557,16.86892755,Collapsing
+2020,Ecuador,2.051,7.561752665,At Risk of collapsing
+2020,"Egypt, Arab Rep.",2.96,4.691181637,Growing
+2020,Euro area,1.481351386,21.08470953,Collapsing
+2020,Eritrea,3.933,4.091003763,Growing
+2020,Spain,1.19,19.55961609,Collapsing
+2020,Estonia,1.58,20.20009484,Collapsing
+2020,Ethiopia,4.243,3.069048909,Growing
+2020,European Union,1.503901103,20.67194994,Collapsing
+2020,Fragile and conflict affected situations,4.426572875,3.99956213,Growing
+2020,Finland,1.37,22.49068289,Collapsing
+2020,Fiji,2.495,5.987072701,Growing
+2020,France,1.83,20.7474409,Collapsing
+2020,Faroe Islands,2.3243,17.68609814,At Risk of collapsing
+2020,"Micronesia, Fed. Sts.",2.754,5.033966993,Growing
+2020,Gabon,3.548,3.993065348,Growing
+2020,United Kingdom,1.56,18.60579533,Collapsing
+2020,Georgia,1.971,14.88748519,At Risk of collapsing
+2020,Ghana,3.623,3.468706489,Growing
+2020,Gibraltar,1.855,17.42459846,Collapsing
+2020,Guinea,4.489,3.444339966,Growing
+2020,"Gambia, The",4.777,2.766231002,Growing
+2020,Guinea-Bissau,4.094,3.018941962,Growing
+2020,Equatorial Guinea,4.346,3.482877781,Growing
+2020,Greece,1.39,22.39343273,Collapsing
+2020,Grenada,2.023,10.98580896,At Risk of collapsing
+2020,Greenland,2.019,8.844586703,At Risk of collapsing
+2020,Guatemala,2.484,4.545121309,Growing
+2020,Guam,2.593,10.7712848,Growing
+2020,Guyana,2.418,6.001128199,Growing
+2020,High income,1.524773248,18.20266262,Collapsing
+2020,"Hong Kong SAR, China",0.883,18.82526257,Collapsing
+2020,Honduras,2.394,3.994094454,Growing
+2020,Heavily indebted poor countries (HIPC),4.699276169,2.942506847,Growing
+2020,Croatia,1.48,21.66617602,Collapsing
+2020,Haiti,2.869,4.434211491,Growing
+2020,Hungary,1.59,20.09067377,Collapsing
+2020,IBRD only,1.869289868,9.18272243,At Risk of collapsing
+2020,IDA & IBRD total,2.427783036,7.713889534,Growing
+2020,IDA total,3.985725931,3.705903217,Growing
+2020,IDA blend,4.143463648,3.536896607,Growing
+2020,Indonesia,2.194,6.607905277,Growing
+2020,IDA only,3.909045434,3.790718869,Growing
+2020,Isle of Man,1.569,21.85728646,Collapsing
+2020,India,2.051,6.416853023,At Risk of collapsing
+2020,Ireland,1.63,14.56214734,At Risk of collapsing
+2020,"Iran, Islamic Rep.",1.708,7.229355442,At Risk of collapsing
+2020,Iraq,3.551,3.360395542,Growing
+2020,Iceland,1.72,14.5643647,At Risk of collapsing
+2020,Israel,2.9,12.05287706,Growing
+2020,Italy,1.24,23.37923323,Collapsing
+2020,Jamaica,1.358,7.139125154,At Risk of collapsing
+2020,Jordan,2.873,3.899085408,Growing
+2020,Japan,1.33,28.91817438,Collapsing
+2020,Kazakhstan,3.13,7.648791453,Growing
+2020,Kenya,3.397,2.78922228,Growing
+2020,Kyrgyz Republic,3.1,5.148751763,Growing
+2020,Cambodia,2.381,5.438736906,Growing
+2020,Kiribati,3.333,3.930245283,Growing
+2020,St. Kitts and Nevis,1.55,9.435673138,At Risk of collapsing
+2020,"Korea, Rep.",0.837,15.82216595,Collapsing
+2020,Kuwait,2.14,3.99581241,Growing
+2020,Latin America & Caribbean (excluding high income),1.886047769,8.616760336,At Risk of collapsing
+2020,Lao PDR,2.541,4.241518022,Growing
+2020,Lebanon,2.103,9.123706301,Growing
+2020,Liberia,4.174,3.221355001,Growing
+2020,Libya,2.507,4.646472116,Growing
+2020,St. Lucia,1.411,8.70909198,At Risk of collapsing
+2020,Latin America & Caribbean,1.886303448,8.835286325,At Risk of collapsing
+2020,Least developed countries: UN classification,4.051471959,3.623202636,Growing
+2020,Low income,4.696902088,3.164774914,Growing
+2020,Liechtenstein,1.46,18.65504166,Collapsing
+2020,Sri Lanka,2.0,10.71571085,At Risk of collapsing
+2020,Lower middle income,2.709193495,5.439316822,Growing
+2020,Low & middle income,2.457281619,7.422551547,Growing
+2020,Lesotho,3.049,3.788880259,Growing
+2020,Late-demographic dividend,1.467598053,12.01315469,At Risk of collapsing
+2020,Lithuania,1.48,19.93415397,Collapsing
+2020,Luxembourg,1.36,14.58522638,At Risk of collapsing
+2020,Latvia,1.55,20.67217096,Collapsing
+2020,"Macao SAR, China",1.072,11.31163657,At Risk of collapsing
+2020,St. Martin (French part),2.448,18.1432077,At Risk of collapsing
+2020,Morocco,2.353,6.97052127,Growing
+2020,Moldova,1.77,14.29117884,At Risk of collapsing
+2020,Madagascar,3.918,3.153564226,Growing
+2020,Maldives,1.712,3.869704064,At Risk of collapsing
+2020,Middle East & North Africa,2.666865558,5.166278269,Growing
+2020,Mexico,1.905,7.486079875,At Risk of collapsing
+2020,Marshall Islands,2.777,3.704354138,Growing
+2020,Middle income,2.208582122,7.925002363,Growing
+2020,North Macedonia,1.31,16.34633901,Collapsing
+2020,Mali,6.035,2.490598678,Growing
+2020,Malta,1.13,18.49976795,Collapsing
+2020,Myanmar,2.174,6.507815682,Growing
+2020,Middle East & North Africa (excluding high income),2.713292064,5.35124163,Growing
+2020,Montenegro,1.75,16.64067705,Collapsing
+2020,Mongolia,2.9,4.306357859,Growing
+2020,Mozambique,4.713,2.811069941,Growing
+2020,Mauritania,4.455,3.260113679,Growing
+2020,Mauritius,1.44,11.40117501,At Risk of collapsing
+2020,Malawi,3.995,2.707650999,Growing
+2020,Malaysia,1.818,6.724906139,At Risk of collapsing
+2020,North America,1.617616702,16.26926269,Collapsing
+2020,Namibia,3.349,3.575211685,Growing
+2020,New Caledonia,2.05,10.25471846,At Risk of collapsing
+2020,Niger,6.892,2.52637349,Growing
+2020,Nigeria,5.309,2.981311381,Growing
+2020,Nicaragua,2.349,5.160696435,Growing
+2020,Netherlands,1.54,19.37039523,Collapsing
+2020,Norway,1.48,17.72818393,Collapsing
+2020,Nepal,2.055,6.088524551,At Risk of collapsing
+2020,Nauru,3.571,2.117151937,Growing
+2020,New Zealand,1.61,15.62071798,Collapsing
+2020,OECD members,1.589190517,17.26386352,Collapsing
+2020,Oman,2.687,2.607022471,Growing
+2020,Other small states,2.156079955,8.930138284,Growing
+2020,Pakistan,3.555,4.022657772,Growing
+2020,Panama,2.344,8.293416124,Growing
+2020,Peru,2.216,8.718075031,Growing
+2020,Philippines,2.777,4.725674311,Growing
+2020,Palau,0.85,9.521133094,At Risk of collapsing
+2020,Papua New Guinea,3.274,3.110558439,Growing
+2020,Poland,1.39,18.07604682,Collapsing
+2020,Pre-demographic dividend,4.923317584,2.839244852,Growing
+2020,Puerto Rico,0.922,22.45383959,Collapsing
+2020,"Korea, Dem. People's Rep.",1.818,11.08864939,At Risk of collapsing
+2020,Portugal,1.41,22.8627034,Collapsing
+2020,Paraguay,2.497,6.150038172,Growing
+2020,West Bank and Gaza,3.57,3.575394718,Growing
+2020,Pacific island small states,3.271892643,4.895448355,Growing
+2020,Post-demographic dividend,1.474960793,19.51633466,Collapsing
+2020,French Polynesia,1.705,9.206365124,At Risk of collapsing
+2020,Qatar,1.816,1.247692513,At Risk of collapsing
+2020,Romania,1.8,19.0166657,Collapsing
+2020,Russian Federation,1.505,15.47214224,Collapsing
+2020,Rwanda,3.873,3.475701557,Growing
+2020,South Asia,2.267753202,6.029375262,Growing
+2020,Saudi Arabia,2.465,2.522581647,Growing
+2020,Sudan,4.542,2.989897398,Growing
+2020,Senegal,4.454,3.527465943,Growing
+2020,Singapore,1.1,11.58494777,At Risk of collapsing
+2020,Solomon Islands,4.038,3.702763473,Growing
+2020,Sierra Leone,4.08,3.14095012,Growing
+2020,El Salvador,1.819,7.709730109,At Risk of collapsing
+2020,Somalia,6.417,2.537229996,Growing
+2020,Serbia,1.48,21.57087512,Collapsing
+2020,Sub-Saharan Africa (excluding high income),4.667186269,3.079882253,Growing
+2020,South Sudan,4.543,2.693937365,Growing
+2020,Sub-Saharan Africa,4.666994707,3.080261103,Growing
+2020,Small states,2.279168075,8.286857675,Growing
+2020,Sao Tome and Principe,3.893,3.840006991,Growing
+2020,Suriname,2.371,6.983561606,Growing
+2020,Slovak Republic,1.59,16.7640891,Collapsing
+2020,Slovenia,1.59,20.12138871,Collapsing
+2020,Sweden,1.67,20.0599854,Collapsing
+2020,Eswatini,2.89,3.874851758,Growing
+2020,Sint Maarten (Dutch part),1.591,11.48204597,At Risk of collapsing
+2020,Seychelles,2.29,7.577873656,Growing
+2020,Syrian Arab Republic,2.798,4.547596042,Growing
+2020,Turks and Caicos Islands,1.679,10.07761544,At Risk of collapsing
+2020,Chad,6.346,2.047733371,Growing
+2020,East Asia & Pacific (IDA & IBRD countries),1.597557398,10.79106883,At Risk of collapsing
+2020,Europe & Central Asia (IDA & IBRD countries),1.827293257,13.20462752,At Risk of collapsing
+2020,Togo,4.323,3.036689591,Growing
+2020,Thailand,1.341,12.89798529,At Risk of collapsing
+2020,Tajikistan,3.237,3.260066443,Growing
+2020,Turkmenistan,2.701,3.797724345,Growing
+2020,Latin America & the Caribbean (IDA & IBRD countries),1.896858938,8.637190464,At Risk of collapsing
+2020,Timor-Leste,3.247,5.535636383,Growing
+2020,Middle East & North Africa (IDA & IBRD countries),2.70351427,5.371862214,Growing
+2020,Tonga,3.267,6.335173386,Growing
+2020,South Asia (IDA & IBRD),2.267753202,6.029375262,Growing
+2020,Sub-Saharan Africa (IDA & IBRD countries),4.666994707,3.080261103,Growing
+2020,Trinidad and Tobago,1.631,10.44416243,At Risk of collapsing
+2020,Tunisia,2.114,8.281775341,Growing
+2020,Turkiye,1.917,8.963864417,At Risk of collapsing
+2020,Tuvalu,3.188,5.726236838,Growing
+2020,Tanzania,4.795,3.018990559,Growing
+2020,Uganda,4.693,2.06185945,Growing
+2020,Ukraine,1.217,17.09632502,Collapsing
+2020,Upper middle income,1.656188526,10.56575039,At Risk of collapsing
+2020,Uruguay,1.477,15.32584302,Collapsing
+2020,United States,1.6415,16.07191194,Collapsing
+2020,Uzbekistan,2.904,5.308654653,Growing
+2020,St. Vincent and the Grenadines,1.814,10.77748585,At Risk of collapsing
+2020,"Venezuela, RB",2.23,8.265059747,Growing
+2020,British Virgin Islands,0.976,8.325142388,At Risk of collapsing
+2020,Virgin Islands (U.S.),2.03,21.19170187,Collapsing
+2020,Viet Nam,1.955,7.56724482,At Risk of collapsing
+2020,Vanuatu,3.778,4.059613496,Growing
+2020,World,2.307788576,9.33229332,Growing
+2020,Samoa,3.997,5.298333522,Growing
+2020,Kosovo,1.529,8.721452401,At Risk of collapsing
+2020,"Yemen, Rep.",3.886,2.546604334,Growing
+2020,South Africa,2.401,6.109488991,Growing
+2020,Zambia,4.379,1.808276181,Growing
+2020,Zimbabwe,3.545,3.581673817,Growing
+2021,Aruba,1.18,15.12951152,Collapsing
+2021,Africa Eastern and Southern,4.348564066,3.216572769,Growing
+2021,Afghanistan,4.643,2.352549519,Growing
+2021,Africa Western and Central,4.984758775,2.923993205,Growing
+2021,Angola,5.304,2.744704116,Growing
+2021,Albania,1.39,15.26600507,Collapsing
+2021,Arab World,3.16251067,4.339113743,Growing
+2021,United Arab Emirates,1.46,1.619233045,At Risk of collapsing
+2021,Argentina,1.885,11.91862078,At Risk of collapsing
+2021,Armenia,1.575,12.60019472,At Risk of collapsing
+2021,Antigua and Barbuda,1.58,10.27894184,At Risk of collapsing
+2021,Australia,1.7,16.74918736,Collapsing
+2021,Austria,1.48,19.46285272,Collapsing
+2021,Azerbaijan,1.52,7.146682837,At Risk of collapsing
+2021,Burundi,5.078,2.46187926,Growing
+2021,Belgium,1.6,19.45205205,Collapsing
+2021,Benin,4.973,3.04703492,Growing
+2021,Burkina Faso,4.772,2.579178143,Growing
+2021,Bangladesh,1.981,5.973813331,At Risk of collapsing
+2021,Bulgaria,1.58,21.70322174,Collapsing
+2021,Bahrain,1.811,3.464160635,At Risk of collapsing
+2021,"Bahamas, The",1.389,11.09195127,At Risk of collapsing
+2021,Bosnia and Herzegovina,1.35,20.67769266,Collapsing
+2021,Belarus,1.483,16.06976916,Collapsing
+2021,Belize,2.01,4.598497773,At Risk of collapsing
+2021,Bermuda,1.3,19.44453038,Collapsing
+2021,Bolivia,2.618,5.520764454,Growing
+2021,Brazil,1.641,9.91109991,At Risk of collapsing
+2021,Barbados,1.633,15.26210674,Collapsing
+2021,Brunei Darussalam,1.778,5.923020983,At Risk of collapsing
+2021,Bhutan,1.413,6.126638824,At Risk of collapsing
+2021,Botswana,2.791,3.869031941,Growing
+2021,Central African Republic,5.978,2.221767962,Growing
+2021,Canada,1.44,18.48225923,Collapsing
+2021,Central Europe and the Baltics,1.554748016,19.50210321,Collapsing
+2021,Switzerland,1.52,18.92802977,Collapsing
+2021,Channel Islands,1.457,19.1062786,Collapsing
+2021,Chile,1.537,12.95643362,At Risk of collapsing
+2021,China,1.164,13.20574103,At Risk of collapsing
+2021,Cote d'Ivoire,4.418,2.507520605,Growing
+2021,Cameroon,4.463,2.766102616,Growing
+2021,"Congo, Dem. Rep.",6.156,3.073628166,Growing
+2021,"Congo, Rep.",4.171,2.797562465,Growing
+2021,Colombia,1.717,8.71354982,At Risk of collapsing
+2021,Comoros,3.978,4.455650964,Growing
+2021,Cabo Verde,1.896,6.13617756,At Risk of collapsing
+2021,Costa Rica,1.533,10.86537269,At Risk of collapsing
+2021,Caribbean small states,1.992744599,8.409254166,At Risk of collapsing
+2021,Cuba,1.442,15.74457805,Collapsing
+2021,Curacao,1.4,15.3428361,Collapsing
+2021,Cyprus,1.321,13.85142508,At Risk of collapsing
+2021,Czechia,1.83,20.53715417,Collapsing
+2021,Germany,1.58,22.13453737,Collapsing
+2021,Djibouti,2.804,4.541056038,Growing
+2021,Dominica,1.595,12.41108896,At Risk of collapsing
+2021,Denmark,1.72,20.24812625,Collapsing
+2021,Dominican Republic,2.273,7.02934528,Growing
+2021,Algeria,2.889,6.014041344,Growing
+2021,East Asia & Pacific (excluding high income),1.5238564,11.22239557,At Risk of collapsing
+2021,Early-demographic dividend,2.352524748,6.122218353,Growing
+2021,East Asia & Pacific,1.492438811,12.4454991,At Risk of collapsing
+2021,Europe & Central Asia (excluding high income),2.104870205,10.56510288,Growing
+2021,Europe & Central Asia,1.697321763,17.11427901,Collapsing
+2021,Ecuador,2.026,7.670366125,At Risk of collapsing
+2021,"Egypt, Arab Rep.",2.917,4.740911903,Growing
+2021,Euro area,1.509370588,21.37463463,Collapsing
+2021,Eritrea,3.867,4.100611817,Growing
+2021,Spain,1.19,19.81338229,Collapsing
+2021,Estonia,1.61,20.4337978,Collapsing
+2021,Ethiopia,4.159,3.093611975,Growing
+2021,European Union,1.523880761,20.97384051,Collapsing
+2021,Fragile and conflict affected situations,4.37296522,4.014701314,Growing
+2021,Finland,1.46,22.87495657,Collapsing
+2021,Fiji,2.475,6.103668441,Growing
+2021,France,1.84,21.05075397,Collapsing
+2021,Faroe Islands,2.3162,17.8358349,At Risk of collapsing
+2021,"Micronesia, Fed. Sts.",2.711,5.287369708,Growing
+2021,Gabon,3.491,3.9954189,Growing
+2021,United Kingdom,1.56,18.71864877,Collapsing
+2021,Georgia,2.081,14.98884373,At Risk of collapsing
+2021,Ghana,3.563,3.506690696,Growing
+2021,Gibraltar,1.848,17.32843171,Collapsing
+2021,Guinea,4.399,3.431282987,Growing
+2021,"Gambia, The",4.684,2.821282297,Growing
+2021,Guinea-Bissau,4.005,3.046761978,Growing
+2021,Equatorial Guinea,4.266,3.52077981,Growing
+2021,Greece,1.43,22.83895334,Collapsing
+2021,Grenada,2.004,11.22785217,At Risk of collapsing
+2021,Greenland,1.82,9.186049624,At Risk of collapsing
+2021,Guatemala,2.395,4.576811159,Growing
+2021,Guam,2.569,11.19373359,Growing
+2021,Guyana,2.397,6.081250107,Growing
+2021,High income,1.536534228,18.54953789,Collapsing
+2021,"Hong Kong SAR, China",0.772,19.75489944,Collapsing
+2021,Honduras,2.363,4.070641664,Growing
+2021,Heavily indebted poor countries (HIPC),4.628201595,2.951895661,Growing
+2021,Croatia,1.62,22.10066733,Collapsing
+2021,Haiti,2.814,4.484255515,Growing
+2021,Hungary,1.61,20.40501349,Collapsing
+2021,IBRD only,1.827371694,9.448656639,At Risk of collapsing
+2021,IDA & IBRD total,2.39365136,7.898706514,Growing
+2021,IDA total,3.935296972,3.737746398,Growing
+2021,IDA blend,4.091335517,3.56105039,Growing
+2021,Indonesia,2.175,6.687010658,Growing
+2021,IDA only,3.859533601,3.826183719,Growing
+2021,Isle of Man,1.564,22.04671514,Collapsing
+2021,India,2.031,6.545790693,At Risk of collapsing
+2021,Ireland,1.78,14.85357594,At Risk of collapsing
+2021,"Iran, Islamic Rep.",1.692,7.405182183,At Risk of collapsing
+2021,Iraq,3.496,3.381047301,Growing
+2021,Iceland,1.82,14.8686345,At Risk of collapsing
+2021,Israel,3.0,12.1979896,Growing
+2021,Italy,1.25,23.66197355,Collapsing
+2021,Jamaica,1.352,7.31190234,At Risk of collapsing
+2021,Jordan,2.83,4.006553738,Growing
+2021,Japan,1.3,29.21699707,Collapsing
+2021,Kazakhstan,3.32,7.776630233,Growing
+2021,Kenya,3.335,2.818603948,Growing
+2021,Kyrgyz Republic,2.89,5.110755792,Growing
+2021,Cambodia,2.344,5.594714906,Growing
+2021,Kiribati,3.304,3.957484596,Growing
+2021,St. Kitts and Nevis,1.531,9.865705793,At Risk of collapsing
+2021,"Korea, Rep.",0.808,16.65964122,Collapsing
+2021,Kuwait,2.11,3.423305417,Growing
+2021,Latin America & Caribbean (excluding high income),1.852995751,8.79274859,At Risk of collapsing
+2021,Lao PDR,2.496,4.31806849,Growing
+2021,Lebanon,2.091,9.304471757,At Risk of collapsing
+2021,Liberia,4.089,3.232906593,Growing
+2021,Libya,2.462,4.672197949,Growing
+2021,St. Lucia,1.399,8.833365075,At Risk of collapsing
+2021,Latin America & Caribbean,1.855179946,9.026813688,At Risk of collapsing
+2021,Least developed countries: UN classification,4.001018316,3.653380496,Growing
+2021,Low income,4.626085455,3.17699053,Growing
+2021,Liechtenstein,1.53,19.07975617,Collapsing
+2021,Sri Lanka,1.99,11.04564498,At Risk of collapsing
+2021,Lower middle income,2.684125742,5.535340921,Growing
+2021,Low & middle income,2.42165555,7.60766518,Growing
+2021,Lesotho,3.018,3.785116527,Growing
+2021,Late-demographic dividend,1.397733524,12.46365914,At Risk of collapsing
+2021,Lithuania,1.36,19.94698491,Collapsing
+2021,Luxembourg,1.38,14.71534062,At Risk of collapsing
+2021,Latvia,1.57,20.8461609,Collapsing
+2021,"Macao SAR, China",1.088,12.03351949,At Risk of collapsing
+2021,St. Martin (French part),2.415,15.8556123,At Risk of collapsing
+2021,Morocco,2.328,7.218416297,Growing
+2021,Moldova,1.806,14.69755473,At Risk of collapsing
+2021,Madagascar,3.851,3.207303014,Growing
+2021,Maldives,1.692,3.927901293,At Risk of collapsing
+2021,Middle East & North Africa,2.634189701,5.261981115,Growing
+2021,Mexico,1.822,7.585758736,At Risk of collapsing
+2021,Marshall Islands,2.729,3.867817342,Growing
+2021,Middle income,2.170579072,8.140338223,Growing
+2021,North Macedonia,1.6,16.72439337,Collapsing
+2021,Mali,5.956,2.453714174,Growing
+2021,Malta,1.13,18.77210363,Collapsing
+2021,Myanmar,2.151,6.686449285,Growing
+2021,Middle East & North Africa (excluding high income),2.677128488,5.442686441,Growing
+2021,Montenegro,1.75,16.91287827,Collapsing
+2021,Mongolia,2.837,4.434923888,Growing
+2021,Mozambique,4.644,2.790641419,Growing
+2021,Mauritania,4.398,3.2214687,Growing
+2021,Mauritius,1.41,11.90150853,At Risk of collapsing
+2021,Malawi,3.917,2.653761926,Growing
+2021,Malaysia,1.803,6.958605886,At Risk of collapsing
+2021,North America,1.640835683,16.6816698,Collapsing
+2021,Namibia,3.303,3.545287884,Growing
+2021,New Caledonia,2.05,10.50877587,At Risk of collapsing
+2021,Niger,6.82,2.537053906,Growing
+2021,Nigeria,5.237,2.990339009,Growing
+2021,Nicaragua,2.321,5.163948452,Growing
+2021,Netherlands,1.62,19.66180883,Collapsing
+2021,Norway,1.55,18.07402261,Collapsing
+2021,Nepal,2.029,6.110869852,At Risk of collapsing
+2021,Nauru,3.519,2.220608959,Growing
+2021,New Zealand,1.64,16.04657794,Collapsing
+2021,OECD members,1.590652014,17.57243576,Collapsing
+2021,Oman,2.623,2.615964629,Growing
+2021,Other small states,2.135768299,9.066305486,Growing
+2021,Pakistan,3.47,4.05217393,Growing
+2021,Panama,2.325,8.50886166,Growing
+2021,Peru,2.192,8.75409226,Growing
+2021,Philippines,2.748,4.880730445,Growing
+2021,Papua New Guinea,3.215,3.170955735,Growing
+2021,Poland,1.33,18.5352369,Collapsing
+2021,Pre-demographic dividend,4.851350883,2.848331595,Growing
+2021,Puerto Rico,0.907,23.20577215,Collapsing
+2021,"Korea, Dem. People's Rep.",1.809,11.28249774,At Risk of collapsing
+2021,Portugal,1.35,23.2908706,Collapsing
+2021,Paraguay,2.469,6.187540974,Growing
+2021,West Bank and Gaza,3.504,3.630266547,Growing
+2021,Pacific island small states,3.253357953,4.948156663,Growing
+2021,Post-demographic dividend,1.488711185,19.86330631,Collapsing
+2021,French Polynesia,1.699,9.652885,At Risk of collapsing
+2021,Qatar,1.801,1.303862689,At Risk of collapsing
+2021,Romania,1.81,19.32696583,Collapsing
+2021,Russian Federation,1.505,15.73339879,Collapsing
+2021,Rwanda,3.821,3.605657995,Growing
+2021,South Asia,2.241069955,6.140626481,Growing
+2021,Saudi Arabia,2.427,2.618554308,Growing
+2021,Sudan,4.457,3.053637258,Growing
+2021,Senegal,4.387,3.543105685,Growing
+2021,Singapore,1.12,12.25819422,At Risk of collapsing
+2021,Solomon Islands,3.983,3.654905674,Growing
+2021,Sierra Leone,3.978,3.151594112,Growing
+2021,El Salvador,1.803,7.762443429,At Risk of collapsing
+2021,Somalia,6.312,2.537097171,Growing
+2021,Serbia,1.52,21.88860101,Collapsing
+2021,Sub-Saharan Africa (excluding high income),4.600812036,3.097602792,Growing
+2021,South Sudan,4.469,2.761693132,Growing
+2021,Sub-Saharan Africa,4.600645254,3.097999675,Growing
+2021,Small states,2.260656214,8.416253776,Growing
+2021,Sao Tome and Principe,3.823,3.831754227,Growing
+2021,Suriname,2.348,7.164393361,Growing
+2021,Slovak Republic,1.63,17.16488825,Collapsing
+2021,Slovenia,1.64,20.4309073,Collapsing
+2021,Sweden,1.67,20.19678323,Collapsing
+2021,Eswatini,2.839,3.922903613,Growing
+2021,Sint Maarten (Dutch part),1.581,12.31988646,At Risk of collapsing
+2021,Seychelles,2.46,7.891858929,Growing
+2021,Syrian Arab Republic,2.747,4.618467856,Growing
+2021,Turks and Caicos Islands,1.669,10.33076575,At Risk of collapsing
+2021,Chad,6.255,2.047279003,Growing
+2021,East Asia & Pacific (IDA & IBRD countries),1.520273892,11.22158462,At Risk of collapsing
+2021,Europe & Central Asia (IDA & IBRD countries),1.840655488,13.43652255,At Risk of collapsing
+2021,Togo,4.257,3.072593717,Growing
+2021,Thailand,1.331,13.49202979,At Risk of collapsing
+2021,Tajikistan,3.186,3.339811939,Growing
+2021,Turkmenistan,2.667,3.886630137,Growing
+2021,Latin America & the Caribbean (IDA & IBRD countries),1.865823982,8.829567459,At Risk of collapsing
+2021,Timor-Leste,3.149,5.481178412,Growing
+2021,Middle East & North Africa (IDA & IBRD countries),2.667574642,5.463926584,Growing
+2021,Tonga,3.237,6.421966167,Growing
+2021,South Asia (IDA & IBRD),2.241069955,6.140626481,Growing
+2021,Sub-Saharan Africa (IDA & IBRD countries),4.600645254,3.097999675,Growing
+2021,Trinidad and Tobago,1.626,10.91551319,At Risk of collapsing
+2021,Tunisia,2.086,8.557887012,At Risk of collapsing
+2021,Turkiye,1.889,9.384959859,At Risk of collapsing
+2021,Tuvalu,3.163,5.758571639,Growing
+2021,Tanzania,4.726,3.027789313,Growing
+2021,Uganda,4.585,2.085775653,Growing
+2021,Ukraine,1.16,17.38806767,Collapsing
+2021,Upper middle income,1.592134785,10.9318298,At Risk of collapsing
+2021,Uruguay,1.493,15.48398009,Collapsing
+2021,United States,1.664,16.47377002,Collapsing
+2021,Uzbekistan,3.173,5.410006055,Growing
+2021,St. Vincent and the Grenadines,1.797,10.96692953,At Risk of collapsing
+2021,"Venezuela, RB",2.211,8.631562146,Growing
+2021,British Virgin Islands,1.005,8.575887013,At Risk of collapsing
+2021,Virgin Islands (U.S.),2.01,21.45936278,Collapsing
+2021,Viet Nam,1.944,7.885703475,At Risk of collapsing
+2021,Vanuatu,3.735,4.096204742,Growing
+2021,World,2.281591961,9.527387093,Growing
+2021,Samoa,3.93,5.420785016,Growing
+2021,Kosovo,1.522,8.890143275,At Risk of collapsing
+2021,"Yemen, Rep.",3.795,2.518881782,Growing
+2021,South Africa,2.374,6.234625549,Growing
+2021,Zambia,4.308,1.826962206,Growing
+2021,Zimbabwe,3.491,3.597973946,Growing
+2022,Aruba,1.179,15.70020968,Collapsing
+2022,Africa Eastern and Southern,4.281847546,3.246111381,Growing
+2022,Afghanistan,4.523,2.355142367,Growing
+2022,Africa Western and Central,4.903347179,2.939791791,Growing
+2022,Angola,5.209,2.77333856,Growing
+2022,Albania,1.376,15.77633816,Collapsing
+2022,Arab World,3.113797396,4.410690327,Growing
+2022,United Arab Emirates,1.443,1.639739129,At Risk of collapsing
+2022,Argentina,1.876,12.03408001,At Risk of collapsing
+2022,Armenia,1.575,12.91515823,At Risk of collapsing
+2022,Antigua and Barbuda,1.58,10.72867299,At Risk of collapsing
+2022,Australia,1.63,17.07503205,Collapsing
+2022,Austria,1.41,19.78975092,Collapsing
+2022,Azerbaijan,1.67,7.52651403,At Risk of collapsing
+2022,Burundi,4.98,2.485849983,Growing
+2022,Belgium,1.53,19.76719276,Collapsing
+2022,Benin,4.895,3.062531231,Growing
+2022,Burkina Faso,4.665,2.594655476,Growing
+2022,Bangladesh,1.95,6.135157652,At Risk of collapsing
+2022,Bulgaria,1.78,21.69729722,Collapsing
+2022,Bahrain,1.797,3.498952368,At Risk of collapsing
+2022,"Bahamas, The",1.38,11.25211772,At Risk of collapsing
+2022,Bosnia and Herzegovina,1.346,21.10326941,Collapsing
+2022,Belarus,1.495,16.5067849,Collapsing
+2022,Belize,1.989,4.708330333,At Risk of collapsing
+2022,Bermuda,1.3,20.14177935,Collapsing
+2022,Bolivia,2.584,5.479080585,Growing
+2022,Brazil,1.626,10.25178478,At Risk of collapsing
+2022,Barbados,1.634,15.69878647,Collapsing
+2022,Brunei Darussalam,1.764,6.201776799,At Risk of collapsing
+2022,Bhutan,1.398,6.245754177,At Risk of collapsing
+2022,Botswana,2.754,3.880152048,Growing
+2022,Central African Republic,5.918,2.143696611,Growing
+2022,Canada,1.33,18.94074713,Collapsing
+2022,Central Europe and the Baltics,1.495629348,19.77985178,Collapsing
+2022,Switzerland,1.39,19.21866495,Collapsing
+2022,Channel Islands,1.469,19.34354368,Collapsing
+2022,Chile,1.539,13.30008002,At Risk of collapsing
+2022,China,1.175,13.78193035,At Risk of collapsing
+2022,Cote d'Ivoire,4.342,2.532821021,Growing
+2022,Cameroon,4.383,2.763171982,Growing
+2022,"Congo, Dem. Rep.",6.106,3.066046838,Growing
+2022,"Congo, Rep.",4.095,2.849859754,Growing
+2022,Colombia,1.692,9.006556281,At Risk of collapsing
+2022,Comoros,3.912,4.455290654,Growing
+2022,Cabo Verde,1.879,6.328729117,At Risk of collapsing
+2022,Costa Rica,1.522,11.26206262,At Risk of collapsing
+2022,Caribbean small states,1.975362005,8.595510134,At Risk of collapsing
+2022,Cuba,1.449,15.87587773,Collapsing
+2022,Curacao,1.3,15.79464187,Collapsing
+2022,Cyprus,1.311,14.07794227,At Risk of collapsing
+2022,Czechia,1.617746603,20.51831065,Collapsing
+2022,Germany,1.455,22.45890638,Collapsing
+2022,Djibouti,2.757,4.62735776,Growing
+2022,Dominica,1.588,12.58557608,At Risk of collapsing
+2022,Denmark,1.55,20.40074008,Collapsing
+2022,Dominican Republic,2.247,7.287133116,Growing
+2022,Algeria,2.829,6.186963524,Growing
+2022,East Asia & Pacific (excluding high income),1.52894207,11.669631,At Risk of collapsing
+2022,Early-demographic dividend,2.328000802,6.25278969,Growing
+2022,East Asia & Pacific,1.492945874,12.88385447,At Risk of collapsing
+2022,Europe & Central Asia (excluding high income),2.135584644,10.73034873,Growing
+2022,Europe & Central Asia,1.661523558,17.39571841,Collapsing
+2022,Ecuador,2.003,7.850401627,At Risk of collapsing
+2022,"Egypt, Arab Rep.",2.878,4.8284035,Growing
+2022,Euro area,1.449131393,21.68770114,Collapsing
+2022,Eritrea,3.786,4.116048732,Growing
+2022,Spain,1.16,20.18799925,Collapsing
+2022,Estonia,1.41,20.63004619,Collapsing
+2022,Ethiopia,4.063,3.124416232,Growing
+2022,European Union,1.461520633,21.27643586,Collapsing
+2022,Fragile and conflict affected situations,4.324849527,4.005922801,Growing
+2022,Finland,1.32,23.22876721,Collapsing
+2022,Fiji,2.462,6.209281483,Growing
+2022,France,1.794,21.37734912,Collapsing
+2022,Faroe Islands,2.0497,17.79267186,Collapsing
+2022,"Micronesia, Fed. Sts.",2.669,5.519406673,Growing
+2022,Gabon,3.46,4.011338901,Growing
+2022,United Kingdom,1.57,18.93031472,Collapsing
+2022,Georgia,2.063,15.0869213,Collapsing
+2022,Ghana,3.507,3.56150287,Growing
+2022,Gibraltar,1.837,17.33737487,Collapsing
+2022,Guinea,4.303,3.431040907,Growing
+2022,"Gambia, The",4.586,2.889792033,Growing
+2022,Guinea-Bissau,3.925,3.090292273,Growing
+2022,Equatorial Guinea,4.17,3.567501781,Growing
+2022,Greece,1.43,23.22817427,Collapsing
+2022,Grenada,1.986,11.5213877,At Risk of collapsing
+2022,Greenland,1.839,9.578410623,At Risk of collapsing
+2022,Guatemala,2.354,4.629892396,Growing
+2022,Guam,2.55,11.64123986,Growing
+2022,Guyana,2.369,6.222455902,Growing
+2022,High income,1.495946204,18.86497224,Collapsing
+2022,"Hong Kong SAR, China",0.701,20.68442381,Collapsing
+2022,Honduras,2.34,4.166650739,Growing
+2022,Heavily indebted poor countries (HIPC),4.554414832,2.970038157,Growing
+2022,Croatia,1.53,22.48470512,Collapsing
+2022,Haiti,2.773,4.540719667,Growing
+2022,Hungary,1.52,20.60755931,Collapsing
+2022,IBRD only,1.819041428,9.733388264,At Risk of collapsing
+2022,IDA & IBRD total,2.382880883,8.098932154,Growing
+2022,IDA total,3.88160314,3.783039775,Growing
+2022,IDA blend,4.034997713,3.603752916,Growing
+2022,Indonesia,2.153,6.82466626,Growing
+2022,IDA only,3.807184022,3.872537378,Growing
+2022,Isle of Man,1.571,22.30067038,Collapsing
+2022,India,2.011,6.698999754,At Risk of collapsing
+2022,Ireland,1.7,15.16194031,Collapsing
+2022,"Iran, Islamic Rep.",1.681,7.629000262,At Risk of collapsing
+2022,Iraq,3.445,3.39760558,Growing
+2022,Iceland,1.589,15.11099485,Collapsing
+2022,Israel,2.89,12.30303661,Growing
+2022,Italy,1.24,23.92918969,Collapsing
+2022,Jamaica,1.34,7.537113299,At Risk of collapsing
+2022,Jordan,2.786,4.14208054,Growing
+2022,Japan,1.26,29.40264731,Collapsing
+2022,Kazakhstan,3.05,7.985416636,Growing
+2022,Kenya,3.296,2.863919877,Growing
+2022,Kyrgyz Republic,2.8,5.19936059,Growing
+2022,Cambodia,2.322,5.766954108,Growing
+2022,Kiribati,3.271,4.015528653,Growing
+2022,St. Kitts and Nevis,1.512,10.23560518,At Risk of collapsing
+2022,"Korea, Rep.",0.778,17.48464634,Collapsing
+2022,Kuwait,2.092,2.746578312,At Risk of collapsing
+2022,Latin America & Caribbean (excluding high income),1.835213044,9.00296866,At Risk of collapsing
+2022,Lao PDR,2.448,4.417107669,Growing
+2022,Lebanon,2.08,9.513466691,At Risk of collapsing
+2022,Liberia,4.016,3.252539318,Growing
+2022,Libya,2.402,4.74866118,Growing
+2022,St. Lucia,1.387,9.003193852,At Risk of collapsing
+2022,Latin America & Caribbean,1.83783097,9.247812442,At Risk of collapsing
+2022,Least developed countries: UN classification,3.946309142,3.694312115,Growing
+2022,Low income,4.550631304,3.199584856,Growing
+2022,Liechtenstein,1.47,19.62637027,Collapsing
+2022,Sri Lanka,1.974,11.38243479,At Risk of collapsing
+2022,Lower middle income,2.658593258,5.65271899,Growing
+2022,Low & middle income,2.41228063,7.806567104,Growing
+2022,Lesotho,2.98,3.792970637,Growing
+2022,Late-demographic dividend,1.39354225,12.93158457,At Risk of collapsing
+2022,Lithuania,1.27,19.86075569,Collapsing
+2022,Luxembourg,1.31,14.84243758,At Risk of collapsing
+2022,Latvia,1.47,21.01176303,Collapsing
+2022,"Macao SAR, China",1.109,12.74205605,At Risk of collapsing
+2022,St. Martin (French part),2.385,16.34540448,At Risk of collapsing
+2022,Morocco,2.299,7.509813265,Growing
+2022,Moldova,1.8,15.11700142,Collapsing
+2022,Madagascar,3.791,3.26762489,Growing
+2022,Maldives,1.678,4.081613184,At Risk of collapsing
+2022,Middle East & North Africa,2.597140201,5.362440228,Growing
+2022,Mexico,1.803,7.74526984,At Risk of collapsing
+2022,Marshall Islands,2.672,4.112084238,Growing
+2022,Middle income,2.162511102,8.370932018,Growing
+2022,North Macedonia,1.6,17.0476782,Collapsing
+2022,Mali,5.867,2.426209138,Growing
+2022,Malta,1.15,19.28437008,Collapsing
+2022,Myanmar,2.127,6.877161326,Growing
+2022,Middle East & North Africa (excluding high income),2.642476676,5.564997415,Growing
+2022,Montenegro,1.8,17.1459251,Collapsing
+2022,Mongolia,2.774,4.616341038,Growing
+2022,Mozambique,4.561,2.773098904,Growing
+2022,Mauritania,4.342,3.208503503,Growing
+2022,Mauritius,1.32,12.39576391,At Risk of collapsing
+2022,Malawi,3.849,2.613219447,Growing
+2022,Malaysia,1.787,7.185639357,At Risk of collapsing
+2022,North America,1.629906112,17.13158561,Collapsing
+2022,Namibia,3.248,3.523214216,Growing
+2022,New Caledonia,2.02,10.79310957,At Risk of collapsing
+2022,Niger,6.749,2.550725698,Growing
+2022,Nigeria,5.143,3.00794222,Growing
+2022,Nicaragua,2.284,5.239364944,Growing
+2022,Netherlands,1.487,19.90128304,Collapsing
+2022,Norway,1.41,18.3301335,Collapsing
+2022,Nepal,2.008,6.1975197,At Risk of collapsing
+2022,Nauru,3.463,2.431997288,Growing
+2022,New Zealand,1.66,16.44638864,Collapsing
+2022,OECD members,1.558786163,17.89253265,Collapsing
+2022,Oman,2.567,2.657547441,Growing
+2022,Other small states,2.08268339,9.222320365,At Risk of collapsing
+2022,Pakistan,3.41,4.111677093,Growing
+2022,Panama,2.297,8.766300829,Growing
+2022,Peru,2.164,8.81067934,Growing
+2022,Philippines,2.725,5.041315183,Growing
+2022,Papua New Guinea,3.165,3.247020448,Growing
+2022,Poland,1.261,19.0192157,Collapsing
+2022,Pre-demographic dividend,4.773815737,2.864644267,Growing
+2022,Puerto Rico,0.9,23.81498,Collapsing
+2022,"Korea, Dem. People's Rep.",1.793,11.59305317,At Risk of collapsing
+2022,Portugal,1.43,23.68800352,Collapsing
+2022,Paraguay,2.444,6.230911074,Growing
+2022,West Bank and Gaza,3.436,3.702799292,Growing
+2022,Pacific island small states,3.221732923,5.007628049,Growing
+2022,Post-demographic dividend,1.461382635,20.22440971,Collapsing
+2022,French Polynesia,1.688,10.17269543,At Risk of collapsing
+2022,Qatar,1.781,1.391102022,At Risk of collapsing
+2022,Romania,1.81,19.51524702,Collapsing
+2022,Russian Federation,1.416,16.07553629,Collapsing
+2022,Rwanda,3.749,3.721448125,Growing
+2022,South Asia,2.215779001,6.277193582,Growing
+2022,Saudi Arabia,2.393,2.702494175,Growing
+2022,Sudan,4.384,3.125011042,Growing
+2022,Senegal,4.314,3.563392044,Growing
+2022,Singapore,1.04,12.6908966,At Risk of collapsing
+2022,Solomon Islands,3.925,3.62869463,Growing
+2022,Sierra Leone,3.876,3.175379296,Growing
+2022,El Salvador,1.785,7.861630914,At Risk of collapsing
+2022,Somalia,6.202,2.541813381,Growing
+2022,Serbia,1.63,22.07767434,Collapsing
+2022,Sub-Saharan Africa (excluding high income),4.528300927,3.121672021,Growing
+2022,South Sudan,4.337,2.835790459,Growing
+2022,Sub-Saharan Africa,4.528100547,3.122162167,Growing
+2022,Small states,2.216655478,8.564629298,Growing
+2022,Sao Tome and Principe,3.751,3.848567199,Growing
+2022,Suriname,2.322,7.355607834,Growing
+2022,Slovak Republic,1.57,17.5706372,Collapsing
+2022,Slovenia,1.55,20.88127143,Collapsing
+2022,Sweden,1.52,20.34190182,Collapsing
+2022,Eswatini,2.785,4.015041227,Growing
+2022,Sint Maarten (Dutch part),1.572,12.97625687,At Risk of collapsing
+2022,Seychelles,2.32,8.147543269,Growing
+2022,Syrian Arab Republic,2.704,4.666563308,Growing
+2022,Turks and Caicos Islands,1.658,10.60581275,At Risk of collapsing
+2022,Chad,6.215,2.055510782,Growing
+2022,East Asia & Pacific (IDA & IBRD countries),1.525642105,11.67052518,At Risk of collapsing
+2022,Europe & Central Asia (IDA & IBRD countries),1.826920897,13.68132884,At Risk of collapsing
+2022,Togo,4.196,3.115414156,Growing
+2022,Thailand,1.317,14.09678417,At Risk of collapsing
+2022,Tajikistan,3.141,3.472876549,Growing
+2022,Turkmenistan,2.617,4.044677646,Growing
+2022,Latin America & the Caribbean (IDA & IBRD countries),1.84783969,9.052874869,At Risk of collapsing
+2022,Timor-Leste,3.047,5.405261319,Growing
+2022,Middle East & North Africa (IDA & IBRD countries),2.633217137,5.586983658,Growing
+2022,Tonga,3.193,6.50073304,Growing
+2022,South Asia (IDA & IBRD),2.215779001,6.277193582,Growing
+2022,Sub-Saharan Africa (IDA & IBRD countries),4.528100547,3.122162167,Growing
+2022,Trinidad and Tobago,1.614,11.35811605,At Risk of collapsing
+2022,Tunisia,2.064,8.83897617,At Risk of collapsing
+2022,Turkiye,1.882,9.719520406,At Risk of collapsing
+2022,Tuvalu,3.144,5.884707766,Growing
+2022,Tanzania,4.661,3.03504981,Growing
+2022,Uganda,4.468,2.115204982,Growing
+2022,Ukraine,1.265,17.85693874,Collapsing
+2022,Upper middle income,1.592742094,11.31210328,At Risk of collapsing
+2022,Uruguay,1.483,15.61340559,Collapsing
+2022,United States,1.665,16.91962039,Collapsing
+2022,Uzbekistan,3.308,5.544956832,Growing
+2022,St. Vincent and the Grenadines,1.778,11.24345883,At Risk of collapsing
+2022,"Venezuela, RB",2.188,8.982038486,Growing
+2022,British Virgin Islands,1.015,8.857224875,At Risk of collapsing
+2022,Virgin Islands (U.S.),2.0,21.8115297,Collapsing
+2022,Viet Nam,1.941,8.230047746,At Risk of collapsing
+2022,Vanuatu,3.697,4.14986272,Growing
+2022,World,2.268237286,9.738727561,Growing
+2022,Samoa,3.875,5.556291098,Growing
+2022,Kosovo,1.51,9.239201931,At Risk of collapsing
+2022,"Yemen, Rep.",3.716,2.504076387,Growing
+2022,South Africa,2.341,6.361626563,Growing
+2022,Zambia,4.242,1.856089172,Growing
+2022,Zimbabwe,3.437,3.608227005,Growing
